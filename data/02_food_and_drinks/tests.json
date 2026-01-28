@@ -1,0 +1,2257 @@
+{
+  "category": "Food & Drinks",
+  "category_id": 2,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'apple' mean?",
+      "word": "apple",
+      "options": [
+        "Small round fruits that grow in bunches",
+        "A thick creamy dairy food",
+        "Sweet treats made with sugar",
+        "A round red or green fruit from trees"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "apple_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"She packed an ___ in her lunch.\"",
+      "word": "apple",
+      "options": [
+        "apple",
+        "cheese",
+        "fish",
+        "peach"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "apple_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A round red or green fruit from trees\"",
+      "word": "apple",
+      "options": [
+        "sandwich",
+        "grape",
+        "apple",
+        "mango"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "apple_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'banana' mean?",
+      "word": "banana",
+      "options": [
+        "A liquid added to food for flavor",
+        "An alcoholic drink made from grain",
+        "A hot drink made by steeping leaves",
+        "A long yellow fruit that monkeys love"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "banana_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ was perfectly ripe.\"",
+      "word": "banana",
+      "options": [
+        "banana",
+        "salt",
+        "water",
+        "wine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "banana_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A long yellow fruit that monkeys love\"",
+      "word": "banana",
+      "options": [
+        "banana",
+        "mango",
+        "chicken",
+        "strawberry"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "banana_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'orange' mean?",
+      "word": "orange",
+      "options": [
+        "A round citrus fruit with vitamin C",
+        "A large green fruit that is red inside",
+        "A dish made of mixed fresh vegetables",
+        "A white liquid from cows"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "orange_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I squeezed ___ juice for breakfast.\"",
+      "word": "orange",
+      "options": [
+        "lemonade",
+        "orange",
+        "salt",
+        "wine"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "orange_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A round citrus fruit with vitamin C\"",
+      "word": "orange",
+      "options": [
+        "water",
+        "orange",
+        "steak",
+        "pasta"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "orange_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grape' mean?",
+      "word": "grape",
+      "options": [
+        "A clear liquid essential for life",
+        "A tropical fruit with spiky skin",
+        "A drink made from squeezed fruits",
+        "Small round fruits that grow in bunches"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "grape_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"We picked ___ from the vine.\"",
+      "word": "grape",
+      "options": [
+        "salt",
+        "grape",
+        "chicken",
+        "fish"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "grape_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Small round fruits that grow in bunches\"",
+      "word": "grape",
+      "options": [
+        "grape",
+        "pineapple",
+        "ketchup",
+        "yogurt"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grape_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'strawberry' mean?",
+      "word": "strawberry",
+      "options": [
+        "A sweet fizzy drink",
+        "A small red fruit with seeds outside",
+        "Italian food made from wheat flour",
+        "A sandwich with a meat patty in a bun"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "strawberry_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ was sweet and juicy.\"",
+      "word": "strawberry",
+      "options": [
+        "chocolate",
+        "strawberry",
+        "yogurt",
+        "burger"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "strawberry_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A small red fruit with seeds outside\"",
+      "word": "strawberry",
+      "options": [
+        "salad",
+        "strawberry",
+        "steak",
+        "yogurt"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "strawberry_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'watermelon' mean?",
+      "word": "watermelon",
+      "options": [
+        "A sweet fizzy drink",
+        "A small red fruit with seeds outside",
+        "A thick creamy dairy food",
+        "A large green fruit that is red inside"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "watermelon_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"We ate ___ on a hot summer day.\"",
+      "word": "watermelon",
+      "options": [
+        "juice",
+        "beer",
+        "salad",
+        "watermelon"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "watermelon_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large green fruit that is red inside\"",
+      "word": "watermelon",
+      "options": [
+        "ketchup",
+        "watermelon",
+        "pizza",
+        "pineapple"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "watermelon_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pineapple' mean?",
+      "word": "pineapple",
+      "options": [
+        "A tropical fruit with spiky skin",
+        "A long yellow fruit that monkeys love",
+        "Meat from sea animals healthy protein",
+        "A yellow sauce with a strong taste"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pineapple_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ tasted sweet and tangy.\"",
+      "word": "pineapple",
+      "options": [
+        "pineapple",
+        "cheese",
+        "tea",
+        "juice"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pineapple_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A tropical fruit with spiky skin\"",
+      "word": "pineapple",
+      "options": [
+        "pineapple",
+        "wine",
+        "milk",
+        "apple"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pineapple_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mango' mean?",
+      "word": "mango",
+      "options": [
+        "A thick slice of meat usually beef",
+        "Meat from sea animals healthy protein",
+        "A sweet tropical fruit with orange flesh",
+        "A hot brown drink that helps you wake up"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "mango_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ was ripe and delicious.\"",
+      "word": "mango",
+      "options": [
+        "milkshake",
+        "mustard",
+        "mango",
+        "steak"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "mango_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sweet tropical fruit with orange flesh\"",
+      "word": "mango",
+      "options": [
+        "fish",
+        "mango",
+        "yogurt",
+        "soup"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "mango_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'peach' mean?",
+      "word": "peach",
+      "options": [
+        "A soft fuzzy fruit with a pit inside",
+        "A white liquid from cows",
+        "A clear liquid essential for life",
+        "Food with filling between two bread slices"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "peach_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ was juicy and sweet.\"",
+      "word": "peach",
+      "options": [
+        "cherry",
+        "ice cream",
+        "pepper",
+        "peach"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "peach_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A soft fuzzy fruit with a pit inside\"",
+      "word": "peach",
+      "options": [
+        "peach",
+        "banana",
+        "pepper",
+        "pineapple"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "peach_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cherry' mean?",
+      "word": "cherry",
+      "options": [
+        "A clear liquid essential for life",
+        "A sweet brown food made from cacao",
+        "A small sweet baked treat",
+        "A small round red fruit with a pit"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cherry_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"She put a ___ on top of the cake.\"",
+      "word": "cherry",
+      "options": [
+        "ice cream",
+        "tea",
+        "cherry",
+        "lemonade"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cherry_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A small round red fruit with a pit\"",
+      "word": "cherry",
+      "options": [
+        "cherry",
+        "soda",
+        "juice",
+        "orange"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cherry_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bread' mean?",
+      "word": "bread",
+      "options": [
+        "A soft fuzzy fruit with a pit inside",
+        "A common food made from flour and baked",
+        "An alcoholic drink made from grain",
+        "Meat from sea animals healthy protein"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bread_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"We need a loaf of ___ from the bakery.\"",
+      "word": "bread",
+      "options": [
+        "cake",
+        "cheese",
+        "mustard",
+        "bread"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bread_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A common food made from flour and baked\"",
+      "word": "bread",
+      "options": [
+        "bread",
+        "juice",
+        "candy",
+        "sauce"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bread_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rice' mean?",
+      "word": "rice",
+      "options": [
+        "A common food made from flour and baked",
+        "Small white grains eaten as staple food",
+        "A sweet drink made from lemons",
+        "A sandwich with a meat patty in a bun"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "rice_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"We had steamed ___ with dinner.\"",
+      "word": "rice",
+      "options": [
+        "rice",
+        "soda",
+        "watermelon",
+        "ketchup"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rice_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Small white grains eaten as staple food\"",
+      "word": "rice",
+      "options": [
+        "peach",
+        "rice",
+        "pineapple",
+        "fish"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "rice_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pasta' mean?",
+      "word": "pasta",
+      "options": [
+        "A small red fruit with seeds outside",
+        "A small sweet baked treat",
+        "Italian food made from wheat flour",
+        "A soft fuzzy fruit with a pit inside"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pasta_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Mom cooked ___ with tomato sauce.\"",
+      "word": "pasta",
+      "options": [
+        "sauce",
+        "steak",
+        "watermelon",
+        "pasta"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pasta_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Italian food made from wheat flour\"",
+      "word": "pasta",
+      "options": [
+        "pasta",
+        "apple",
+        "lemonade",
+        "sauce"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pasta_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'noodles' mean?",
+      "word": "noodles",
+      "options": [
+        "An alcoholic drink made from grain",
+        "Long thin strips of dough often in soup",
+        "A hot drink made by steeping leaves",
+        "A dish made of mixed fresh vegetables"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "noodles_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I ordered chicken ___ for lunch.\"",
+      "word": "noodles",
+      "options": [
+        "fish",
+        "noodles",
+        "salt",
+        "oil"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "noodles_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Long thin strips of dough often in soup\"",
+      "word": "noodles",
+      "options": [
+        "orange",
+        "beer",
+        "sugar",
+        "noodles"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "noodles_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pizza' mean?",
+      "word": "pizza",
+      "options": [
+        "A frozen sweet dessert",
+        "A flat round food with cheese and toppings",
+        "A white substance to flavor food",
+        "A sweet drink made from lemons"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pizza_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Let's order ___ for dinner tonight.\"",
+      "word": "pizza",
+      "options": [
+        "butter",
+        "tea",
+        "pizza",
+        "ketchup"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pizza_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A flat round food with cheese and toppings\"",
+      "word": "pizza",
+      "options": [
+        "pizza",
+        "noodles",
+        "tea",
+        "banana"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pizza_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'burger' mean?",
+      "word": "burger",
+      "options": [
+        "Small round fruits that grow in bunches",
+        "A round red or green fruit from trees",
+        "A sandwich with a meat patty in a bun",
+        "A sweet fizzy drink"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "burger_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"He ordered a ___ with fries.\"",
+      "word": "burger",
+      "options": [
+        "juice",
+        "mustard",
+        "wine",
+        "burger"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "burger_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sandwich with a meat patty in a bun\"",
+      "word": "burger",
+      "options": [
+        "lemonade",
+        "tea",
+        "burger",
+        "oil"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "burger_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sandwich' mean?",
+      "word": "sandwich",
+      "options": [
+        "A white liquid from cows",
+        "A small red fruit with seeds outside",
+        "A large green fruit that is red inside",
+        "Food with filling between two bread slices"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sandwich_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I made a cheese ___ for lunch.\"",
+      "word": "sandwich",
+      "options": [
+        "yogurt",
+        "coffee",
+        "vinegar",
+        "sandwich"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sandwich_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Food with filling between two bread slices\"",
+      "word": "sandwich",
+      "options": [
+        "grape",
+        "sandwich",
+        "steak",
+        "tea"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sandwich_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'salad' mean?",
+      "word": "salad",
+      "options": [
+        "A tropical fruit with spiky skin",
+        "Small white grains eaten as staple food",
+        "A liquid fat used for cooking",
+        "A dish made of mixed fresh vegetables"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "salad_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"She ordered a fresh ___ to be healthy.\"",
+      "word": "salad",
+      "options": [
+        "salad",
+        "pepper",
+        "milkshake",
+        "grape"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "salad_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A dish made of mixed fresh vegetables\"",
+      "word": "salad",
+      "options": [
+        "yogurt",
+        "orange",
+        "bread",
+        "salad"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "salad_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'soup' mean?",
+      "word": "soup",
+      "options": [
+        "A dairy product made from milk",
+        "A liquid food made by boiling ingredients",
+        "A round citrus fruit with vitamin C",
+        "An oval food laid by birds"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "soup_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The hot ___ warmed me up.\"",
+      "word": "soup",
+      "options": [
+        "soup",
+        "oil",
+        "cake",
+        "fish"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "soup_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A liquid food made by boiling ingredients\"",
+      "word": "soup",
+      "options": [
+        "egg",
+        "soup",
+        "cake",
+        "milkshake"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "soup_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'steak' mean?",
+      "word": "steak",
+      "options": [
+        "An alcoholic drink made from grain",
+        "A spice used to add flavor to food",
+        "A frozen sweet dessert",
+        "A thick slice of meat usually beef"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "steak_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"He ordered a medium-rare ___.\"",
+      "word": "steak",
+      "options": [
+        "pasta",
+        "pizza",
+        "pepper",
+        "steak"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "steak_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A thick slice of meat usually beef\"",
+      "word": "steak",
+      "options": [
+        "sandwich",
+        "beer",
+        "candy",
+        "steak"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "steak_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chicken' mean?",
+      "word": "chicken",
+      "options": [
+        "A large green fruit that is red inside",
+        "Meat from a bird commonly eaten worldwide",
+        "A flat round food with cheese and toppings",
+        "A soft fuzzy fruit with a pit inside"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chicken_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Mom cooked fried ___ for dinner.\"",
+      "word": "chicken",
+      "options": [
+        "fish",
+        "ketchup",
+        "ice cream",
+        "chicken"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "chicken_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Meat from a bird commonly eaten worldwide\"",
+      "word": "chicken",
+      "options": [
+        "ketchup",
+        "chicken",
+        "soda",
+        "burger"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chicken_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fish' mean?",
+      "word": "fish",
+      "options": [
+        "A clear liquid essential for life",
+        "Small round fruits that grow in bunches",
+        "Meat from sea animals healthy protein",
+        "A yellow dairy product for cooking"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "fish_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Grilled ___ is good for your health.\"",
+      "word": "fish",
+      "options": [
+        "fish",
+        "peach",
+        "soup",
+        "coffee"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fish_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Meat from sea animals healthy protein\"",
+      "word": "fish",
+      "options": [
+        "fish",
+        "butter",
+        "apple",
+        "soda"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fish_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'egg' mean?",
+      "word": "egg",
+      "options": [
+        "A thick drink made from blended fruits",
+        "Small white grains eaten as staple food",
+        "An oval food laid by birds",
+        "A hot drink made by steeping leaves"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "egg_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I had a boiled ___ for breakfast.\"",
+      "word": "egg",
+      "options": [
+        "egg",
+        "cookie",
+        "rice",
+        "lemonade"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "egg_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An oval food laid by birds\"",
+      "word": "egg",
+      "options": [
+        "egg",
+        "soup",
+        "juice",
+        "milk"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "egg_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cheese' mean?",
+      "word": "cheese",
+      "options": [
+        "A drink made from squeezed fruits",
+        "A dairy product made from milk",
+        "A long yellow fruit that monkeys love",
+        "An alcoholic drink made from grain"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cheese_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Add ___ to make it tastier.\"",
+      "word": "cheese",
+      "options": [
+        "salt",
+        "watermelon",
+        "cheese",
+        "water"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cheese_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A dairy product made from milk\"",
+      "word": "cheese",
+      "options": [
+        "cake",
+        "bread",
+        "burger",
+        "cheese"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cheese_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'butter' mean?",
+      "word": "butter",
+      "options": [
+        "A sweet baked dessert for celebrations",
+        "A sandwich with a meat patty in a bun",
+        "Meat from sea animals healthy protein",
+        "A yellow dairy product for cooking"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "butter_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Spread ___ on the toast.\"",
+      "word": "butter",
+      "options": [
+        "coffee",
+        "apple",
+        "butter",
+        "soda"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "butter_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A yellow dairy product for cooking\"",
+      "word": "butter",
+      "options": [
+        "salad",
+        "banana",
+        "butter",
+        "chocolate"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "butter_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'milk' mean?",
+      "word": "milk",
+      "options": [
+        "A small red fruit with seeds outside",
+        "A dairy product made from milk",
+        "A small sweet baked treat",
+        "A white liquid from cows"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "milk_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Drink ___ for strong bones.\"",
+      "word": "milk",
+      "options": [
+        "milk",
+        "bread",
+        "noodles",
+        "smoothie"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "milk_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A white liquid from cows\"",
+      "word": "milk",
+      "options": [
+        "steak",
+        "chicken",
+        "orange",
+        "milk"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "milk_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'yogurt' mean?",
+      "word": "yogurt",
+      "options": [
+        "An alcoholic drink made from grain",
+        "A soft fuzzy fruit with a pit inside",
+        "A thick creamy dairy food",
+        "A sweet baked dessert for celebrations"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "yogurt_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I eat ___ with fruit for breakfast.\"",
+      "word": "yogurt",
+      "options": [
+        "soup",
+        "burger",
+        "yogurt",
+        "coffee"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "yogurt_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A thick creamy dairy food\"",
+      "word": "yogurt",
+      "options": [
+        "juice",
+        "ice cream",
+        "cherry",
+        "yogurt"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "yogurt_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ice cream' mean?",
+      "word": "ice cream",
+      "options": [
+        "A small sweet baked treat",
+        "A frozen sweet dessert",
+        "A soft fuzzy fruit with a pit inside",
+        "A sandwich with a meat patty in a bun"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ice_cream_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Kids love eating ___ in summer.\"",
+      "word": "ice cream",
+      "options": [
+        "ice cream",
+        "chocolate",
+        "sauce",
+        "vinegar"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ice_cream_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A frozen sweet dessert\"",
+      "word": "ice cream",
+      "options": [
+        "ice cream",
+        "tea",
+        "chocolate",
+        "cookie"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ice_cream_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cake' mean?",
+      "word": "cake",
+      "options": [
+        "A sweet baked dessert for celebrations",
+        "Small white grains eaten as staple food",
+        "A frozen sweet dessert",
+        "A small red fruit with seeds outside"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cake_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"We had chocolate ___ at the party.\"",
+      "word": "cake",
+      "options": [
+        "cake",
+        "sauce",
+        "milk",
+        "noodles"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cake_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sweet baked dessert for celebrations\"",
+      "word": "cake",
+      "options": [
+        "coffee",
+        "milkshake",
+        "pizza",
+        "cake"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cake_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cookie' mean?",
+      "word": "cookie",
+      "options": [
+        "A sweet brown food made from cacao",
+        "A spice used to add flavor to food",
+        "A small sweet baked treat",
+        "Meat from sea animals healthy protein"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cookie_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"She baked chocolate chip ___.\"",
+      "word": "cookie",
+      "options": [
+        "peach",
+        "cookie",
+        "pineapple",
+        "fish"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cookie_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A small sweet baked treat\"",
+      "word": "cookie",
+      "options": [
+        "peach",
+        "strawberry",
+        "cookie",
+        "ketchup"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cookie_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chocolate' mean?",
+      "word": "chocolate",
+      "options": [
+        "A small round red fruit with a pit",
+        "A dairy product made from milk",
+        "A sweet brown food made from cacao",
+        "A dish made of mixed fresh vegetables"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "chocolate_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I love eating dark ___.\"",
+      "word": "chocolate",
+      "options": [
+        "butter",
+        "chocolate",
+        "pineapple",
+        "sauce"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chocolate_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sweet brown food made from cacao\"",
+      "word": "chocolate",
+      "options": [
+        "ice cream",
+        "sugar",
+        "vinegar",
+        "chocolate"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "chocolate_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'candy' mean?",
+      "word": "candy",
+      "options": [
+        "A spice used to add flavor to food",
+        "A dairy product made from milk",
+        "A sweet drink with milk and ice cream",
+        "Sweet treats made with sugar"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "candy_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Children love eating ___.\"",
+      "word": "candy",
+      "options": [
+        "salad",
+        "noodles",
+        "burger",
+        "candy"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "candy_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Sweet treats made with sugar\"",
+      "word": "candy",
+      "options": [
+        "candy",
+        "fish",
+        "pizza",
+        "orange"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "candy_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sugar' mean?",
+      "word": "sugar",
+      "options": [
+        "A sweet brown food made from cacao",
+        "Small white grains eaten as staple food",
+        "A yellow sauce with a strong taste",
+        "A sweet substance to sweeten food"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sugar_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Add a spoon of ___ to the tea.\"",
+      "word": "sugar",
+      "options": [
+        "smoothie",
+        "butter",
+        "sugar",
+        "ice cream"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "sugar_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sweet substance to sweeten food\"",
+      "word": "sugar",
+      "options": [
+        "bread",
+        "sauce",
+        "sugar",
+        "sandwich"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "sugar_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'salt' mean?",
+      "word": "salt",
+      "options": [
+        "A white substance to flavor food",
+        "An alcoholic drink made from grain",
+        "Small round fruits that grow in bunches",
+        "Sweet treats made with sugar"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "salt_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Add a pinch of ___ to the soup.\"",
+      "word": "salt",
+      "options": [
+        "egg",
+        "grape",
+        "ketchup",
+        "salt"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "salt_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A white substance to flavor food\"",
+      "word": "salt",
+      "options": [
+        "salad",
+        "wine",
+        "egg",
+        "salt"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "salt_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pepper' mean?",
+      "word": "pepper",
+      "options": [
+        "An alcoholic drink made from grapes",
+        "Small round fruits that grow in bunches",
+        "A sweet drink with milk and ice cream",
+        "A spice used to add flavor to food"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pepper_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Pass the ___ please.\"",
+      "word": "pepper",
+      "options": [
+        "pizza",
+        "wine",
+        "pepper",
+        "rice"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pepper_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A spice used to add flavor to food\"",
+      "word": "pepper",
+      "options": [
+        "pepper",
+        "ketchup",
+        "egg",
+        "cherry"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pepper_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'oil' mean?",
+      "word": "oil",
+      "options": [
+        "A flat round food with cheese and toppings",
+        "A liquid fat used for cooking",
+        "A white liquid from cows",
+        "A liquid food made by boiling ingredients"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "oil_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Heat the ___ in the pan.\"",
+      "word": "oil",
+      "options": [
+        "oil",
+        "bread",
+        "apple",
+        "cake"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "oil_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A liquid fat used for cooking\"",
+      "word": "oil",
+      "options": [
+        "wine",
+        "watermelon",
+        "oil",
+        "pepper"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "oil_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'vinegar' mean?",
+      "word": "vinegar",
+      "options": [
+        "A hot drink made by steeping leaves",
+        "Meat from a bird commonly eaten worldwide",
+        "A sour liquid used in cooking",
+        "A white liquid from cows"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "vinegar_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Add ___ to the salad dressing.\"",
+      "word": "vinegar",
+      "options": [
+        "ice cream",
+        "peach",
+        "pasta",
+        "vinegar"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "vinegar_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sour liquid used in cooking\"",
+      "word": "vinegar",
+      "options": [
+        "vinegar",
+        "bread",
+        "wine",
+        "juice"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "vinegar_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sauce' mean?",
+      "word": "sauce",
+      "options": [
+        "A liquid added to food for flavor",
+        "A frozen sweet dessert",
+        "A round citrus fruit with vitamin C",
+        "An alcoholic drink made from grapes"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sauce_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The pasta needs more ___.\"",
+      "word": "sauce",
+      "options": [
+        "peach",
+        "banana",
+        "sauce",
+        "pepper"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "sauce_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A liquid added to food for flavor\"",
+      "word": "sauce",
+      "options": [
+        "cake",
+        "sauce",
+        "mango",
+        "butter"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sauce_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ketchup' mean?",
+      "word": "ketchup",
+      "options": [
+        "A small round red fruit with a pit",
+        "A common food made from flour and baked",
+        "A small sweet baked treat",
+        "A red tomato sauce for food"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ketchup_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"He put ___ on his fries.\"",
+      "word": "ketchup",
+      "options": [
+        "ketchup",
+        "smoothie",
+        "cherry",
+        "milk"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ketchup_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A red tomato sauce for food\"",
+      "word": "ketchup",
+      "options": [
+        "pepper",
+        "wine",
+        "candy",
+        "ketchup"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ketchup_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mustard' mean?",
+      "word": "mustard",
+      "options": [
+        "A liquid fat used for cooking",
+        "A common food made from flour and baked",
+        "A yellow sauce with a strong taste",
+        "A sweet tropical fruit with orange flesh"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "mustard_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I like ___ on my hot dog.\"",
+      "word": "mustard",
+      "options": [
+        "cherry",
+        "salad",
+        "mustard",
+        "ketchup"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "mustard_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A yellow sauce with a strong taste\"",
+      "word": "mustard",
+      "options": [
+        "pizza",
+        "mustard",
+        "juice",
+        "banana"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "mustard_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'water' mean?",
+      "word": "water",
+      "options": [
+        "A common food made from flour and baked",
+        "A clear liquid essential for life",
+        "A round citrus fruit with vitamin C",
+        "A frozen sweet dessert"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "water_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Drink eight glasses of ___ daily.\"",
+      "word": "water",
+      "options": [
+        "water",
+        "strawberry",
+        "coffee",
+        "egg"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "water_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A clear liquid essential for life\"",
+      "word": "water",
+      "options": [
+        "water",
+        "mustard",
+        "cheese",
+        "apple"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "water_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'juice' mean?",
+      "word": "juice",
+      "options": [
+        "A sour liquid used in cooking",
+        "A drink made from squeezed fruits",
+        "A sandwich with a meat patty in a bun",
+        "A thick drink made from blended fruits"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "juice_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Would you like apple or orange ___?\"",
+      "word": "juice",
+      "options": [
+        "mango",
+        "juice",
+        "pineapple",
+        "fish"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "juice_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A drink made from squeezed fruits\"",
+      "word": "juice",
+      "options": [
+        "juice",
+        "soda",
+        "noodles",
+        "water"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "juice_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'coffee' mean?",
+      "word": "coffee",
+      "options": [
+        "A clear liquid essential for life",
+        "A tropical fruit with spiky skin",
+        "Long thin strips of dough often in soup",
+        "A hot brown drink that helps you wake up"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "coffee_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"He drinks ___ every morning.\"",
+      "word": "coffee",
+      "options": [
+        "sauce",
+        "beer",
+        "coffee",
+        "fish"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "coffee_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A hot brown drink that helps you wake up\"",
+      "word": "coffee",
+      "options": [
+        "pizza",
+        "coffee",
+        "milk",
+        "sugar"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "coffee_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tea' mean?",
+      "word": "tea",
+      "options": [
+        "A sweet tropical fruit with orange flesh",
+        "A yellow sauce with a strong taste",
+        "Meat from a bird commonly eaten worldwide",
+        "A hot drink made by steeping leaves"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tea_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Would you like ___ with your cake?\"",
+      "word": "tea",
+      "options": [
+        "banana",
+        "pizza",
+        "apple",
+        "tea"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tea_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A hot drink made by steeping leaves\"",
+      "word": "tea",
+      "options": [
+        "chocolate",
+        "pepper",
+        "tea",
+        "coffee"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "tea_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'soda' mean?",
+      "word": "soda",
+      "options": [
+        "Italian food made from wheat flour",
+        "A dish made of mixed fresh vegetables",
+        "A sweet fizzy drink",
+        "A flat round food with cheese and toppings"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "soda_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I ordered a ___ with my meal.\"",
+      "word": "soda",
+      "options": [
+        "smoothie",
+        "soda",
+        "soup",
+        "chicken"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "soda_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sweet fizzy drink\"",
+      "word": "soda",
+      "options": [
+        "steak",
+        "soda",
+        "candy",
+        "grape"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "soda_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'beer' mean?",
+      "word": "beer",
+      "options": [
+        "An alcoholic drink made from grain",
+        "A dish made of mixed fresh vegetables",
+        "An alcoholic drink made from grapes",
+        "Food with filling between two bread slices"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "beer_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Adults sometimes drink ___ at parties.\"",
+      "word": "beer",
+      "options": [
+        "cookie",
+        "egg",
+        "beer",
+        "pineapple"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "beer_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An alcoholic drink made from grain\"",
+      "word": "beer",
+      "options": [
+        "beer",
+        "cake",
+        "pasta",
+        "mango"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "beer_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wine' mean?",
+      "word": "wine",
+      "options": [
+        "A white substance to flavor food",
+        "A sweet tropical fruit with orange flesh",
+        "A liquid food made by boiling ingredients",
+        "An alcoholic drink made from grapes"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "wine_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"They had red ___ with dinner.\"",
+      "word": "wine",
+      "options": [
+        "noodles",
+        "wine",
+        "cookie",
+        "grape"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "wine_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An alcoholic drink made from grapes\"",
+      "word": "wine",
+      "options": [
+        "wine",
+        "sugar",
+        "coffee",
+        "juice"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wine_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'smoothie' mean?",
+      "word": "smoothie",
+      "options": [
+        "A thick drink made from blended fruits",
+        "A red tomato sauce for food",
+        "A sweet substance to sweeten food",
+        "A drink made from squeezed fruits"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "smoothie_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I made a banana ___ for breakfast.\"",
+      "word": "smoothie",
+      "options": [
+        "beer",
+        "cake",
+        "smoothie",
+        "noodles"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "smoothie_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A thick drink made from blended fruits\"",
+      "word": "smoothie",
+      "options": [
+        "pasta",
+        "smoothie",
+        "candy",
+        "banana"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "smoothie_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'milkshake' mean?",
+      "word": "milkshake",
+      "options": [
+        "A sweet brown food made from cacao",
+        "A thick slice of meat usually beef",
+        "A liquid fat used for cooking",
+        "A sweet drink with milk and ice cream"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "milkshake_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"She ordered a chocolate ___.\"",
+      "word": "milkshake",
+      "options": [
+        "noodles",
+        "milkshake",
+        "soup",
+        "coffee"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "milkshake_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sweet drink with milk and ice cream\"",
+      "word": "milkshake",
+      "options": [
+        "milkshake",
+        "grape",
+        "wine",
+        "pasta"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "milkshake_3",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lemonade' mean?",
+      "word": "lemonade",
+      "options": [
+        "A liquid fat used for cooking",
+        "A white liquid from cows",
+        "A liquid food made by boiling ingredients",
+        "A sweet drink made from lemons"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lemonade_1",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Fresh ___ is perfect on a hot day.\"",
+      "word": "lemonade",
+      "options": [
+        "strawberry",
+        "lemonade",
+        "vinegar",
+        "smoothie"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "lemonade_2",
+      "category": "Food & Drinks"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sweet drink made from lemons\"",
+      "word": "lemonade",
+      "options": [
+        "lemonade",
+        "beer",
+        "salt",
+        "salad"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lemonade_3",
+      "category": "Food & Drinks"
+    }
+  ]
+}

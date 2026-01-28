@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "Numbers & Time",
+  "icon": "🔢",
+  "words": [
+    "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
+    "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty",
+    "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety", "hundred", "thousand", "million",
+    "first", "second", "third", "fourth", "fifth", "last", "next", "previous", "half", "quarter",
+    "second", "minute", "hour", "day", "week", "month", "year", "decade", "century", "millennium"
+  ]
+}

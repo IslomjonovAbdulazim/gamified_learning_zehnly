@@ -1,0 +1,245 @@
+{
+  "language": "English",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Animals",
+      "icon": "🐾",
+      "words": [
+        "dog", "cat", "elephant", "lion", "tiger", "bear", "wolf", "fox", "rabbit", "deer",
+        "horse", "cow", "pig", "sheep", "goat", "chicken", "duck", "turkey", "eagle", "owl",
+        "parrot", "penguin", "dolphin", "whale", "shark", "fish", "octopus", "crab", "lobster", "jellyfish",
+        "butterfly", "bee", "ant", "spider", "snake", "lizard", "turtle", "frog", "crocodile", "monkey",
+        "gorilla", "chimpanzee", "giraffe", "zebra", "hippopotamus", "rhinoceros", "kangaroo", "koala", "panda", "polar bear"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Food & Drinks",
+      "icon": "🍔",
+      "words": [
+        "apple", "banana", "orange", "grape", "strawberry", "watermelon", "pineapple", "mango", "peach", "cherry",
+        "bread", "rice", "pasta", "noodles", "pizza", "burger", "sandwich", "salad", "soup", "steak",
+        "chicken", "fish", "egg", "cheese", "butter", "milk", "yogurt", "ice cream", "cake", "cookie",
+        "chocolate", "candy", "sugar", "salt", "pepper", "oil", "vinegar", "sauce", "ketchup", "mustard",
+        "water", "juice", "coffee", "tea", "soda", "beer", "wine", "smoothie", "milkshake", "lemonade"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Family & People",
+      "icon": "👨‍👩‍👧‍👦",
+      "words": [
+        "mother", "father", "parent", "son", "daughter", "child", "baby", "brother", "sister", "sibling",
+        "grandmother", "grandfather", "grandparent", "grandchild", "grandson", "granddaughter", "aunt", "uncle", "cousin", "nephew",
+        "niece", "husband", "wife", "spouse", "boyfriend", "girlfriend", "friend", "neighbor", "colleague", "boss",
+        "teacher", "student", "doctor", "nurse", "lawyer", "engineer", "artist", "musician", "actor", "chef",
+        "police officer", "firefighter", "soldier", "pilot", "driver", "farmer", "scientist", "writer", "journalist", "athlete"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Body Parts",
+      "icon": "🫀",
+      "words": [
+        "head", "face", "hair", "forehead", "eyebrow", "eye", "eyelash", "nose", "ear", "cheek",
+        "mouth", "lip", "tongue", "tooth", "teeth", "chin", "jaw", "neck", "throat", "shoulder",
+        "arm", "elbow", "wrist", "hand", "finger", "thumb", "nail", "chest", "breast", "stomach",
+        "back", "spine", "waist", "hip", "leg", "thigh", "knee", "ankle", "foot", "toe",
+        "heart", "brain", "lung", "liver", "kidney", "bone", "muscle", "skin", "blood", "vein"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Colors",
+      "icon": "🎨",
+      "words": [
+        "red", "blue", "green", "yellow", "orange", "purple", "pink", "brown", "black", "white",
+        "gray", "grey", "silver", "gold", "bronze", "beige", "cream", "ivory", "tan", "maroon",
+        "navy", "turquoise", "teal", "cyan", "magenta", "violet", "indigo", "lavender", "coral", "salmon",
+        "peach", "burgundy", "crimson", "scarlet", "olive", "lime", "mint", "emerald", "jade", "aqua",
+        "sky blue", "royal blue", "midnight blue", "forest green", "hot pink", "rose", "rust", "copper", "charcoal", "pearl"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Numbers & Time",
+      "icon": "🔢",
+      "words": [
+        "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
+        "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty",
+        "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety", "hundred", "thousand", "million",
+        "first", "second", "third", "fourth", "fifth", "last", "next", "previous", "half", "quarter",
+        "second", "minute", "hour", "day", "week", "month", "year", "decade", "century", "millennium"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "House & Furniture",
+      "icon": "🏠",
+      "words": [
+        "house", "home", "apartment", "building", "room", "bedroom", "bathroom", "kitchen", "living room", "dining room",
+        "garage", "basement", "attic", "roof", "ceiling", "floor", "wall", "door", "window", "stairs",
+        "bed", "mattress", "pillow", "blanket", "sheet", "sofa", "couch", "chair", "table", "desk",
+        "lamp", "mirror", "closet", "wardrobe", "drawer", "shelf", "bookshelf", "cabinet", "carpet", "rug",
+        "curtain", "blinds", "fan", "air conditioner", "heater", "fireplace", "toilet", "sink", "shower", "bathtub"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Clothes & Accessories",
+      "icon": "👕",
+      "words": [
+        "shirt", "t-shirt", "blouse", "sweater", "hoodie", "jacket", "coat", "suit", "dress", "skirt",
+        "pants", "jeans", "shorts", "leggings", "underwear", "bra", "socks", "stockings", "pajamas", "robe",
+        "hat", "cap", "beanie", "scarf", "gloves", "mittens", "belt", "tie", "bow tie", "suspenders",
+        "shoes", "boots", "sandals", "sneakers", "heels", "slippers", "flip flops", "loafers", "Oxford shoes", "running shoes",
+        "watch", "bracelet", "necklace", "earrings", "ring", "glasses", "sunglasses", "handbag", "purse", "wallet"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Weather & Nature",
+      "icon": "🌤️",
+      "words": [
+        "sun", "moon", "star", "sky", "cloud", "rain", "snow", "wind", "storm", "thunder",
+        "lightning", "rainbow", "fog", "mist", "hail", "sleet", "frost", "ice", "humidity", "temperature",
+        "hot", "warm", "cool", "cold", "freezing", "sunny", "cloudy", "rainy", "snowy", "windy",
+        "tree", "flower", "grass", "leaf", "branch", "root", "seed", "plant", "bush", "forest",
+        "mountain", "hill", "valley", "river", "lake", "ocean", "sea", "beach", "desert", "island"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Transportation",
+      "icon": "🚗",
+      "words": [
+        "car", "truck", "van", "bus", "taxi", "motorcycle", "bicycle", "scooter", "skateboard", "ambulance",
+        "fire truck", "police car", "limousine", "SUV", "convertible", "sedan", "hatchback", "minivan", "pickup truck", "RV",
+        "train", "subway", "tram", "metro", "bullet train", "freight train", "locomotive", "railway", "station", "platform",
+        "airplane", "helicopter", "jet", "drone", "hot air balloon", "rocket", "spaceship", "airport", "runway", "terminal",
+        "boat", "ship", "yacht", "ferry", "cruise ship", "sailboat", "canoe", "kayak", "submarine", "harbor"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "School & Education",
+      "icon": "📚",
+      "words": [
+        "school", "classroom", "teacher", "student", "principal", "professor", "university", "college", "academy", "institute",
+        "book", "textbook", "notebook", "pencil", "pen", "eraser", "ruler", "calculator", "computer", "tablet",
+        "desk", "chair", "blackboard", "whiteboard", "chalk", "marker", "backpack", "locker", "library", "cafeteria",
+        "homework", "assignment", "exam", "test", "quiz", "grade", "report card", "diploma", "degree", "certificate",
+        "math", "science", "history", "geography", "literature", "language", "art", "music", "physical education", "biology"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Sports & Games",
+      "icon": "⚽",
+      "words": [
+        "soccer", "football", "basketball", "baseball", "tennis", "golf", "hockey", "volleyball", "rugby", "cricket",
+        "swimming", "diving", "surfing", "skiing", "snowboarding", "skating", "cycling", "running", "jogging", "marathon",
+        "boxing", "wrestling", "martial arts", "karate", "judo", "taekwondo", "fencing", "archery", "shooting", "weightlifting",
+        "gymnastics", "yoga", "pilates", "aerobics", "dancing", "ballet", "cheerleading", "rock climbing", "hiking", "camping",
+        "chess", "checkers", "cards", "poker", "dominoes", "puzzle", "video game", "board game", "lottery", "bingo"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Technology",
+      "icon": "💻",
+      "words": [
+        "computer", "laptop", "desktop", "tablet", "smartphone", "phone", "monitor", "keyboard", "mouse", "printer",
+        "scanner", "camera", "webcam", "microphone", "speaker", "headphones", "earbuds", "charger", "cable", "adapter",
+        "internet", "wifi", "bluetooth", "website", "browser", "app", "software", "hardware", "program", "code",
+        "email", "message", "text", "call", "video call", "social media", "download", "upload", "stream", "cloud",
+        "password", "username", "account", "login", "logout", "settings", "update", "backup", "virus", "firewall"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Work & Office",
+      "icon": "💼",
+      "words": [
+        "job", "work", "career", "profession", "occupation", "employment", "employer", "employee", "boss", "manager",
+        "office", "desk", "chair", "computer", "phone", "meeting", "conference", "presentation", "report", "document",
+        "email", "memo", "letter", "contract", "agreement", "deadline", "schedule", "calendar", "appointment", "interview",
+        "salary", "wage", "paycheck", "bonus", "raise", "promotion", "retirement", "pension", "vacation", "sick leave",
+        "team", "department", "company", "corporation", "business", "organization", "industry", "market", "customer", "client"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Health & Medicine",
+      "icon": "🏥",
+      "words": [
+        "health", "healthy", "sick", "ill", "disease", "illness", "infection", "virus", "bacteria", "allergy",
+        "doctor", "nurse", "surgeon", "dentist", "pharmacist", "therapist", "psychiatrist", "specialist", "patient", "hospital",
+        "clinic", "pharmacy", "emergency room", "ambulance", "appointment", "checkup", "examination", "diagnosis", "treatment", "surgery",
+        "medicine", "pill", "tablet", "capsule", "syrup", "injection", "vaccine", "antibiotic", "painkiller", "prescription",
+        "fever", "cough", "cold", "flu", "headache", "stomachache", "toothache", "pain", "wound", "injury"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Emotions & Feelings",
+      "icon": "😊",
+      "words": [
+        "happy", "sad", "angry", "scared", "afraid", "nervous", "anxious", "worried", "stressed", "relaxed",
+        "excited", "bored", "tired", "sleepy", "hungry", "thirsty", "full", "satisfied", "disappointed", "frustrated",
+        "surprised", "shocked", "amazed", "confused", "curious", "interested", "proud", "ashamed", "embarrassed", "guilty",
+        "jealous", "envious", "grateful", "thankful", "hopeful", "optimistic", "pessimistic", "lonely", "loved", "loving",
+        "calm", "peaceful", "content", "cheerful", "miserable", "depressed", "overwhelmed", "confident", "insecure", "motivated"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Actions & Verbs",
+      "icon": "🏃",
+      "words": [
+        "walk", "run", "jump", "climb", "swim", "fly", "drive", "ride", "sit", "stand",
+        "lie", "sleep", "wake", "eat", "drink", "cook", "bake", "fry", "boil", "cut",
+        "write", "read", "speak", "listen", "watch", "see", "hear", "smell", "taste", "touch",
+        "think", "know", "learn", "teach", "study", "remember", "forget", "understand", "believe", "imagine",
+        "love", "hate", "like", "want", "need", "have", "give", "take", "buy", "sell"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Places & Locations",
+      "icon": "📍",
+      "words": [
+        "city", "town", "village", "neighborhood", "street", "road", "highway", "bridge", "tunnel", "intersection",
+        "park", "garden", "playground", "zoo", "aquarium", "museum", "library", "theater", "cinema", "stadium",
+        "restaurant", "cafe", "bar", "club", "hotel", "motel", "resort", "mall", "shop", "store",
+        "supermarket", "market", "bakery", "butcher", "pharmacy", "bank", "post office", "police station", "fire station", "hospital",
+        "church", "mosque", "temple", "synagogue", "cemetery", "prison", "court", "city hall", "embassy", "airport"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Kitchen & Cooking",
+      "icon": "🍳",
+      "words": [
+        "kitchen", "stove", "oven", "microwave", "refrigerator", "freezer", "dishwasher", "sink", "faucet", "counter",
+        "pot", "pan", "skillet", "wok", "saucepan", "kettle", "toaster", "blender", "mixer", "food processor",
+        "knife", "fork", "spoon", "chopsticks", "spatula", "ladle", "whisk", "tongs", "peeler", "grater",
+        "plate", "bowl", "cup", "mug", "glass", "bottle", "jar", "container", "tray", "cutting board",
+        "recipe", "ingredient", "cook", "bake", "fry", "grill", "roast", "boil", "steam", "stir"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Music & Entertainment",
+      "icon": "🎵",
+      "words": [
+        "music", "song", "melody", "rhythm", "beat", "tune", "lyrics", "chorus", "verse", "harmony",
+        "singer", "musician", "band", "orchestra", "choir", "DJ", "composer", "conductor", "performer", "artist",
+        "guitar", "piano", "violin", "drums", "flute", "trumpet", "saxophone", "bass", "keyboard", "microphone",
+        "concert", "show", "performance", "festival", "tour", "album", "single", "playlist", "radio", "streaming",
+        "movie", "film", "TV show", "series", "documentary", "comedy", "drama", "action", "horror", "animation"
+      ]
+    }
+  ]
+}

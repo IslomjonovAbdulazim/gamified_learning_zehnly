@@ -1,0 +1,2257 @@
+{
+  "category": "Weather & Nature",
+  "category_id": 9,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'sun' mean?",
+      "word": "sun",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sun_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sun",
+      "options": [
+        "rain",
+        "warm",
+        "leaf",
+        "sun"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sun_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "sun",
+      "options": [
+        "sea",
+        "leaf",
+        "sky",
+        "sun"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sun_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'moon' mean?",
+      "word": "moon",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "moon_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "moon",
+      "options": [
+        "moon",
+        "ice",
+        "valley",
+        "sea"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "moon_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "moon",
+      "options": [
+        "branch",
+        "bush",
+        "moon",
+        "snow"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "moon_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'star' mean?",
+      "word": "star",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "star_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "star",
+      "options": [
+        "cloud",
+        "sun",
+        "star",
+        "hot"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "star_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "star",
+      "options": [
+        "island",
+        "sky",
+        "moon",
+        "star"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "star_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sky' mean?",
+      "word": "sky",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sky_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sky",
+      "options": [
+        "island",
+        "sunny",
+        "sky",
+        "river"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "sky_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "sky",
+      "options": [
+        "sky",
+        "seed",
+        "warm",
+        "beach"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sky_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cloud' mean?",
+      "word": "cloud",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cloud_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cloud",
+      "options": [
+        "sun",
+        "forest",
+        "cloud",
+        "mountain"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cloud_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "cloud",
+      "options": [
+        "cloud",
+        "root",
+        "snowy",
+        "beach"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cloud_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rain' mean?",
+      "word": "rain",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rain_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rain",
+      "options": [
+        "warm",
+        "bush",
+        "rain",
+        "rainy"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rain_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "rain",
+      "options": [
+        "fog",
+        "rain",
+        "mist",
+        "desert"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "rain_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'snow' mean?",
+      "word": "snow",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "snow_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "snow",
+      "options": [
+        "desert",
+        "sea",
+        "snow",
+        "hail"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "snow_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "snow",
+      "options": [
+        "rain",
+        "thunder",
+        "snow",
+        "hot"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "snow_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wind' mean?",
+      "word": "wind",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wind_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wind",
+      "options": [
+        "leaf",
+        "humidity",
+        "wind",
+        "bush"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "wind_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "wind",
+      "options": [
+        "wind",
+        "hot",
+        "lake",
+        "tree"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wind_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'storm' mean?",
+      "word": "storm",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "storm_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "storm",
+      "options": [
+        "storm",
+        "flower",
+        "rainbow",
+        "mountain"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "storm_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "storm",
+      "options": [
+        "freezing",
+        "plant",
+        "storm",
+        "cloud"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "storm_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'thunder' mean?",
+      "word": "thunder",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thunder_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "thunder",
+      "options": [
+        "leaf",
+        "rainbow",
+        "thunder",
+        "mist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "thunder_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "thunder",
+      "options": [
+        "storm",
+        "thunder",
+        "humidity",
+        "rainy"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "thunder_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lightning' mean?",
+      "word": "lightning",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lightning_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lightning",
+      "options": [
+        "cool",
+        "ice",
+        "frost",
+        "lightning"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lightning_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "lightning",
+      "options": [
+        "lake",
+        "cloudy",
+        "root",
+        "lightning"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lightning_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rainbow' mean?",
+      "word": "rainbow",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rainbow_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rainbow",
+      "options": [
+        "moon",
+        "tree",
+        "sunny",
+        "rainbow"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "rainbow_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "rainbow",
+      "options": [
+        "ice",
+        "leaf",
+        "rainbow",
+        "flower"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rainbow_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fog' mean?",
+      "word": "fog",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fog_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fog",
+      "options": [
+        "fog",
+        "cloudy",
+        "mountain",
+        "hill"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fog_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "fog",
+      "options": [
+        "storm",
+        "valley",
+        "flower",
+        "fog"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fog_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mist' mean?",
+      "word": "mist",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mist_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mist",
+      "options": [
+        "storm",
+        "mist",
+        "cold",
+        "windy"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "mist_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "mist",
+      "options": [
+        "ocean",
+        "river",
+        "mist",
+        "branch"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "mist_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hail' mean?",
+      "word": "hail",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hail_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hail",
+      "options": [
+        "hail",
+        "beach",
+        "ice",
+        "frost"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hail_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "hail",
+      "options": [
+        "cloud",
+        "grass",
+        "hail",
+        "mist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hail_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sleet' mean?",
+      "word": "sleet",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sleet_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sleet",
+      "options": [
+        "lake",
+        "sleet",
+        "bush",
+        "cool"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sleet_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "sleet",
+      "options": [
+        "sleet",
+        "river",
+        "cool",
+        "bush"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sleet_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'frost' mean?",
+      "word": "frost",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "frost_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "frost",
+      "options": [
+        "river",
+        "moon",
+        "frost",
+        "sun"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "frost_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "frost",
+      "options": [
+        "cloud",
+        "frost",
+        "moon",
+        "plant"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "frost_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ice' mean?",
+      "word": "ice",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ice_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ice",
+      "options": [
+        "ice",
+        "snowy",
+        "flower",
+        "temperature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ice_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "ice",
+      "options": [
+        "sun",
+        "ice",
+        "star",
+        "snow"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ice_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'humidity' mean?",
+      "word": "humidity",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "humidity_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "humidity",
+      "options": [
+        "humidity",
+        "mist",
+        "moon",
+        "leaf"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "humidity_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "humidity",
+      "options": [
+        "humidity",
+        "rain",
+        "sun",
+        "rainy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "humidity_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'temperature' mean?",
+      "word": "temperature",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "temperature_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "temperature",
+      "options": [
+        "lake",
+        "temperature",
+        "grass",
+        "branch"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "temperature_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "temperature",
+      "options": [
+        "fog",
+        "rainbow",
+        "temperature",
+        "hot"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "temperature_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hot' mean?",
+      "word": "hot",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hot_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hot",
+      "options": [
+        "river",
+        "hot",
+        "storm",
+        "freezing"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hot_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "hot",
+      "options": [
+        "hot",
+        "snow",
+        "valley",
+        "cloudy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hot_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'warm' mean?",
+      "word": "warm",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "warm_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "warm",
+      "options": [
+        "grass",
+        "warm",
+        "star",
+        "seed"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "warm_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "warm",
+      "options": [
+        "warm",
+        "rain",
+        "cloudy",
+        "island"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "warm_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cool' mean?",
+      "word": "cool",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cool_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cool",
+      "options": [
+        "humidity",
+        "sleet",
+        "rainy",
+        "cool"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cool_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "cool",
+      "options": [
+        "forest",
+        "cool",
+        "island",
+        "sunny"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cool_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cold' mean?",
+      "word": "cold",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cold_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cold",
+      "options": [
+        "leaf",
+        "cold",
+        "fog",
+        "frost"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cold_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "cold",
+      "options": [
+        "root",
+        "cold",
+        "branch",
+        "hail"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cold_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'freezing' mean?",
+      "word": "freezing",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "freezing_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "freezing",
+      "options": [
+        "valley",
+        "lightning",
+        "root",
+        "freezing"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "freezing_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "freezing",
+      "options": [
+        "freezing",
+        "storm",
+        "tree",
+        "wind"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "freezing_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sunny' mean?",
+      "word": "sunny",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sunny_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sunny",
+      "options": [
+        "thunder",
+        "sunny",
+        "temperature",
+        "snowy"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sunny_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "sunny",
+      "options": [
+        "sunny",
+        "star",
+        "cool",
+        "windy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sunny_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cloudy' mean?",
+      "word": "cloudy",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cloudy_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cloudy",
+      "options": [
+        "cloudy",
+        "sea",
+        "lake",
+        "humidity"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cloudy_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "cloudy",
+      "options": [
+        "snow",
+        "cloudy",
+        "wind",
+        "beach"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cloudy_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rainy' mean?",
+      "word": "rainy",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rainy_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rainy",
+      "options": [
+        "fog",
+        "ice",
+        "snow",
+        "rainy"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "rainy_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "rainy",
+      "options": [
+        "rainy",
+        "tree",
+        "grass",
+        "sea"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rainy_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'snowy' mean?",
+      "word": "snowy",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "snowy_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "snowy",
+      "options": [
+        "cool",
+        "flower",
+        "snowy",
+        "wind"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "snowy_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "snowy",
+      "options": [
+        "cool",
+        "root",
+        "temperature",
+        "snowy"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "snowy_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'windy' mean?",
+      "word": "windy",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "windy_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "windy",
+      "options": [
+        "hail",
+        "warm",
+        "windy",
+        "snow"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "windy_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "windy",
+      "options": [
+        "seed",
+        "root",
+        "windy",
+        "cool"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "windy_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tree' mean?",
+      "word": "tree",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tree_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tree",
+      "options": [
+        "tree",
+        "hill",
+        "river",
+        "sleet"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tree_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "tree",
+      "options": [
+        "branch",
+        "tree",
+        "rain",
+        "flower"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "tree_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'flower' mean?",
+      "word": "flower",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "flower_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "flower",
+      "options": [
+        "flower",
+        "star",
+        "cloud",
+        "desert"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "flower_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "flower",
+      "options": [
+        "seed",
+        "tree",
+        "flower",
+        "leaf"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "flower_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grass' mean?",
+      "word": "grass",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grass_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "grass",
+      "options": [
+        "moon",
+        "branch",
+        "wind",
+        "grass"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "grass_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "grass",
+      "options": [
+        "bush",
+        "mountain",
+        "warm",
+        "grass"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "grass_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'leaf' mean?",
+      "word": "leaf",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "leaf_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "leaf",
+      "options": [
+        "leaf",
+        "sun",
+        "freezing",
+        "storm"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "leaf_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "leaf",
+      "options": [
+        "sunny",
+        "river",
+        "leaf",
+        "cloudy"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "leaf_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'branch' mean?",
+      "word": "branch",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "branch_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "branch",
+      "options": [
+        "rainy",
+        "mountain",
+        "desert",
+        "branch"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "branch_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "branch",
+      "options": [
+        "root",
+        "branch",
+        "mist",
+        "hail"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "branch_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'root' mean?",
+      "word": "root",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "root_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "root",
+      "options": [
+        "root",
+        "forest",
+        "sunny",
+        "star"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "root_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "root",
+      "options": [
+        "valley",
+        "tree",
+        "root",
+        "cold"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "root_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'seed' mean?",
+      "word": "seed",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "seed_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "seed",
+      "options": [
+        "ocean",
+        "rain",
+        "seed",
+        "cold"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "seed_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "seed",
+      "options": [
+        "valley",
+        "seed",
+        "hill",
+        "wind"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "seed_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'plant' mean?",
+      "word": "plant",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "plant_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "plant",
+      "options": [
+        "desert",
+        "plant",
+        "forest",
+        "frost"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "plant_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "plant",
+      "options": [
+        "grass",
+        "forest",
+        "hill",
+        "plant"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "plant_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bush' mean?",
+      "word": "bush",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bush_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bush",
+      "options": [
+        "sun",
+        "bush",
+        "seed",
+        "lightning"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bush_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "bush",
+      "options": [
+        "island",
+        "humidity",
+        "storm",
+        "bush"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bush_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'forest' mean?",
+      "word": "forest",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "forest_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "forest",
+      "options": [
+        "warm",
+        "hill",
+        "forest",
+        "rainbow"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "forest_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "forest",
+      "options": [
+        "river",
+        "snow",
+        "forest",
+        "ice"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "forest_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mountain' mean?",
+      "word": "mountain",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mountain_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mountain",
+      "options": [
+        "desert",
+        "rainy",
+        "wind",
+        "mountain"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "mountain_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "mountain",
+      "options": [
+        "mountain",
+        "rainy",
+        "desert",
+        "star"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mountain_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hill' mean?",
+      "word": "hill",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hill_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hill",
+      "options": [
+        "hill",
+        "tree",
+        "mist",
+        "windy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hill_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "hill",
+      "options": [
+        "mist",
+        "cloudy",
+        "hill",
+        "leaf"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hill_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'valley' mean?",
+      "word": "valley",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "valley_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "valley",
+      "options": [
+        "branch",
+        "valley",
+        "beach",
+        "mist"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "valley_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "valley",
+      "options": [
+        "fog",
+        "desert",
+        "valley",
+        "sunny"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "valley_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'river' mean?",
+      "word": "river",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "river_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "river",
+      "options": [
+        "branch",
+        "hill",
+        "river",
+        "lake"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "river_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "river",
+      "options": [
+        "sunny",
+        "humidity",
+        "wind",
+        "river"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "river_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lake' mean?",
+      "word": "lake",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lake_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lake",
+      "options": [
+        "snow",
+        "cold",
+        "sunny",
+        "lake"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lake_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "lake",
+      "options": [
+        "lake",
+        "river",
+        "mountain",
+        "beach"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lake_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ocean' mean?",
+      "word": "ocean",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ocean_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ocean",
+      "options": [
+        "warm",
+        "ocean",
+        "cold",
+        "frost"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ocean_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "ocean",
+      "options": [
+        "river",
+        "cool",
+        "leaf",
+        "ocean"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ocean_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sea' mean?",
+      "word": "sea",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sea_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sea",
+      "options": [
+        "windy",
+        "cloud",
+        "sea",
+        "fog"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "sea_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "sea",
+      "options": [
+        "rainy",
+        "island",
+        "ice",
+        "sea"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sea_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'beach' mean?",
+      "word": "beach",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "beach_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "beach",
+      "options": [
+        "beach",
+        "grass",
+        "sleet",
+        "star"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "beach_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "beach",
+      "options": [
+        "lake",
+        "beach",
+        "seed",
+        "frost"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "beach_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'desert' mean?",
+      "word": "desert",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "desert_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "desert",
+      "options": [
+        "valley",
+        "freezing",
+        "desert",
+        "rainy"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "desert_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "desert",
+      "options": [
+        "ocean",
+        "star",
+        "flower",
+        "desert"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "desert_3",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'island' mean?",
+      "word": "island",
+      "options": [
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature",
+        "Something related to weather & nature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "island_1",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "island",
+      "options": [
+        "island",
+        "root",
+        "moon",
+        "mist"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "island_2",
+      "category": "Weather & Nature"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to weather & nature\"",
+      "word": "island",
+      "options": [
+        "warm",
+        "mountain",
+        "island",
+        "lake"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "island_3",
+      "category": "Weather & Nature"
+    }
+  ]
+}

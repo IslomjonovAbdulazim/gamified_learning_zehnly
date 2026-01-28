@@ -1,0 +1,12 @@
+{
+  "id": 19,
+  "name": "Kitchen & Cooking",
+  "icon": "🍳",
+  "words": [
+    "kitchen", "stove", "oven", "microwave", "refrigerator", "freezer", "dishwasher", "sink", "faucet", "counter",
+    "pot", "pan", "skillet", "wok", "saucepan", "kettle", "toaster", "blender", "mixer", "food processor",
+    "knife", "fork", "spoon", "chopsticks", "spatula", "ladle", "whisk", "tongs", "peeler", "grater",
+    "plate", "bowl", "cup", "mug", "glass", "bottle", "jar", "container", "tray", "cutting board",
+    "recipe", "ingredient", "cook", "bake", "fry", "grill", "roast", "boil", "steam", "stir"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "name": "Technology",
+  "icon": "💻",
+  "words": [
+    "computer", "laptop", "desktop", "tablet", "smartphone", "phone", "monitor", "keyboard", "mouse", "printer",
+    "scanner", "camera", "webcam", "microphone", "speaker", "headphones", "earbuds", "charger", "cable", "adapter",
+    "internet", "wifi", "bluetooth", "website", "browser", "app", "software", "hardware", "program", "code",
+    "email", "message", "text", "call", "video call", "social media", "download", "upload", "stream", "cloud",
+    "password", "username", "account", "login", "logout", "settings", "update", "backup", "virus", "firewall"
+  ]
+}

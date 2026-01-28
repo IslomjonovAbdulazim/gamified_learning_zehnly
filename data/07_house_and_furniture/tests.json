@@ -1,0 +1,2257 @@
+{
+  "category": "House & Furniture",
+  "category_id": 7,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'house' mean?",
+      "word": "house",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "house_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "house",
+      "options": [
+        "building",
+        "house",
+        "heater",
+        "room"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "house_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "house",
+      "options": [
+        "fireplace",
+        "living room",
+        "house",
+        "bookshelf"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "house_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'home' mean?",
+      "word": "home",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "home_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "home",
+      "options": [
+        "lamp",
+        "wall",
+        "home",
+        "apartment"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "home_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "home",
+      "options": [
+        "home",
+        "room",
+        "sofa",
+        "bed"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "home_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'apartment' mean?",
+      "word": "apartment",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "apartment_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "apartment",
+      "options": [
+        "sheet",
+        "apartment",
+        "air conditioner",
+        "bookshelf"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "apartment_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "apartment",
+      "options": [
+        "bookshelf",
+        "apartment",
+        "toilet",
+        "basement"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "apartment_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'building' mean?",
+      "word": "building",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "building_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "building",
+      "options": [
+        "room",
+        "building",
+        "sheet",
+        "carpet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "building_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "building",
+      "options": [
+        "heater",
+        "building",
+        "desk",
+        "lamp"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "building_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'room' mean?",
+      "word": "room",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "room_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "room",
+      "options": [
+        "mattress",
+        "garage",
+        "room",
+        "shelf"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "room_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "room",
+      "options": [
+        "apartment",
+        "room",
+        "table",
+        "sheet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "room_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bedroom' mean?",
+      "word": "bedroom",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bedroom_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bedroom",
+      "options": [
+        "drawer",
+        "desk",
+        "pillow",
+        "bedroom"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bedroom_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "bedroom",
+      "options": [
+        "attic",
+        "sink",
+        "bedroom",
+        "roof"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bedroom_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bathroom' mean?",
+      "word": "bathroom",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bathroom_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bathroom",
+      "options": [
+        "ceiling",
+        "mattress",
+        "bathroom",
+        "pillow"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bathroom_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "bathroom",
+      "options": [
+        "lamp",
+        "bathroom",
+        "sink",
+        "shower"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bathroom_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'kitchen' mean?",
+      "word": "kitchen",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "kitchen_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "kitchen",
+      "options": [
+        "floor",
+        "wardrobe",
+        "curtain",
+        "kitchen"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "kitchen_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "kitchen",
+      "options": [
+        "kitchen",
+        "curtain",
+        "ceiling",
+        "couch"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "kitchen_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'living room' mean?",
+      "word": "living room",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "living_room_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "living room",
+      "options": [
+        "desk",
+        "living room",
+        "attic",
+        "sink"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "living_room_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "living room",
+      "options": [
+        "dining room",
+        "sink",
+        "bed",
+        "living room"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "living_room_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'dining room' mean?",
+      "word": "dining room",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "dining_room_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "dining room",
+      "options": [
+        "dining room",
+        "bed",
+        "cabinet",
+        "bathroom"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "dining_room_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "dining room",
+      "options": [
+        "bed",
+        "sofa",
+        "blinds",
+        "dining room"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "dining_room_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'garage' mean?",
+      "word": "garage",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "garage_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "garage",
+      "options": [
+        "bathtub",
+        "cabinet",
+        "garage",
+        "toilet"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "garage_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "garage",
+      "options": [
+        "garage",
+        "living room",
+        "ceiling",
+        "bathtub"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "garage_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'basement' mean?",
+      "word": "basement",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "basement_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "basement",
+      "options": [
+        "wall",
+        "door",
+        "shower",
+        "basement"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "basement_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "basement",
+      "options": [
+        "bedroom",
+        "living room",
+        "mattress",
+        "basement"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "basement_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'attic' mean?",
+      "word": "attic",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "attic_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "attic",
+      "options": [
+        "house",
+        "desk",
+        "attic",
+        "bathroom"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "attic_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "attic",
+      "options": [
+        "air conditioner",
+        "attic",
+        "garage",
+        "kitchen"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "attic_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'roof' mean?",
+      "word": "roof",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "roof_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "roof",
+      "options": [
+        "fireplace",
+        "chair",
+        "roof",
+        "living room"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "roof_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "roof",
+      "options": [
+        "desk",
+        "building",
+        "bathroom",
+        "roof"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "roof_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ceiling' mean?",
+      "word": "ceiling",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ceiling_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ceiling",
+      "options": [
+        "house",
+        "ceiling",
+        "stairs",
+        "apartment"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ceiling_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "ceiling",
+      "options": [
+        "ceiling",
+        "garage",
+        "sink",
+        "couch"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ceiling_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'floor' mean?",
+      "word": "floor",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "floor_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "floor",
+      "options": [
+        "window",
+        "floor",
+        "bed",
+        "bathtub"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "floor_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "floor",
+      "options": [
+        "floor",
+        "chair",
+        "room",
+        "curtain"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "floor_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wall' mean?",
+      "word": "wall",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wall_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wall",
+      "options": [
+        "sofa",
+        "blanket",
+        "closet",
+        "wall"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "wall_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "wall",
+      "options": [
+        "house",
+        "wall",
+        "kitchen",
+        "dining room"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "wall_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'door' mean?",
+      "word": "door",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "door_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "door",
+      "options": [
+        "sink",
+        "ceiling",
+        "basement",
+        "door"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "door_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "door",
+      "options": [
+        "shelf",
+        "door",
+        "desk",
+        "air conditioner"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "door_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'window' mean?",
+      "word": "window",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "window_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "window",
+      "options": [
+        "house",
+        "window",
+        "home",
+        "bathroom"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "window_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "window",
+      "options": [
+        "kitchen",
+        "toilet",
+        "couch",
+        "window"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "window_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'stairs' mean?",
+      "word": "stairs",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stairs_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "stairs",
+      "options": [
+        "rug",
+        "stairs",
+        "table",
+        "wardrobe"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "stairs_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "stairs",
+      "options": [
+        "wardrobe",
+        "drawer",
+        "stairs",
+        "rug"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "stairs_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bed' mean?",
+      "word": "bed",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bed_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bed",
+      "options": [
+        "curtain",
+        "bed",
+        "kitchen",
+        "mattress"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bed_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "bed",
+      "options": [
+        "bed",
+        "ceiling",
+        "basement",
+        "closet"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bed_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mattress' mean?",
+      "word": "mattress",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mattress_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mattress",
+      "options": [
+        "kitchen",
+        "mattress",
+        "stairs",
+        "blinds"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "mattress_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "mattress",
+      "options": [
+        "house",
+        "floor",
+        "mattress",
+        "pillow"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "mattress_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pillow' mean?",
+      "word": "pillow",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pillow_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pillow",
+      "options": [
+        "fireplace",
+        "pillow",
+        "door",
+        "couch"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pillow_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "pillow",
+      "options": [
+        "pillow",
+        "bookshelf",
+        "closet",
+        "stairs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pillow_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'blanket' mean?",
+      "word": "blanket",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "blanket_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "blanket",
+      "options": [
+        "bathtub",
+        "shelf",
+        "blanket",
+        "attic"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "blanket_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "blanket",
+      "options": [
+        "blanket",
+        "bookshelf",
+        "wardrobe",
+        "desk"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "blanket_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sheet' mean?",
+      "word": "sheet",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sheet_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sheet",
+      "options": [
+        "bedroom",
+        "sheet",
+        "heater",
+        "closet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sheet_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "sheet",
+      "options": [
+        "pillow",
+        "bathtub",
+        "attic",
+        "sheet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sheet_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sofa' mean?",
+      "word": "sofa",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sofa_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sofa",
+      "options": [
+        "bedroom",
+        "basement",
+        "home",
+        "sofa"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sofa_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "sofa",
+      "options": [
+        "house",
+        "sofa",
+        "bathroom",
+        "cabinet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sofa_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'couch' mean?",
+      "word": "couch",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "couch_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "couch",
+      "options": [
+        "couch",
+        "home",
+        "sink",
+        "blinds"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "couch_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "couch",
+      "options": [
+        "couch",
+        "toilet",
+        "home",
+        "sink"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "couch_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chair' mean?",
+      "word": "chair",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chair_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "chair",
+      "options": [
+        "chair",
+        "blanket",
+        "mirror",
+        "roof"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chair_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "chair",
+      "options": [
+        "sink",
+        "chair",
+        "house",
+        "sheet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chair_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'table' mean?",
+      "word": "table",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "table_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "table",
+      "options": [
+        "house",
+        "table",
+        "kitchen",
+        "chair"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "table_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "table",
+      "options": [
+        "roof",
+        "table",
+        "house",
+        "garage"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "table_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'desk' mean?",
+      "word": "desk",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "desk_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "desk",
+      "options": [
+        "living room",
+        "chair",
+        "desk",
+        "rug"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "desk_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "desk",
+      "options": [
+        "pillow",
+        "desk",
+        "apartment",
+        "fireplace"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "desk_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lamp' mean?",
+      "word": "lamp",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lamp_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lamp",
+      "options": [
+        "curtain",
+        "lamp",
+        "mirror",
+        "house"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "lamp_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "lamp",
+      "options": [
+        "kitchen",
+        "dining room",
+        "living room",
+        "lamp"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lamp_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mirror' mean?",
+      "word": "mirror",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mirror_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mirror",
+      "options": [
+        "mirror",
+        "dining room",
+        "bathtub",
+        "blanket"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mirror_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "mirror",
+      "options": [
+        "stairs",
+        "mirror",
+        "home",
+        "floor"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "mirror_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'closet' mean?",
+      "word": "closet",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "closet_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "closet",
+      "options": [
+        "cabinet",
+        "closet",
+        "fireplace",
+        "shelf"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "closet_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "closet",
+      "options": [
+        "building",
+        "desk",
+        "house",
+        "closet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "closet_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wardrobe' mean?",
+      "word": "wardrobe",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wardrobe_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wardrobe",
+      "options": [
+        "wardrobe",
+        "roof",
+        "heater",
+        "shower"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wardrobe_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "wardrobe",
+      "options": [
+        "sofa",
+        "pillow",
+        "stairs",
+        "wardrobe"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "wardrobe_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'drawer' mean?",
+      "word": "drawer",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drawer_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "drawer",
+      "options": [
+        "fan",
+        "drawer",
+        "couch",
+        "rug"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "drawer_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "drawer",
+      "options": [
+        "kitchen",
+        "couch",
+        "drawer",
+        "carpet"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "drawer_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'shelf' mean?",
+      "word": "shelf",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shelf_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "shelf",
+      "options": [
+        "apartment",
+        "shelf",
+        "fan",
+        "home"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "shelf_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "shelf",
+      "options": [
+        "shelf",
+        "sink",
+        "table",
+        "dining room"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shelf_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bookshelf' mean?",
+      "word": "bookshelf",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bookshelf_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bookshelf",
+      "options": [
+        "roof",
+        "bathroom",
+        "door",
+        "bookshelf"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bookshelf_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "bookshelf",
+      "options": [
+        "bookshelf",
+        "table",
+        "curtain",
+        "air conditioner"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bookshelf_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cabinet' mean?",
+      "word": "cabinet",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cabinet_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cabinet",
+      "options": [
+        "bookshelf",
+        "bathtub",
+        "bed",
+        "cabinet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cabinet_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "cabinet",
+      "options": [
+        "building",
+        "cabinet",
+        "dining room",
+        "basement"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cabinet_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'carpet' mean?",
+      "word": "carpet",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "carpet_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "carpet",
+      "options": [
+        "door",
+        "rug",
+        "bathroom",
+        "carpet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "carpet_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "carpet",
+      "options": [
+        "carpet",
+        "bathroom",
+        "attic",
+        "wall"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "carpet_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rug' mean?",
+      "word": "rug",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rug_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rug",
+      "options": [
+        "rug",
+        "door",
+        "shower",
+        "fan"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rug_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "rug",
+      "options": [
+        "pillow",
+        "desk",
+        "ceiling",
+        "rug"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "rug_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'curtain' mean?",
+      "word": "curtain",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "curtain_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "curtain",
+      "options": [
+        "air conditioner",
+        "curtain",
+        "wall",
+        "heater"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "curtain_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "curtain",
+      "options": [
+        "mirror",
+        "curtain",
+        "blinds",
+        "garage"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "curtain_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'blinds' mean?",
+      "word": "blinds",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "blinds_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "blinds",
+      "options": [
+        "room",
+        "cabinet",
+        "blinds",
+        "living room"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "blinds_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "blinds",
+      "options": [
+        "wall",
+        "blinds",
+        "shelf",
+        "house"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "blinds_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fan' mean?",
+      "word": "fan",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fan_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fan",
+      "options": [
+        "door",
+        "blinds",
+        "air conditioner",
+        "fan"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fan_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "fan",
+      "options": [
+        "fan",
+        "sofa",
+        "bed",
+        "room"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fan_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'air conditioner' mean?",
+      "word": "air conditioner",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "air_conditioner_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "air conditioner",
+      "options": [
+        "sofa",
+        "living room",
+        "drawer",
+        "air conditioner"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "air_conditioner_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "air conditioner",
+      "options": [
+        "air conditioner",
+        "bedroom",
+        "bathroom",
+        "wall"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "air_conditioner_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'heater' mean?",
+      "word": "heater",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "heater_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "heater",
+      "options": [
+        "garage",
+        "bathtub",
+        "lamp",
+        "heater"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "heater_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "heater",
+      "options": [
+        "floor",
+        "room",
+        "apartment",
+        "heater"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "heater_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fireplace' mean?",
+      "word": "fireplace",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fireplace_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fireplace",
+      "options": [
+        "blanket",
+        "fireplace",
+        "sheet",
+        "room"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "fireplace_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "fireplace",
+      "options": [
+        "room",
+        "air conditioner",
+        "building",
+        "fireplace"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fireplace_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'toilet' mean?",
+      "word": "toilet",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "toilet_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "toilet",
+      "options": [
+        "floor",
+        "room",
+        "toilet",
+        "rug"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "toilet_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "toilet",
+      "options": [
+        "air conditioner",
+        "toilet",
+        "mirror",
+        "home"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "toilet_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sink' mean?",
+      "word": "sink",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sink_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sink",
+      "options": [
+        "sink",
+        "roof",
+        "couch",
+        "wardrobe"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sink_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "sink",
+      "options": [
+        "attic",
+        "sink",
+        "wardrobe",
+        "bookshelf"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sink_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'shower' mean?",
+      "word": "shower",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shower_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "shower",
+      "options": [
+        "apartment",
+        "curtain",
+        "building",
+        "shower"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "shower_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "shower",
+      "options": [
+        "basement",
+        "dining room",
+        "curtain",
+        "shower"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "shower_3",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bathtub' mean?",
+      "word": "bathtub",
+      "options": [
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture",
+        "Something related to house & furniture"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bathtub_1",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bathtub",
+      "options": [
+        "mirror",
+        "bathtub",
+        "living room",
+        "bathroom"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bathtub_2",
+      "category": "House & Furniture"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to house & furniture\"",
+      "word": "bathtub",
+      "options": [
+        "bathtub",
+        "blinds",
+        "garage",
+        "mattress"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bathtub_3",
+      "category": "House & Furniture"
+    }
+  ]
+}

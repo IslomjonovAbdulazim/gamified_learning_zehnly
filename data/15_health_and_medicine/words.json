@@ -1,0 +1,12 @@
+{
+  "id": 15,
+  "name": "Health & Medicine",
+  "icon": "🏥",
+  "words": [
+    "health", "healthy", "sick", "ill", "disease", "illness", "infection", "virus", "bacteria", "allergy",
+    "doctor", "nurse", "surgeon", "dentist", "pharmacist", "therapist", "psychiatrist", "specialist", "patient", "hospital",
+    "clinic", "pharmacy", "emergency room", "ambulance", "appointment", "checkup", "examination", "diagnosis", "treatment", "surgery",
+    "medicine", "pill", "tablet", "capsule", "syrup", "injection", "vaccine", "antibiotic", "painkiller", "prescription",
+    "fever", "cough", "cold", "flu", "headache", "stomachache", "toothache", "pain", "wound", "injury"
+  ]
+}

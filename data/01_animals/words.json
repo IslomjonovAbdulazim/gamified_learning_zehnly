@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Animals",
+  "icon": "🐾",
+  "words": [
+    "dog", "cat", "elephant", "lion", "tiger", "bear", "wolf", "fox", "rabbit", "deer",
+    "horse", "cow", "pig", "sheep", "goat", "chicken", "duck", "turkey", "eagle", "owl",
+    "parrot", "penguin", "dolphin", "whale", "shark", "fish", "octopus", "crab", "lobster", "jellyfish",
+    "butterfly", "bee", "ant", "spider", "snake", "lizard", "turtle", "frog", "crocodile", "monkey",
+    "gorilla", "chimpanzee", "giraffe", "zebra", "hippopotamus", "rhinoceros", "kangaroo", "koala", "panda", "polar bear"
+  ]
+}

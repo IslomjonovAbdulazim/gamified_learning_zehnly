@@ -1,0 +1,12 @@
+{
+  "id": 17,
+  "name": "Actions & Verbs",
+  "icon": "🏃",
+  "words": [
+    "walk", "run", "jump", "climb", "swim", "fly", "drive", "ride", "sit", "stand",
+    "lie", "sleep", "wake", "eat", "drink", "cook", "bake", "fry", "boil", "cut",
+    "write", "read", "speak", "listen", "watch", "see", "hear", "smell", "taste", "touch",
+    "think", "know", "learn", "teach", "study", "remember", "forget", "understand", "believe", "imagine",
+    "love", "hate", "like", "want", "need", "have", "give", "take", "buy", "sell"
+  ]
+}

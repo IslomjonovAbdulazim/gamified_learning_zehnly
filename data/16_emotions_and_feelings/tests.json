@@ -1,0 +1,2257 @@
+{
+  "category": "Emotions & Feelings",
+  "category_id": 16,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'happy' mean?",
+      "word": "happy",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "happy_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "happy",
+      "options": [
+        "happy",
+        "guilty",
+        "satisfied",
+        "thirsty"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "happy_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "happy",
+      "options": [
+        "thirsty",
+        "confused",
+        "sleepy",
+        "happy"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "happy_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sad' mean?",
+      "word": "sad",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sad_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sad",
+      "options": [
+        "disappointed",
+        "bored",
+        "hopeful",
+        "sad"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sad_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "sad",
+      "options": [
+        "sad",
+        "interested",
+        "worried",
+        "bored"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sad_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'angry' mean?",
+      "word": "angry",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "angry_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "angry",
+      "options": [
+        "satisfied",
+        "angry",
+        "optimistic",
+        "disappointed"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "angry_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "angry",
+      "options": [
+        "proud",
+        "content",
+        "angry",
+        "loving"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "angry_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'scared' mean?",
+      "word": "scared",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "scared_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "scared",
+      "options": [
+        "satisfied",
+        "lonely",
+        "sleepy",
+        "scared"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "scared_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "scared",
+      "options": [
+        "excited",
+        "scared",
+        "thirsty",
+        "angry"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "scared_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'afraid' mean?",
+      "word": "afraid",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "afraid_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "afraid",
+      "options": [
+        "nervous",
+        "afraid",
+        "full",
+        "cheerful"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "afraid_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "afraid",
+      "options": [
+        "proud",
+        "afraid",
+        "bored",
+        "motivated"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "afraid_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'nervous' mean?",
+      "word": "nervous",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nervous_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "nervous",
+      "options": [
+        "peaceful",
+        "curious",
+        "loving",
+        "nervous"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "nervous_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "nervous",
+      "options": [
+        "jealous",
+        "interested",
+        "overwhelmed",
+        "nervous"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "nervous_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'anxious' mean?",
+      "word": "anxious",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "anxious_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "anxious",
+      "options": [
+        "bored",
+        "anxious",
+        "depressed",
+        "thirsty"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "anxious_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "anxious",
+      "options": [
+        "bored",
+        "happy",
+        "anxious",
+        "worried"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "anxious_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'worried' mean?",
+      "word": "worried",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "worried_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "worried",
+      "options": [
+        "shocked",
+        "ashamed",
+        "scared",
+        "worried"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "worried_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "worried",
+      "options": [
+        "content",
+        "cheerful",
+        "relaxed",
+        "worried"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "worried_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'stressed' mean?",
+      "word": "stressed",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stressed_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "stressed",
+      "options": [
+        "satisfied",
+        "stressed",
+        "excited",
+        "bored"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "stressed_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "stressed",
+      "options": [
+        "full",
+        "thirsty",
+        "stressed",
+        "scared"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "stressed_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'relaxed' mean?",
+      "word": "relaxed",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "relaxed_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "relaxed",
+      "options": [
+        "afraid",
+        "disappointed",
+        "relaxed",
+        "grateful"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "relaxed_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "relaxed",
+      "options": [
+        "relaxed",
+        "miserable",
+        "interested",
+        "insecure"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "relaxed_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'excited' mean?",
+      "word": "excited",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "excited_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "excited",
+      "options": [
+        "ashamed",
+        "amazed",
+        "guilty",
+        "excited"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "excited_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "excited",
+      "options": [
+        "excited",
+        "motivated",
+        "proud",
+        "thankful"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "excited_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bored' mean?",
+      "word": "bored",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bored_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bored",
+      "options": [
+        "bored",
+        "amazed",
+        "depressed",
+        "miserable"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bored_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "bored",
+      "options": [
+        "satisfied",
+        "disappointed",
+        "scared",
+        "bored"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bored_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tired' mean?",
+      "word": "tired",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tired_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tired",
+      "options": [
+        "jealous",
+        "envious",
+        "thankful",
+        "tired"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tired_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "tired",
+      "options": [
+        "scared",
+        "tired",
+        "anxious",
+        "stressed"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "tired_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sleepy' mean?",
+      "word": "sleepy",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sleepy_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sleepy",
+      "options": [
+        "guilty",
+        "sleepy",
+        "full",
+        "afraid"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sleepy_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "sleepy",
+      "options": [
+        "confident",
+        "relaxed",
+        "sleepy",
+        "insecure"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "sleepy_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hungry' mean?",
+      "word": "hungry",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hungry_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hungry",
+      "options": [
+        "bored",
+        "hungry",
+        "satisfied",
+        "pessimistic"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hungry_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "hungry",
+      "options": [
+        "relaxed",
+        "pessimistic",
+        "thirsty",
+        "hungry"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "hungry_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'thirsty' mean?",
+      "word": "thirsty",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thirsty_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "thirsty",
+      "options": [
+        "tired",
+        "bored",
+        "hopeful",
+        "thirsty"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "thirsty_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "thirsty",
+      "options": [
+        "afraid",
+        "frustrated",
+        "scared",
+        "thirsty"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "thirsty_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'full' mean?",
+      "word": "full",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "full_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "full",
+      "options": [
+        "scared",
+        "afraid",
+        "full",
+        "loved"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "full_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "full",
+      "options": [
+        "full",
+        "happy",
+        "hopeful",
+        "curious"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "full_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'satisfied' mean?",
+      "word": "satisfied",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "satisfied_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "satisfied",
+      "options": [
+        "satisfied",
+        "proud",
+        "sad",
+        "amazed"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "satisfied_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "satisfied",
+      "options": [
+        "confused",
+        "satisfied",
+        "motivated",
+        "envious"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "satisfied_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'disappointed' mean?",
+      "word": "disappointed",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "disappointed_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "disappointed",
+      "options": [
+        "confused",
+        "hungry",
+        "disappointed",
+        "stressed"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "disappointed_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "disappointed",
+      "options": [
+        "hungry",
+        "insecure",
+        "full",
+        "disappointed"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "disappointed_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'frustrated' mean?",
+      "word": "frustrated",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "frustrated_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "frustrated",
+      "options": [
+        "envious",
+        "frustrated",
+        "pessimistic",
+        "tired"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "frustrated_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "frustrated",
+      "options": [
+        "frustrated",
+        "thirsty",
+        "guilty",
+        "thankful"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "frustrated_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'surprised' mean?",
+      "word": "surprised",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "surprised_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "surprised",
+      "options": [
+        "surprised",
+        "satisfied",
+        "thirsty",
+        "proud"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "surprised_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "surprised",
+      "options": [
+        "cheerful",
+        "anxious",
+        "tired",
+        "surprised"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "surprised_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'shocked' mean?",
+      "word": "shocked",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shocked_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "shocked",
+      "options": [
+        "shocked",
+        "calm",
+        "disappointed",
+        "confused"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shocked_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "shocked",
+      "options": [
+        "relaxed",
+        "full",
+        "shocked",
+        "overwhelmed"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "shocked_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'amazed' mean?",
+      "word": "amazed",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "amazed_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "amazed",
+      "options": [
+        "curious",
+        "amazed",
+        "hopeful",
+        "loving"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "amazed_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "amazed",
+      "options": [
+        "satisfied",
+        "proud",
+        "tired",
+        "amazed"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "amazed_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'confused' mean?",
+      "word": "confused",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "confused_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "confused",
+      "options": [
+        "loving",
+        "confused",
+        "miserable",
+        "jealous"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "confused_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "confused",
+      "options": [
+        "embarrassed",
+        "sleepy",
+        "motivated",
+        "confused"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "confused_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'curious' mean?",
+      "word": "curious",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "curious_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "curious",
+      "options": [
+        "afraid",
+        "sleepy",
+        "curious",
+        "peaceful"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "curious_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "curious",
+      "options": [
+        "surprised",
+        "insecure",
+        "thirsty",
+        "curious"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "curious_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'interested' mean?",
+      "word": "interested",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "interested_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "interested",
+      "options": [
+        "worried",
+        "loving",
+        "interested",
+        "optimistic"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "interested_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "interested",
+      "options": [
+        "disappointed",
+        "hopeful",
+        "bored",
+        "interested"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "interested_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'proud' mean?",
+      "word": "proud",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "proud_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "proud",
+      "options": [
+        "full",
+        "interested",
+        "proud",
+        "bored"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "proud_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "proud",
+      "options": [
+        "disappointed",
+        "proud",
+        "happy",
+        "curious"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "proud_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ashamed' mean?",
+      "word": "ashamed",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ashamed_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ashamed",
+      "options": [
+        "ashamed",
+        "hopeful",
+        "bored",
+        "surprised"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ashamed_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "ashamed",
+      "options": [
+        "jealous",
+        "thirsty",
+        "confused",
+        "ashamed"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ashamed_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'embarrassed' mean?",
+      "word": "embarrassed",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "embarrassed_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "embarrassed",
+      "options": [
+        "excited",
+        "embarrassed",
+        "confident",
+        "frustrated"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "embarrassed_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "embarrassed",
+      "options": [
+        "frustrated",
+        "satisfied",
+        "hungry",
+        "embarrassed"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "embarrassed_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'guilty' mean?",
+      "word": "guilty",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "guilty_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "guilty",
+      "options": [
+        "guilty",
+        "disappointed",
+        "peaceful",
+        "amazed"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "guilty_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "guilty",
+      "options": [
+        "afraid",
+        "guilty",
+        "ashamed",
+        "jealous"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "guilty_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'jealous' mean?",
+      "word": "jealous",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jealous_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "jealous",
+      "options": [
+        "motivated",
+        "jealous",
+        "confused",
+        "angry"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "jealous_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "jealous",
+      "options": [
+        "surprised",
+        "jealous",
+        "overwhelmed",
+        "grateful"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "jealous_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'envious' mean?",
+      "word": "envious",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "envious_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "envious",
+      "options": [
+        "envious",
+        "nervous",
+        "peaceful",
+        "sleepy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "envious_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "envious",
+      "options": [
+        "envious",
+        "thirsty",
+        "confused",
+        "hungry"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "envious_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grateful' mean?",
+      "word": "grateful",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grateful_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "grateful",
+      "options": [
+        "tired",
+        "amazed",
+        "calm",
+        "grateful"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "grateful_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "grateful",
+      "options": [
+        "hopeful",
+        "calm",
+        "shocked",
+        "grateful"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "grateful_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'thankful' mean?",
+      "word": "thankful",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thankful_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "thankful",
+      "options": [
+        "depressed",
+        "overwhelmed",
+        "thankful",
+        "shocked"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "thankful_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "thankful",
+      "options": [
+        "thankful",
+        "bored",
+        "worried",
+        "peaceful"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thankful_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hopeful' mean?",
+      "word": "hopeful",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hopeful_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hopeful",
+      "options": [
+        "surprised",
+        "hopeful",
+        "overwhelmed",
+        "shocked"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hopeful_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "hopeful",
+      "options": [
+        "bored",
+        "thirsty",
+        "hopeful",
+        "guilty"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hopeful_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'optimistic' mean?",
+      "word": "optimistic",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "optimistic_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "optimistic",
+      "options": [
+        "loved",
+        "optimistic",
+        "peaceful",
+        "pessimistic"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "optimistic_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "optimistic",
+      "options": [
+        "guilty",
+        "optimistic",
+        "disappointed",
+        "nervous"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "optimistic_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pessimistic' mean?",
+      "word": "pessimistic",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pessimistic_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pessimistic",
+      "options": [
+        "depressed",
+        "miserable",
+        "pessimistic",
+        "bored"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pessimistic_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "pessimistic",
+      "options": [
+        "thankful",
+        "worried",
+        "optimistic",
+        "pessimistic"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pessimistic_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lonely' mean?",
+      "word": "lonely",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lonely_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lonely",
+      "options": [
+        "insecure",
+        "loved",
+        "full",
+        "lonely"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lonely_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "lonely",
+      "options": [
+        "hopeful",
+        "insecure",
+        "surprised",
+        "lonely"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lonely_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'loved' mean?",
+      "word": "loved",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "loved_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "loved",
+      "options": [
+        "interested",
+        "thirsty",
+        "miserable",
+        "loved"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "loved_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "loved",
+      "options": [
+        "loved",
+        "calm",
+        "embarrassed",
+        "optimistic"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "loved_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'loving' mean?",
+      "word": "loving",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "loving_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "loving",
+      "options": [
+        "loving",
+        "interested",
+        "shocked",
+        "happy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "loving_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "loving",
+      "options": [
+        "miserable",
+        "happy",
+        "loving",
+        "sleepy"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "loving_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'calm' mean?",
+      "word": "calm",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "calm_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "calm",
+      "options": [
+        "proud",
+        "loved",
+        "calm",
+        "optimistic"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "calm_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "calm",
+      "options": [
+        "content",
+        "tired",
+        "calm",
+        "pessimistic"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "calm_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'peaceful' mean?",
+      "word": "peaceful",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "peaceful_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "peaceful",
+      "options": [
+        "peaceful",
+        "ashamed",
+        "loving",
+        "cheerful"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "peaceful_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "peaceful",
+      "options": [
+        "pessimistic",
+        "worried",
+        "peaceful",
+        "depressed"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "peaceful_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'content' mean?",
+      "word": "content",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "content_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "content",
+      "options": [
+        "guilty",
+        "interested",
+        "embarrassed",
+        "content"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "content_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "content",
+      "options": [
+        "afraid",
+        "insecure",
+        "content",
+        "full"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "content_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cheerful' mean?",
+      "word": "cheerful",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cheerful_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cheerful",
+      "options": [
+        "ashamed",
+        "amazed",
+        "cheerful",
+        "interested"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cheerful_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "cheerful",
+      "options": [
+        "content",
+        "curious",
+        "ashamed",
+        "cheerful"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cheerful_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'miserable' mean?",
+      "word": "miserable",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "miserable_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "miserable",
+      "options": [
+        "peaceful",
+        "sad",
+        "shocked",
+        "miserable"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "miserable_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "miserable",
+      "options": [
+        "peaceful",
+        "anxious",
+        "miserable",
+        "satisfied"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "miserable_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'depressed' mean?",
+      "word": "depressed",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "depressed_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "depressed",
+      "options": [
+        "hopeful",
+        "curious",
+        "loved",
+        "depressed"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "depressed_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "depressed",
+      "options": [
+        "depressed",
+        "guilty",
+        "shocked",
+        "thankful"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "depressed_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'overwhelmed' mean?",
+      "word": "overwhelmed",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "overwhelmed_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "overwhelmed",
+      "options": [
+        "scared",
+        "motivated",
+        "overwhelmed",
+        "surprised"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "overwhelmed_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "overwhelmed",
+      "options": [
+        "hungry",
+        "overwhelmed",
+        "frustrated",
+        "loved"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "overwhelmed_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'confident' mean?",
+      "word": "confident",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "confident_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "confident",
+      "options": [
+        "worried",
+        "amazed",
+        "confident",
+        "depressed"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "confident_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "confident",
+      "options": [
+        "confident",
+        "tired",
+        "satisfied",
+        "lonely"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "confident_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'insecure' mean?",
+      "word": "insecure",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "insecure_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "insecure",
+      "options": [
+        "stressed",
+        "insecure",
+        "curious",
+        "disappointed"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "insecure_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "insecure",
+      "options": [
+        "confident",
+        "relaxed",
+        "peaceful",
+        "insecure"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "insecure_3",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'motivated' mean?",
+      "word": "motivated",
+      "options": [
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings",
+        "Something related to emotions & feelings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "motivated_1",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "motivated",
+      "options": [
+        "motivated",
+        "happy",
+        "cheerful",
+        "loving"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "motivated_2",
+      "category": "Emotions & Feelings"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to emotions & feelings\"",
+      "word": "motivated",
+      "options": [
+        "scared",
+        "motivated",
+        "ashamed",
+        "content"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "motivated_3",
+      "category": "Emotions & Feelings"
+    }
+  ]
+}

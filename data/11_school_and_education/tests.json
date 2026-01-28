@@ -1,0 +1,2257 @@
+{
+  "category": "School & Education",
+  "category_id": 11,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'school' mean?",
+      "word": "school",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "school_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "school",
+      "options": [
+        "certificate",
+        "locker",
+        "school",
+        "classroom"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "school_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "school",
+      "options": [
+        "textbook",
+        "school",
+        "quiz",
+        "literature"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "school_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'classroom' mean?",
+      "word": "classroom",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "classroom_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "classroom",
+      "options": [
+        "notebook",
+        "classroom",
+        "book",
+        "blackboard"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "classroom_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "classroom",
+      "options": [
+        "classroom",
+        "whiteboard",
+        "physical education",
+        "textbook"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "classroom_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'teacher' mean?",
+      "word": "teacher",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teacher_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "teacher",
+      "options": [
+        "biology",
+        "teacher",
+        "chalk",
+        "math"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "teacher_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "teacher",
+      "options": [
+        "chalk",
+        "book",
+        "teacher",
+        "eraser"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "teacher_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'student' mean?",
+      "word": "student",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "student_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "student",
+      "options": [
+        "student",
+        "university",
+        "professor",
+        "report card"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "student_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "student",
+      "options": [
+        "student",
+        "language",
+        "library",
+        "notebook"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "student_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'principal' mean?",
+      "word": "principal",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "principal_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "principal",
+      "options": [
+        "principal",
+        "report card",
+        "exam",
+        "physical education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "principal_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "principal",
+      "options": [
+        "library",
+        "degree",
+        "principal",
+        "grade"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "principal_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'professor' mean?",
+      "word": "professor",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "professor_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "professor",
+      "options": [
+        "professor",
+        "chalk",
+        "language",
+        "math"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "professor_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "professor",
+      "options": [
+        "test",
+        "ruler",
+        "academy",
+        "professor"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "professor_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'university' mean?",
+      "word": "university",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "university_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "university",
+      "options": [
+        "university",
+        "whiteboard",
+        "calculator",
+        "homework"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "university_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "university",
+      "options": [
+        "art",
+        "music",
+        "backpack",
+        "university"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "university_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'college' mean?",
+      "word": "college",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "college_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "college",
+      "options": [
+        "language",
+        "college",
+        "test",
+        "degree"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "college_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "college",
+      "options": [
+        "art",
+        "classroom",
+        "college",
+        "book"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "college_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'academy' mean?",
+      "word": "academy",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "academy_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "academy",
+      "options": [
+        "academy",
+        "library",
+        "calculator",
+        "principal"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "academy_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "academy",
+      "options": [
+        "locker",
+        "notebook",
+        "exam",
+        "academy"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "academy_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'institute' mean?",
+      "word": "institute",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "institute_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "institute",
+      "options": [
+        "institute",
+        "library",
+        "marker",
+        "pencil"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "institute_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "institute",
+      "options": [
+        "institute",
+        "homework",
+        "book",
+        "calculator"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "institute_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'book' mean?",
+      "word": "book",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "book_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "book",
+      "options": [
+        "pen",
+        "book",
+        "chalk",
+        "notebook"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "book_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "book",
+      "options": [
+        "calculator",
+        "physical education",
+        "book",
+        "cafeteria"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "book_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'textbook' mean?",
+      "word": "textbook",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "textbook_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "textbook",
+      "options": [
+        "student",
+        "pen",
+        "art",
+        "textbook"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "textbook_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "textbook",
+      "options": [
+        "computer",
+        "textbook",
+        "tablet",
+        "chair"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "textbook_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'notebook' mean?",
+      "word": "notebook",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "notebook_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "notebook",
+      "options": [
+        "certificate",
+        "academy",
+        "biology",
+        "notebook"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "notebook_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "notebook",
+      "options": [
+        "assignment",
+        "notebook",
+        "chair",
+        "certificate"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "notebook_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pencil' mean?",
+      "word": "pencil",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pencil_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pencil",
+      "options": [
+        "chair",
+        "art",
+        "pencil",
+        "school"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pencil_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "pencil",
+      "options": [
+        "history",
+        "science",
+        "textbook",
+        "pencil"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pencil_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pen' mean?",
+      "word": "pen",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pen_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pen",
+      "options": [
+        "tablet",
+        "art",
+        "pen",
+        "science"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pen_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "pen",
+      "options": [
+        "pen",
+        "geography",
+        "chair",
+        "blackboard"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pen_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'eraser' mean?",
+      "word": "eraser",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eraser_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "eraser",
+      "options": [
+        "eraser",
+        "professor",
+        "test",
+        "calculator"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eraser_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "eraser",
+      "options": [
+        "locker",
+        "eraser",
+        "homework",
+        "ruler"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "eraser_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ruler' mean?",
+      "word": "ruler",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ruler_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ruler",
+      "options": [
+        "ruler",
+        "history",
+        "computer",
+        "professor"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ruler_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "ruler",
+      "options": [
+        "ruler",
+        "test",
+        "book",
+        "student"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ruler_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'calculator' mean?",
+      "word": "calculator",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "calculator_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "calculator",
+      "options": [
+        "homework",
+        "calculator",
+        "grade",
+        "art"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "calculator_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "calculator",
+      "options": [
+        "homework",
+        "professor",
+        "calculator",
+        "textbook"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "calculator_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'computer' mean?",
+      "word": "computer",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "computer_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "computer",
+      "options": [
+        "language",
+        "calculator",
+        "computer",
+        "science"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "computer_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "computer",
+      "options": [
+        "desk",
+        "grade",
+        "pencil",
+        "computer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "computer_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tablet' mean?",
+      "word": "tablet",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tablet_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tablet",
+      "options": [
+        "diploma",
+        "tablet",
+        "student",
+        "professor"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "tablet_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "tablet",
+      "options": [
+        "blackboard",
+        "teacher",
+        "tablet",
+        "degree"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "tablet_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'desk' mean?",
+      "word": "desk",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "desk_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "desk",
+      "options": [
+        "degree",
+        "music",
+        "backpack",
+        "desk"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "desk_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "desk",
+      "options": [
+        "teacher",
+        "desk",
+        "university",
+        "locker"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "desk_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chair' mean?",
+      "word": "chair",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chair_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "chair",
+      "options": [
+        "notebook",
+        "chair",
+        "pencil",
+        "student"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chair_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "chair",
+      "options": [
+        "chair",
+        "diploma",
+        "school",
+        "certificate"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chair_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'blackboard' mean?",
+      "word": "blackboard",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "blackboard_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "blackboard",
+      "options": [
+        "science",
+        "calculator",
+        "teacher",
+        "blackboard"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "blackboard_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "blackboard",
+      "options": [
+        "certificate",
+        "art",
+        "blackboard",
+        "science"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "blackboard_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'whiteboard' mean?",
+      "word": "whiteboard",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "whiteboard_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "whiteboard",
+      "options": [
+        "whiteboard",
+        "institute",
+        "college",
+        "science"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "whiteboard_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "whiteboard",
+      "options": [
+        "classroom",
+        "whiteboard",
+        "backpack",
+        "locker"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "whiteboard_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chalk' mean?",
+      "word": "chalk",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chalk_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "chalk",
+      "options": [
+        "chalk",
+        "chair",
+        "teacher",
+        "desk"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chalk_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "chalk",
+      "options": [
+        "institute",
+        "chalk",
+        "university",
+        "school"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chalk_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'marker' mean?",
+      "word": "marker",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "marker_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "marker",
+      "options": [
+        "geography",
+        "report card",
+        "marker",
+        "degree"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "marker_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "marker",
+      "options": [
+        "principal",
+        "language",
+        "marker",
+        "college"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "marker_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'backpack' mean?",
+      "word": "backpack",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "backpack_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "backpack",
+      "options": [
+        "backpack",
+        "geography",
+        "academy",
+        "marker"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "backpack_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "backpack",
+      "options": [
+        "history",
+        "backpack",
+        "chalk",
+        "language"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "backpack_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'locker' mean?",
+      "word": "locker",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "locker_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "locker",
+      "options": [
+        "science",
+        "grade",
+        "locker",
+        "pen"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "locker_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "locker",
+      "options": [
+        "homework",
+        "blackboard",
+        "teacher",
+        "locker"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "locker_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'library' mean?",
+      "word": "library",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "library_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "library",
+      "options": [
+        "library",
+        "book",
+        "blackboard",
+        "biology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "library_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "library",
+      "options": [
+        "professor",
+        "library",
+        "marker",
+        "test"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "library_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cafeteria' mean?",
+      "word": "cafeteria",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cafeteria_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cafeteria",
+      "options": [
+        "degree",
+        "textbook",
+        "biology",
+        "cafeteria"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cafeteria_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "cafeteria",
+      "options": [
+        "ruler",
+        "history",
+        "cafeteria",
+        "blackboard"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cafeteria_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'homework' mean?",
+      "word": "homework",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "homework_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "homework",
+      "options": [
+        "diploma",
+        "history",
+        "homework",
+        "language"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "homework_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "homework",
+      "options": [
+        "math",
+        "college",
+        "homework",
+        "textbook"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "homework_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'assignment' mean?",
+      "word": "assignment",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "assignment_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "assignment",
+      "options": [
+        "test",
+        "exam",
+        "assignment",
+        "marker"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "assignment_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "assignment",
+      "options": [
+        "marker",
+        "report card",
+        "assignment",
+        "teacher"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "assignment_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'exam' mean?",
+      "word": "exam",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "exam_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "exam",
+      "options": [
+        "language",
+        "exam",
+        "grade",
+        "homework"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "exam_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "exam",
+      "options": [
+        "exam",
+        "desk",
+        "academy",
+        "quiz"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "exam_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'test' mean?",
+      "word": "test",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "test_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "test",
+      "options": [
+        "ruler",
+        "academy",
+        "test",
+        "physical education"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "test_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "test",
+      "options": [
+        "math",
+        "chalk",
+        "chair",
+        "test"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "test_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'quiz' mean?",
+      "word": "quiz",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "quiz_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "quiz",
+      "options": [
+        "art",
+        "principal",
+        "academy",
+        "quiz"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "quiz_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "quiz",
+      "options": [
+        "literature",
+        "school",
+        "geography",
+        "quiz"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "quiz_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grade' mean?",
+      "word": "grade",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grade_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "grade",
+      "options": [
+        "grade",
+        "calculator",
+        "geography",
+        "blackboard"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grade_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "grade",
+      "options": [
+        "art",
+        "certificate",
+        "test",
+        "grade"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "grade_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'report card' mean?",
+      "word": "report card",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "report_card_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "report card",
+      "options": [
+        "report card",
+        "calculator",
+        "principal",
+        "computer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "report_card_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "report card",
+      "options": [
+        "physical education",
+        "report card",
+        "math",
+        "tablet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "report_card_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'diploma' mean?",
+      "word": "diploma",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "diploma_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "diploma",
+      "options": [
+        "textbook",
+        "notebook",
+        "diploma",
+        "institute"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "diploma_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "diploma",
+      "options": [
+        "desk",
+        "computer",
+        "chalk",
+        "diploma"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "diploma_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'degree' mean?",
+      "word": "degree",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "degree_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "degree",
+      "options": [
+        "university",
+        "science",
+        "whiteboard",
+        "degree"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "degree_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "degree",
+      "options": [
+        "quiz",
+        "degree",
+        "book",
+        "literature"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "degree_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'certificate' mean?",
+      "word": "certificate",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "certificate_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "certificate",
+      "options": [
+        "certificate",
+        "music",
+        "diploma",
+        "principal"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "certificate_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "certificate",
+      "options": [
+        "school",
+        "certificate",
+        "literature",
+        "teacher"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "certificate_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'math' mean?",
+      "word": "math",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "math_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "math",
+      "options": [
+        "homework",
+        "math",
+        "college",
+        "student"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "math_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "math",
+      "options": [
+        "geography",
+        "math",
+        "student",
+        "notebook"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "math_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'science' mean?",
+      "word": "science",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "science_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "science",
+      "options": [
+        "library",
+        "ruler",
+        "science",
+        "calculator"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "science_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "science",
+      "options": [
+        "student",
+        "desk",
+        "science",
+        "pen"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "science_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'history' mean?",
+      "word": "history",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "history_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "history",
+      "options": [
+        "history",
+        "ruler",
+        "textbook",
+        "literature"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "history_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "history",
+      "options": [
+        "college",
+        "assignment",
+        "academy",
+        "history"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "history_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'geography' mean?",
+      "word": "geography",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "geography_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "geography",
+      "options": [
+        "geography",
+        "locker",
+        "grade",
+        "exam"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "geography_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "geography",
+      "options": [
+        "geography",
+        "desk",
+        "whiteboard",
+        "ruler"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "geography_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'literature' mean?",
+      "word": "literature",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "literature_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "literature",
+      "options": [
+        "geography",
+        "literature",
+        "cafeteria",
+        "student"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "literature_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "literature",
+      "options": [
+        "geography",
+        "university",
+        "locker",
+        "literature"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "literature_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'language' mean?",
+      "word": "language",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "language_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "language",
+      "options": [
+        "certificate",
+        "language",
+        "geography",
+        "marker"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "language_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "language",
+      "options": [
+        "chair",
+        "eraser",
+        "language",
+        "test"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "language_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'art' mean?",
+      "word": "art",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "art_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "art",
+      "options": [
+        "homework",
+        "tablet",
+        "art",
+        "degree"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "art_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "art",
+      "options": [
+        "pen",
+        "college",
+        "art",
+        "eraser"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "art_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'music' mean?",
+      "word": "music",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "music_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "music",
+      "options": [
+        "pencil",
+        "desk",
+        "music",
+        "computer"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "music_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "music",
+      "options": [
+        "exam",
+        "eraser",
+        "textbook",
+        "music"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "music_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'physical education' mean?",
+      "word": "physical education",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "physical_education_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "physical education",
+      "options": [
+        "physical education",
+        "geography",
+        "blackboard",
+        "computer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "physical_education_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "physical education",
+      "options": [
+        "ruler",
+        "report card",
+        "physical education",
+        "music"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "physical_education_3",
+      "category": "School & Education"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'biology' mean?",
+      "word": "biology",
+      "options": [
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education",
+        "Something related to school & education"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "biology_1",
+      "category": "School & Education"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "biology",
+      "options": [
+        "music",
+        "biology",
+        "university",
+        "diploma"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "biology_2",
+      "category": "School & Education"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to school & education\"",
+      "word": "biology",
+      "options": [
+        "biology",
+        "physical education",
+        "college",
+        "history"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "biology_3",
+      "category": "School & Education"
+    }
+  ]
+}

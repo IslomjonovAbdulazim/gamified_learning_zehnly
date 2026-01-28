@@ -1,0 +1,2257 @@
+{
+  "category": "Colors",
+  "category_id": 5,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'red' mean?",
+      "word": "red",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "red_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "red",
+      "options": [
+        "magenta",
+        "red",
+        "mint",
+        "white"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "red_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "red",
+      "options": [
+        "magenta",
+        "red",
+        "peach",
+        "gold"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "red_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'blue' mean?",
+      "word": "blue",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "blue_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "blue",
+      "options": [
+        "blue",
+        "hot pink",
+        "indigo",
+        "mint"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "blue_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "blue",
+      "options": [
+        "rose",
+        "burgundy",
+        "blue",
+        "salmon"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "blue_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'green' mean?",
+      "word": "green",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "green_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "green",
+      "options": [
+        "green",
+        "red",
+        "cyan",
+        "mint"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "green_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "green",
+      "options": [
+        "pearl",
+        "green",
+        "white",
+        "gold"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "green_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'yellow' mean?",
+      "word": "yellow",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "yellow_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "yellow",
+      "options": [
+        "yellow",
+        "maroon",
+        "green",
+        "copper"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "yellow_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "yellow",
+      "options": [
+        "scarlet",
+        "yellow",
+        "pearl",
+        "lavender"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "yellow_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'orange' mean?",
+      "word": "orange",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "orange_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "orange",
+      "options": [
+        "orange",
+        "cream",
+        "gray",
+        "navy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "orange_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "orange",
+      "options": [
+        "coral",
+        "orange",
+        "crimson",
+        "pearl"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "orange_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'purple' mean?",
+      "word": "purple",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "purple_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "purple",
+      "options": [
+        "purple",
+        "charcoal",
+        "hot pink",
+        "peach"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "purple_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "purple",
+      "options": [
+        "navy",
+        "purple",
+        "beige",
+        "royal blue"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "purple_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pink' mean?",
+      "word": "pink",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pink_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pink",
+      "options": [
+        "coral",
+        "pink",
+        "lavender",
+        "magenta"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pink_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "pink",
+      "options": [
+        "ivory",
+        "aqua",
+        "royal blue",
+        "pink"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pink_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'brown' mean?",
+      "word": "brown",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "brown_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "brown",
+      "options": [
+        "gray",
+        "lavender",
+        "brown",
+        "lime"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "brown_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "brown",
+      "options": [
+        "copper",
+        "maroon",
+        "rust",
+        "brown"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "brown_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'black' mean?",
+      "word": "black",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "black_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "black",
+      "options": [
+        "brown",
+        "ivory",
+        "charcoal",
+        "black"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "black_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "black",
+      "options": [
+        "green",
+        "lime",
+        "black",
+        "rose"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "black_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'white' mean?",
+      "word": "white",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "white_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "white",
+      "options": [
+        "white",
+        "black",
+        "sky blue",
+        "grey"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "white_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "white",
+      "options": [
+        "teal",
+        "white",
+        "beige",
+        "pearl"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "white_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'gray' mean?",
+      "word": "gray",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "gray_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "gray",
+      "options": [
+        "gray",
+        "beige",
+        "brown",
+        "violet"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "gray_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "gray",
+      "options": [
+        "grey",
+        "royal blue",
+        "gray",
+        "turquoise"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "gray_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grey' mean?",
+      "word": "grey",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grey_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "grey",
+      "options": [
+        "tan",
+        "red",
+        "grey",
+        "cyan"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "grey_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "grey",
+      "options": [
+        "grey",
+        "rust",
+        "salmon",
+        "coral"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grey_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'silver' mean?",
+      "word": "silver",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "silver_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "silver",
+      "options": [
+        "crimson",
+        "green",
+        "yellow",
+        "silver"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "silver_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "silver",
+      "options": [
+        "salmon",
+        "silver",
+        "white",
+        "navy"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "silver_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'gold' mean?",
+      "word": "gold",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "gold_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "gold",
+      "options": [
+        "purple",
+        "green",
+        "pearl",
+        "gold"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "gold_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "gold",
+      "options": [
+        "green",
+        "gray",
+        "gold",
+        "pink"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "gold_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bronze' mean?",
+      "word": "bronze",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bronze_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bronze",
+      "options": [
+        "violet",
+        "jade",
+        "bronze",
+        "midnight blue"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bronze_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "bronze",
+      "options": [
+        "cream",
+        "crimson",
+        "sky blue",
+        "bronze"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bronze_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'beige' mean?",
+      "word": "beige",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "beige_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "beige",
+      "options": [
+        "cream",
+        "magenta",
+        "beige",
+        "ivory"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "beige_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "beige",
+      "options": [
+        "red",
+        "gray",
+        "beige",
+        "turquoise"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "beige_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cream' mean?",
+      "word": "cream",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cream_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cream",
+      "options": [
+        "ivory",
+        "navy",
+        "cream",
+        "peach"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cream_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "cream",
+      "options": [
+        "cream",
+        "black",
+        "gray",
+        "mint"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cream_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ivory' mean?",
+      "word": "ivory",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ivory_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ivory",
+      "options": [
+        "midnight blue",
+        "olive",
+        "beige",
+        "ivory"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ivory_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "ivory",
+      "options": [
+        "ivory",
+        "salmon",
+        "midnight blue",
+        "sky blue"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ivory_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tan' mean?",
+      "word": "tan",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tan_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tan",
+      "options": [
+        "midnight blue",
+        "tan",
+        "red",
+        "jade"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "tan_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "tan",
+      "options": [
+        "tan",
+        "lime",
+        "magenta",
+        "maroon"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tan_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'maroon' mean?",
+      "word": "maroon",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "maroon_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "maroon",
+      "options": [
+        "yellow",
+        "maroon",
+        "jade",
+        "midnight blue"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "maroon_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "maroon",
+      "options": [
+        "jade",
+        "copper",
+        "maroon",
+        "midnight blue"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "maroon_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'navy' mean?",
+      "word": "navy",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "navy_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "navy",
+      "options": [
+        "navy",
+        "salmon",
+        "charcoal",
+        "aqua"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "navy_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "navy",
+      "options": [
+        "tan",
+        "crimson",
+        "ivory",
+        "navy"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "navy_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'turquoise' mean?",
+      "word": "turquoise",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "turquoise_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "turquoise",
+      "options": [
+        "yellow",
+        "cyan",
+        "maroon",
+        "turquoise"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "turquoise_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "turquoise",
+      "options": [
+        "violet",
+        "rose",
+        "turquoise",
+        "gold"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "turquoise_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'teal' mean?",
+      "word": "teal",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teal_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "teal",
+      "options": [
+        "teal",
+        "silver",
+        "rust",
+        "pearl"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teal_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "teal",
+      "options": [
+        "teal",
+        "ivory",
+        "gold",
+        "maroon"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teal_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cyan' mean?",
+      "word": "cyan",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cyan_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cyan",
+      "options": [
+        "violet",
+        "indigo",
+        "cyan",
+        "magenta"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cyan_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "cyan",
+      "options": [
+        "magenta",
+        "rust",
+        "maroon",
+        "cyan"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cyan_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'magenta' mean?",
+      "word": "magenta",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "magenta_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "magenta",
+      "options": [
+        "cyan",
+        "lavender",
+        "magenta",
+        "gray"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "magenta_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "magenta",
+      "options": [
+        "purple",
+        "magenta",
+        "turquoise",
+        "lime"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "magenta_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'violet' mean?",
+      "word": "violet",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "violet_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "violet",
+      "options": [
+        "burgundy",
+        "salmon",
+        "violet",
+        "sky blue"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "violet_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "violet",
+      "options": [
+        "rose",
+        "emerald",
+        "violet",
+        "charcoal"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "violet_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'indigo' mean?",
+      "word": "indigo",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "indigo_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "indigo",
+      "options": [
+        "grey",
+        "indigo",
+        "rust",
+        "salmon"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "indigo_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "indigo",
+      "options": [
+        "peach",
+        "indigo",
+        "red",
+        "cream"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "indigo_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lavender' mean?",
+      "word": "lavender",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lavender_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lavender",
+      "options": [
+        "sky blue",
+        "white",
+        "lavender",
+        "mint"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "lavender_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "lavender",
+      "options": [
+        "salmon",
+        "rust",
+        "lavender",
+        "emerald"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "lavender_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'coral' mean?",
+      "word": "coral",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "coral_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "coral",
+      "options": [
+        "navy",
+        "bronze",
+        "coral",
+        "red"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "coral_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "coral",
+      "options": [
+        "coral",
+        "cyan",
+        "silver",
+        "lime"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "coral_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'salmon' mean?",
+      "word": "salmon",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "salmon_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "salmon",
+      "options": [
+        "lavender",
+        "hot pink",
+        "salmon",
+        "brown"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "salmon_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "salmon",
+      "options": [
+        "salmon",
+        "teal",
+        "grey",
+        "lavender"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "salmon_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'peach' mean?",
+      "word": "peach",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "peach_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "peach",
+      "options": [
+        "rust",
+        "rose",
+        "pink",
+        "peach"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "peach_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "peach",
+      "options": [
+        "yellow",
+        "purple",
+        "peach",
+        "indigo"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "peach_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'burgundy' mean?",
+      "word": "burgundy",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "burgundy_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "burgundy",
+      "options": [
+        "purple",
+        "burgundy",
+        "mint",
+        "crimson"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "burgundy_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "burgundy",
+      "options": [
+        "rose",
+        "pearl",
+        "burgundy",
+        "purple"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "burgundy_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'crimson' mean?",
+      "word": "crimson",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "crimson_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "crimson",
+      "options": [
+        "crimson",
+        "tan",
+        "pearl",
+        "bronze"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "crimson_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "crimson",
+      "options": [
+        "emerald",
+        "grey",
+        "cream",
+        "crimson"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "crimson_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'scarlet' mean?",
+      "word": "scarlet",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "scarlet_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "scarlet",
+      "options": [
+        "yellow",
+        "scarlet",
+        "orange",
+        "cyan"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "scarlet_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "scarlet",
+      "options": [
+        "charcoal",
+        "grey",
+        "copper",
+        "scarlet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "scarlet_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'olive' mean?",
+      "word": "olive",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "olive_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "olive",
+      "options": [
+        "green",
+        "olive",
+        "indigo",
+        "gold"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "olive_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "olive",
+      "options": [
+        "sky blue",
+        "brown",
+        "copper",
+        "olive"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "olive_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lime' mean?",
+      "word": "lime",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lime_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lime",
+      "options": [
+        "charcoal",
+        "copper",
+        "coral",
+        "lime"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lime_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "lime",
+      "options": [
+        "aqua",
+        "peach",
+        "olive",
+        "lime"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lime_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mint' mean?",
+      "word": "mint",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mint_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mint",
+      "options": [
+        "aqua",
+        "cream",
+        "brown",
+        "mint"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "mint_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "mint",
+      "options": [
+        "red",
+        "mint",
+        "lavender",
+        "peach"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "mint_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'emerald' mean?",
+      "word": "emerald",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "emerald_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "emerald",
+      "options": [
+        "rose",
+        "pink",
+        "hot pink",
+        "emerald"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "emerald_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "emerald",
+      "options": [
+        "emerald",
+        "salmon",
+        "lime",
+        "crimson"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "emerald_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'jade' mean?",
+      "word": "jade",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jade_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "jade",
+      "options": [
+        "coral",
+        "teal",
+        "crimson",
+        "jade"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "jade_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "jade",
+      "options": [
+        "rust",
+        "navy",
+        "jade",
+        "white"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "jade_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'aqua' mean?",
+      "word": "aqua",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "aqua_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "aqua",
+      "options": [
+        "yellow",
+        "green",
+        "aqua",
+        "pearl"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "aqua_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "aqua",
+      "options": [
+        "purple",
+        "bronze",
+        "aqua",
+        "lime"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "aqua_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sky blue' mean?",
+      "word": "sky blue",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sky_blue_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sky blue",
+      "options": [
+        "violet",
+        "lime",
+        "copper",
+        "sky blue"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sky_blue_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "sky blue",
+      "options": [
+        "sky blue",
+        "purple",
+        "mint",
+        "beige"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sky_blue_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'royal blue' mean?",
+      "word": "royal blue",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "royal_blue_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "royal blue",
+      "options": [
+        "royal blue",
+        "bronze",
+        "ivory",
+        "silver"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "royal_blue_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "royal blue",
+      "options": [
+        "royal blue",
+        "lavender",
+        "copper",
+        "burgundy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "royal_blue_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'midnight blue' mean?",
+      "word": "midnight blue",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "midnight_blue_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "midnight blue",
+      "options": [
+        "yellow",
+        "midnight blue",
+        "black",
+        "mint"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "midnight_blue_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "midnight blue",
+      "options": [
+        "white",
+        "violet",
+        "cyan",
+        "midnight blue"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "midnight_blue_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'forest green' mean?",
+      "word": "forest green",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "forest_green_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "forest green",
+      "options": [
+        "red",
+        "forest green",
+        "yellow",
+        "lavender"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "forest_green_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "forest green",
+      "options": [
+        "forest green",
+        "grey",
+        "olive",
+        "tan"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "forest_green_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hot pink' mean?",
+      "word": "hot pink",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hot_pink_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hot pink",
+      "options": [
+        "hot pink",
+        "gold",
+        "lime",
+        "rose"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hot_pink_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "hot pink",
+      "options": [
+        "hot pink",
+        "copper",
+        "royal blue",
+        "burgundy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hot_pink_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rose' mean?",
+      "word": "rose",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rose_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rose",
+      "options": [
+        "teal",
+        "tan",
+        "royal blue",
+        "rose"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "rose_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "rose",
+      "options": [
+        "lavender",
+        "orange",
+        "rose",
+        "pearl"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rose_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rust' mean?",
+      "word": "rust",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rust_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rust",
+      "options": [
+        "rust",
+        "cyan",
+        "coral",
+        "cream"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rust_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "rust",
+      "options": [
+        "coral",
+        "turquoise",
+        "copper",
+        "rust"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "rust_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'copper' mean?",
+      "word": "copper",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "copper_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "copper",
+      "options": [
+        "copper",
+        "olive",
+        "aqua",
+        "midnight blue"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "copper_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "copper",
+      "options": [
+        "pearl",
+        "lime",
+        "rose",
+        "copper"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "copper_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'charcoal' mean?",
+      "word": "charcoal",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "charcoal_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "charcoal",
+      "options": [
+        "peach",
+        "charcoal",
+        "gray",
+        "brown"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "charcoal_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "charcoal",
+      "options": [
+        "pearl",
+        "charcoal",
+        "cream",
+        "midnight blue"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "charcoal_3",
+      "category": "Colors"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pearl' mean?",
+      "word": "pearl",
+      "options": [
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors",
+        "Something related to colors"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pearl_1",
+      "category": "Colors"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pearl",
+      "options": [
+        "charcoal",
+        "grey",
+        "emerald",
+        "pearl"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pearl_2",
+      "category": "Colors"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to colors\"",
+      "word": "pearl",
+      "options": [
+        "crimson",
+        "pearl",
+        "cyan",
+        "mint"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pearl_3",
+      "category": "Colors"
+    }
+  ]
+}

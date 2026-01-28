@@ -1,0 +1,2257 @@
+{
+  "category": "Actions & Verbs",
+  "category_id": 17,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'walk' mean?",
+      "word": "walk",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "walk_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "walk",
+      "options": [
+        "see",
+        "touch",
+        "watch",
+        "walk"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "walk_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "walk",
+      "options": [
+        "drink",
+        "walk",
+        "understand",
+        "think"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "walk_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'run' mean?",
+      "word": "run",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "run_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "run",
+      "options": [
+        "run",
+        "need",
+        "cut",
+        "hate"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "run_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "run",
+      "options": [
+        "drive",
+        "want",
+        "run",
+        "understand"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "run_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'jump' mean?",
+      "word": "jump",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jump_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "jump",
+      "options": [
+        "want",
+        "jump",
+        "stand",
+        "sell"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "jump_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "jump",
+      "options": [
+        "like",
+        "jump",
+        "sleep",
+        "remember"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "jump_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'climb' mean?",
+      "word": "climb",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "climb_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "climb",
+      "options": [
+        "climb",
+        "need",
+        "forget",
+        "buy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "climb_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "climb",
+      "options": [
+        "hate",
+        "see",
+        "climb",
+        "stand"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "climb_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'swim' mean?",
+      "word": "swim",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "swim_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "swim",
+      "options": [
+        "fry",
+        "drink",
+        "swim",
+        "learn"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "swim_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "swim",
+      "options": [
+        "like",
+        "fly",
+        "wake",
+        "swim"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "swim_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fly' mean?",
+      "word": "fly",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fly_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fly",
+      "options": [
+        "believe",
+        "know",
+        "fly",
+        "want"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "fly_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "fly",
+      "options": [
+        "fly",
+        "remember",
+        "cook",
+        "learn"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fly_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'drive' mean?",
+      "word": "drive",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drive_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "drive",
+      "options": [
+        "teach",
+        "imagine",
+        "drive",
+        "need"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "drive_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "drive",
+      "options": [
+        "fry",
+        "drive",
+        "like",
+        "climb"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "drive_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ride' mean?",
+      "word": "ride",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ride_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ride",
+      "options": [
+        "love",
+        "ride",
+        "fry",
+        "understand"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ride_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "ride",
+      "options": [
+        "fry",
+        "know",
+        "like",
+        "ride"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ride_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sit' mean?",
+      "word": "sit",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sit_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sit",
+      "options": [
+        "remember",
+        "watch",
+        "teach",
+        "sit"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sit_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "sit",
+      "options": [
+        "listen",
+        "sit",
+        "drink",
+        "fly"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sit_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'stand' mean?",
+      "word": "stand",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stand_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "stand",
+      "options": [
+        "hear",
+        "run",
+        "watch",
+        "stand"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "stand_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "stand",
+      "options": [
+        "lie",
+        "stand",
+        "believe",
+        "drive"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "stand_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lie' mean?",
+      "word": "lie",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lie_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lie",
+      "options": [
+        "see",
+        "lie",
+        "give",
+        "imagine"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "lie_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "lie",
+      "options": [
+        "swim",
+        "lie",
+        "take",
+        "forget"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "lie_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sleep' mean?",
+      "word": "sleep",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sleep_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sleep",
+      "options": [
+        "love",
+        "drink",
+        "cut",
+        "sleep"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sleep_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "sleep",
+      "options": [
+        "imagine",
+        "sleep",
+        "hate",
+        "think"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sleep_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wake' mean?",
+      "word": "wake",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wake_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wake",
+      "options": [
+        "walk",
+        "wake",
+        "listen",
+        "hate"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "wake_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "wake",
+      "options": [
+        "wake",
+        "boil",
+        "swim",
+        "write"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wake_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'eat' mean?",
+      "word": "eat",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eat_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "eat",
+      "options": [
+        "eat",
+        "hear",
+        "read",
+        "fly"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eat_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "eat",
+      "options": [
+        "eat",
+        "walk",
+        "have",
+        "run"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eat_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'drink' mean?",
+      "word": "drink",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drink_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "drink",
+      "options": [
+        "drink",
+        "have",
+        "take",
+        "climb"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drink_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "drink",
+      "options": [
+        "watch",
+        "drink",
+        "want",
+        "teach"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "drink_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cook' mean?",
+      "word": "cook",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cook_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cook",
+      "options": [
+        "cook",
+        "touch",
+        "have",
+        "ride"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cook_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "cook",
+      "options": [
+        "speak",
+        "know",
+        "smell",
+        "cook"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cook_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bake' mean?",
+      "word": "bake",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bake_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bake",
+      "options": [
+        "wake",
+        "bake",
+        "run",
+        "speak"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bake_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "bake",
+      "options": [
+        "forget",
+        "bake",
+        "want",
+        "study"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bake_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fry' mean?",
+      "word": "fry",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fry_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fry",
+      "options": [
+        "sit",
+        "remember",
+        "love",
+        "fry"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fry_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "fry",
+      "options": [
+        "fry",
+        "eat",
+        "bake",
+        "drive"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fry_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'boil' mean?",
+      "word": "boil",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "boil_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "boil",
+      "options": [
+        "understand",
+        "boil",
+        "believe",
+        "drive"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "boil_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "boil",
+      "options": [
+        "like",
+        "climb",
+        "eat",
+        "boil"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "boil_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cut' mean?",
+      "word": "cut",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cut_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cut",
+      "options": [
+        "swim",
+        "boil",
+        "drive",
+        "cut"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cut_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "cut",
+      "options": [
+        "touch",
+        "lie",
+        "cut",
+        "take"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cut_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'write' mean?",
+      "word": "write",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "write_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "write",
+      "options": [
+        "write",
+        "study",
+        "eat",
+        "ride"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "write_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "write",
+      "options": [
+        "forget",
+        "stand",
+        "write",
+        "smell"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "write_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'read' mean?",
+      "word": "read",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "read_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "read",
+      "options": [
+        "think",
+        "remember",
+        "read",
+        "take"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "read_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "read",
+      "options": [
+        "see",
+        "learn",
+        "imagine",
+        "read"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "read_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'speak' mean?",
+      "word": "speak",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "speak_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "speak",
+      "options": [
+        "speak",
+        "imagine",
+        "ride",
+        "see"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "speak_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "speak",
+      "options": [
+        "speak",
+        "watch",
+        "believe",
+        "drive"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "speak_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'listen' mean?",
+      "word": "listen",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "listen_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "listen",
+      "options": [
+        "drink",
+        "teach",
+        "listen",
+        "understand"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "listen_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "listen",
+      "options": [
+        "listen",
+        "see",
+        "cook",
+        "teach"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "listen_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'watch' mean?",
+      "word": "watch",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "watch_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "watch",
+      "options": [
+        "sleep",
+        "smell",
+        "watch",
+        "listen"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "watch_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "watch",
+      "options": [
+        "think",
+        "watch",
+        "forget",
+        "ride"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "watch_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'see' mean?",
+      "word": "see",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "see_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "see",
+      "options": [
+        "like",
+        "think",
+        "listen",
+        "see"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "see_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "see",
+      "options": [
+        "forget",
+        "lie",
+        "touch",
+        "see"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "see_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hear' mean?",
+      "word": "hear",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hear_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hear",
+      "options": [
+        "stand",
+        "hear",
+        "speak",
+        "fly"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hear_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "hear",
+      "options": [
+        "forget",
+        "hear",
+        "have",
+        "lie"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hear_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'smell' mean?",
+      "word": "smell",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "smell_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "smell",
+      "options": [
+        "boil",
+        "stand",
+        "smell",
+        "cook"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "smell_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "smell",
+      "options": [
+        "forget",
+        "smell",
+        "give",
+        "stand"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "smell_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'taste' mean?",
+      "word": "taste",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "taste_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "taste",
+      "options": [
+        "swim",
+        "hear",
+        "drink",
+        "taste"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "taste_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "taste",
+      "options": [
+        "taste",
+        "read",
+        "know",
+        "touch"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "taste_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'touch' mean?",
+      "word": "touch",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "touch_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "touch",
+      "options": [
+        "sit",
+        "smell",
+        "see",
+        "touch"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "touch_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "touch",
+      "options": [
+        "touch",
+        "climb",
+        "cut",
+        "drink"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "touch_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'think' mean?",
+      "word": "think",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "think_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "think",
+      "options": [
+        "like",
+        "ride",
+        "cut",
+        "think"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "think_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "think",
+      "options": [
+        "think",
+        "drink",
+        "believe",
+        "smell"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "think_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'know' mean?",
+      "word": "know",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "know_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "know",
+      "options": [
+        "lie",
+        "bake",
+        "know",
+        "hear"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "know_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "know",
+      "options": [
+        "want",
+        "listen",
+        "know",
+        "sleep"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "know_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'learn' mean?",
+      "word": "learn",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "learn_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "learn",
+      "options": [
+        "love",
+        "boil",
+        "learn",
+        "sell"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "learn_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "learn",
+      "options": [
+        "learn",
+        "boil",
+        "ride",
+        "hear"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "learn_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'teach' mean?",
+      "word": "teach",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teach_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "teach",
+      "options": [
+        "teach",
+        "forget",
+        "understand",
+        "sell"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teach_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "teach",
+      "options": [
+        "teach",
+        "write",
+        "cut",
+        "smell"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teach_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'study' mean?",
+      "word": "study",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "study_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "study",
+      "options": [
+        "take",
+        "fly",
+        "study",
+        "sleep"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "study_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "study",
+      "options": [
+        "study",
+        "love",
+        "teach",
+        "forget"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "study_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'remember' mean?",
+      "word": "remember",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "remember_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "remember",
+      "options": [
+        "smell",
+        "sleep",
+        "remember",
+        "love"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "remember_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "remember",
+      "options": [
+        "see",
+        "eat",
+        "remember",
+        "swim"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "remember_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'forget' mean?",
+      "word": "forget",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "forget_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "forget",
+      "options": [
+        "ride",
+        "love",
+        "forget",
+        "drive"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "forget_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "forget",
+      "options": [
+        "forget",
+        "fly",
+        "know",
+        "boil"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "forget_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'understand' mean?",
+      "word": "understand",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "understand_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "understand",
+      "options": [
+        "read",
+        "understand",
+        "sit",
+        "write"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "understand_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "understand",
+      "options": [
+        "buy",
+        "stand",
+        "give",
+        "understand"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "understand_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'believe' mean?",
+      "word": "believe",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "believe_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "believe",
+      "options": [
+        "ride",
+        "write",
+        "wake",
+        "believe"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "believe_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "believe",
+      "options": [
+        "sell",
+        "sleep",
+        "believe",
+        "stand"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "believe_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'imagine' mean?",
+      "word": "imagine",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "imagine_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "imagine",
+      "options": [
+        "imagine",
+        "speak",
+        "see",
+        "cook"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "imagine_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "imagine",
+      "options": [
+        "buy",
+        "imagine",
+        "jump",
+        "fly"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "imagine_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'love' mean?",
+      "word": "love",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "love_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "love",
+      "options": [
+        "speak",
+        "love",
+        "give",
+        "know"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "love_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "love",
+      "options": [
+        "love",
+        "need",
+        "study",
+        "know"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "love_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hate' mean?",
+      "word": "hate",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hate_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hate",
+      "options": [
+        "hate",
+        "jump",
+        "remember",
+        "imagine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hate_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "hate",
+      "options": [
+        "hate",
+        "sit",
+        "know",
+        "drive"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hate_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'like' mean?",
+      "word": "like",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "like_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "like",
+      "options": [
+        "understand",
+        "read",
+        "like",
+        "drive"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "like_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "like",
+      "options": [
+        "forget",
+        "like",
+        "write",
+        "buy"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "like_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'want' mean?",
+      "word": "want",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "want_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "want",
+      "options": [
+        "remember",
+        "want",
+        "believe",
+        "cook"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "want_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "want",
+      "options": [
+        "study",
+        "fly",
+        "want",
+        "lie"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "want_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'need' mean?",
+      "word": "need",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "need_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "need",
+      "options": [
+        "need",
+        "stand",
+        "think",
+        "drive"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "need_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "need",
+      "options": [
+        "cook",
+        "have",
+        "need",
+        "fry"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "need_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'have' mean?",
+      "word": "have",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "have_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "have",
+      "options": [
+        "want",
+        "have",
+        "forget",
+        "give"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "have_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "have",
+      "options": [
+        "watch",
+        "have",
+        "need",
+        "sit"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "have_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'give' mean?",
+      "word": "give",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "give_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "give",
+      "options": [
+        "touch",
+        "fry",
+        "speak",
+        "give"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "give_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "give",
+      "options": [
+        "teach",
+        "walk",
+        "give",
+        "wake"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "give_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'take' mean?",
+      "word": "take",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "take_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "take",
+      "options": [
+        "bake",
+        "see",
+        "think",
+        "take"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "take_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "take",
+      "options": [
+        "give",
+        "take",
+        "touch",
+        "run"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "take_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'buy' mean?",
+      "word": "buy",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "buy_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "buy",
+      "options": [
+        "learn",
+        "sit",
+        "swim",
+        "buy"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "buy_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "buy",
+      "options": [
+        "listen",
+        "walk",
+        "swim",
+        "buy"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "buy_3",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sell' mean?",
+      "word": "sell",
+      "options": [
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs",
+        "Something related to actions & verbs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sell_1",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sell",
+      "options": [
+        "sell",
+        "stand",
+        "ride",
+        "drink"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sell_2",
+      "category": "Actions & Verbs"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to actions & verbs\"",
+      "word": "sell",
+      "options": [
+        "think",
+        "hear",
+        "sell",
+        "want"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "sell_3",
+      "category": "Actions & Verbs"
+    }
+  ]
+}

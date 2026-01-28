@@ -1,0 +1,2257 @@
+{
+  "category": "Transportation",
+  "category_id": 10,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'car' mean?",
+      "word": "car",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "car_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "car",
+      "options": [
+        "car",
+        "airport",
+        "canoe",
+        "runway"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "car_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "car",
+      "options": [
+        "kayak",
+        "submarine",
+        "car",
+        "van"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "car_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'truck' mean?",
+      "word": "truck",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "truck_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "truck",
+      "options": [
+        "terminal",
+        "canoe",
+        "truck",
+        "scooter"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "truck_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "truck",
+      "options": [
+        "terminal",
+        "ambulance",
+        "truck",
+        "SUV"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "truck_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'van' mean?",
+      "word": "van",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "van_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "van",
+      "options": [
+        "van",
+        "motorcycle",
+        "ambulance",
+        "sailboat"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "van_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "van",
+      "options": [
+        "limousine",
+        "ferry",
+        "van",
+        "truck"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "van_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bus' mean?",
+      "word": "bus",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bus_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bus",
+      "options": [
+        "ferry",
+        "bus",
+        "freight train",
+        "limousine"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bus_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "bus",
+      "options": [
+        "station",
+        "freight train",
+        "bus",
+        "pickup truck"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bus_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'taxi' mean?",
+      "word": "taxi",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "taxi_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "taxi",
+      "options": [
+        "hatchback",
+        "freight train",
+        "taxi",
+        "convertible"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "taxi_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "taxi",
+      "options": [
+        "tram",
+        "drone",
+        "taxi",
+        "boat"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "taxi_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'motorcycle' mean?",
+      "word": "motorcycle",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "motorcycle_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "motorcycle",
+      "options": [
+        "drone",
+        "harbor",
+        "boat",
+        "motorcycle"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "motorcycle_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "motorcycle",
+      "options": [
+        "tram",
+        "SUV",
+        "motorcycle",
+        "van"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "motorcycle_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bicycle' mean?",
+      "word": "bicycle",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bicycle_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bicycle",
+      "options": [
+        "railway",
+        "bicycle",
+        "kayak",
+        "boat"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bicycle_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "bicycle",
+      "options": [
+        "limousine",
+        "bullet train",
+        "bicycle",
+        "airplane"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bicycle_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'scooter' mean?",
+      "word": "scooter",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "scooter_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "scooter",
+      "options": [
+        "RV",
+        "bus",
+        "harbor",
+        "scooter"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "scooter_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "scooter",
+      "options": [
+        "pickup truck",
+        "police car",
+        "scooter",
+        "ferry"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "scooter_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'skateboard' mean?",
+      "word": "skateboard",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "skateboard_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "skateboard",
+      "options": [
+        "airport",
+        "helicopter",
+        "truck",
+        "skateboard"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "skateboard_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "skateboard",
+      "options": [
+        "skateboard",
+        "runway",
+        "jet",
+        "motorcycle"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "skateboard_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ambulance' mean?",
+      "word": "ambulance",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ambulance_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ambulance",
+      "options": [
+        "bicycle",
+        "ambulance",
+        "canoe",
+        "motorcycle"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ambulance_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "ambulance",
+      "options": [
+        "yacht",
+        "station",
+        "bus",
+        "ambulance"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ambulance_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fire truck' mean?",
+      "word": "fire truck",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fire_truck_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fire truck",
+      "options": [
+        "taxi",
+        "railway",
+        "spaceship",
+        "fire truck"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fire_truck_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "fire truck",
+      "options": [
+        "drone",
+        "fire truck",
+        "van",
+        "bus"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "fire_truck_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'police car' mean?",
+      "word": "police car",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "police_car_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "police car",
+      "options": [
+        "police car",
+        "limousine",
+        "railway",
+        "train"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "police_car_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "police car",
+      "options": [
+        "minivan",
+        "subway",
+        "ambulance",
+        "police car"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "police_car_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'limousine' mean?",
+      "word": "limousine",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "limousine_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "limousine",
+      "options": [
+        "SUV",
+        "runway",
+        "limousine",
+        "helicopter"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "limousine_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "limousine",
+      "options": [
+        "bus",
+        "limousine",
+        "submarine",
+        "minivan"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "limousine_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'SUV' mean?",
+      "word": "SUV",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "SUV_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "SUV",
+      "options": [
+        "SUV",
+        "boat",
+        "hatchback",
+        "ferry"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "SUV_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "SUV",
+      "options": [
+        "station",
+        "airport",
+        "SUV",
+        "freight train"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "SUV_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'convertible' mean?",
+      "word": "convertible",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "convertible_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "convertible",
+      "options": [
+        "convertible",
+        "rocket",
+        "car",
+        "bullet train"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "convertible_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "convertible",
+      "options": [
+        "airplane",
+        "taxi",
+        "convertible",
+        "skateboard"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "convertible_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sedan' mean?",
+      "word": "sedan",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sedan_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sedan",
+      "options": [
+        "runway",
+        "ambulance",
+        "yacht",
+        "sedan"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sedan_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "sedan",
+      "options": [
+        "ambulance",
+        "sedan",
+        "yacht",
+        "helicopter"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sedan_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hatchback' mean?",
+      "word": "hatchback",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hatchback_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hatchback",
+      "options": [
+        "ferry",
+        "taxi",
+        "hatchback",
+        "skateboard"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hatchback_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "hatchback",
+      "options": [
+        "station",
+        "scooter",
+        "subway",
+        "hatchback"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "hatchback_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'minivan' mean?",
+      "word": "minivan",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "minivan_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "minivan",
+      "options": [
+        "minivan",
+        "jet",
+        "spaceship",
+        "limousine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "minivan_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "minivan",
+      "options": [
+        "minivan",
+        "terminal",
+        "rocket",
+        "locomotive"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "minivan_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pickup truck' mean?",
+      "word": "pickup truck",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pickup_truck_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pickup truck",
+      "options": [
+        "pickup truck",
+        "sailboat",
+        "yacht",
+        "motorcycle"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pickup_truck_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "pickup truck",
+      "options": [
+        "car",
+        "bus",
+        "SUV",
+        "pickup truck"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pickup_truck_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'RV' mean?",
+      "word": "RV",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "RV_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "RV",
+      "options": [
+        "jet",
+        "RV",
+        "helicopter",
+        "SUV"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "RV_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "RV",
+      "options": [
+        "bicycle",
+        "metro",
+        "RV",
+        "cruise ship"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "RV_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'train' mean?",
+      "word": "train",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "train_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "train",
+      "options": [
+        "yacht",
+        "train",
+        "airplane",
+        "motorcycle"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "train_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "train",
+      "options": [
+        "minivan",
+        "boat",
+        "spaceship",
+        "train"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "train_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'subway' mean?",
+      "word": "subway",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "subway_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "subway",
+      "options": [
+        "canoe",
+        "minivan",
+        "subway",
+        "runway"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "subway_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "subway",
+      "options": [
+        "station",
+        "subway",
+        "scooter",
+        "airport"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "subway_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tram' mean?",
+      "word": "tram",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tram_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tram",
+      "options": [
+        "freight train",
+        "sailboat",
+        "van",
+        "tram"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tram_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "tram",
+      "options": [
+        "tram",
+        "sailboat",
+        "rocket",
+        "bicycle"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tram_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'metro' mean?",
+      "word": "metro",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "metro_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "metro",
+      "options": [
+        "terminal",
+        "train",
+        "kayak",
+        "metro"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "metro_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "metro",
+      "options": [
+        "limousine",
+        "metro",
+        "bicycle",
+        "helicopter"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "metro_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bullet train' mean?",
+      "word": "bullet train",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bullet_train_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bullet train",
+      "options": [
+        "helicopter",
+        "submarine",
+        "car",
+        "bullet train"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bullet_train_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "bullet train",
+      "options": [
+        "scooter",
+        "bullet train",
+        "helicopter",
+        "sailboat"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bullet_train_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'freight train' mean?",
+      "word": "freight train",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "freight_train_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "freight train",
+      "options": [
+        "motorcycle",
+        "freight train",
+        "yacht",
+        "minivan"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "freight_train_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "freight train",
+      "options": [
+        "locomotive",
+        "hot air balloon",
+        "freight train",
+        "police car"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "freight_train_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'locomotive' mean?",
+      "word": "locomotive",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "locomotive_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "locomotive",
+      "options": [
+        "locomotive",
+        "limousine",
+        "car",
+        "cruise ship"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "locomotive_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "locomotive",
+      "options": [
+        "ship",
+        "locomotive",
+        "helicopter",
+        "platform"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "locomotive_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'railway' mean?",
+      "word": "railway",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "railway_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "railway",
+      "options": [
+        "canoe",
+        "sailboat",
+        "railway",
+        "hatchback"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "railway_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "railway",
+      "options": [
+        "hatchback",
+        "RV",
+        "railway",
+        "ambulance"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "railway_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'station' mean?",
+      "word": "station",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "station_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "station",
+      "options": [
+        "yacht",
+        "station",
+        "helicopter",
+        "convertible"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "station_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "station",
+      "options": [
+        "station",
+        "cruise ship",
+        "runway",
+        "motorcycle"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "station_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'platform' mean?",
+      "word": "platform",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "platform_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "platform",
+      "options": [
+        "van",
+        "terminal",
+        "harbor",
+        "platform"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "platform_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "platform",
+      "options": [
+        "hatchback",
+        "van",
+        "platform",
+        "spaceship"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "platform_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'airplane' mean?",
+      "word": "airplane",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "airplane_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "airplane",
+      "options": [
+        "airplane",
+        "train",
+        "tram",
+        "harbor"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "airplane_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "airplane",
+      "options": [
+        "SUV",
+        "limousine",
+        "airplane",
+        "tram"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "airplane_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'helicopter' mean?",
+      "word": "helicopter",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "helicopter_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "helicopter",
+      "options": [
+        "platform",
+        "helicopter",
+        "canoe",
+        "motorcycle"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "helicopter_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "helicopter",
+      "options": [
+        "kayak",
+        "helicopter",
+        "cruise ship",
+        "RV"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "helicopter_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'jet' mean?",
+      "word": "jet",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jet_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "jet",
+      "options": [
+        "hatchback",
+        "cruise ship",
+        "canoe",
+        "jet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "jet_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "jet",
+      "options": [
+        "jet",
+        "tram",
+        "helicopter",
+        "rocket"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jet_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'drone' mean?",
+      "word": "drone",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drone_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "drone",
+      "options": [
+        "drone",
+        "scooter",
+        "boat",
+        "locomotive"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drone_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "drone",
+      "options": [
+        "freight train",
+        "bus",
+        "drone",
+        "taxi"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "drone_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hot air balloon' mean?",
+      "word": "hot air balloon",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hot_air_balloon_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hot air balloon",
+      "options": [
+        "motorcycle",
+        "submarine",
+        "hot air balloon",
+        "ferry"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hot_air_balloon_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "hot air balloon",
+      "options": [
+        "ship",
+        "helicopter",
+        "truck",
+        "hot air balloon"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "hot_air_balloon_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rocket' mean?",
+      "word": "rocket",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rocket_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rocket",
+      "options": [
+        "rocket",
+        "bullet train",
+        "submarine",
+        "fire truck"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rocket_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "rocket",
+      "options": [
+        "locomotive",
+        "airport",
+        "rocket",
+        "railway"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rocket_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'spaceship' mean?",
+      "word": "spaceship",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "spaceship_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "spaceship",
+      "options": [
+        "van",
+        "locomotive",
+        "spaceship",
+        "bicycle"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "spaceship_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "spaceship",
+      "options": [
+        "SUV",
+        "ambulance",
+        "kayak",
+        "spaceship"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "spaceship_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'airport' mean?",
+      "word": "airport",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "airport_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "airport",
+      "options": [
+        "freight train",
+        "ship",
+        "submarine",
+        "airport"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "airport_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "airport",
+      "options": [
+        "convertible",
+        "truck",
+        "limousine",
+        "airport"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "airport_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'runway' mean?",
+      "word": "runway",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "runway_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "runway",
+      "options": [
+        "hot air balloon",
+        "car",
+        "runway",
+        "ambulance"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "runway_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "runway",
+      "options": [
+        "metro",
+        "runway",
+        "truck",
+        "van"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "runway_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'terminal' mean?",
+      "word": "terminal",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "terminal_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "terminal",
+      "options": [
+        "motorcycle",
+        "terminal",
+        "rocket",
+        "taxi"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "terminal_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "terminal",
+      "options": [
+        "police car",
+        "terminal",
+        "tram",
+        "scooter"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "terminal_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'boat' mean?",
+      "word": "boat",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "boat_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "boat",
+      "options": [
+        "boat",
+        "canoe",
+        "bullet train",
+        "subway"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "boat_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "boat",
+      "options": [
+        "limousine",
+        "boat",
+        "skateboard",
+        "SUV"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "boat_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ship' mean?",
+      "word": "ship",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ship_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ship",
+      "options": [
+        "ship",
+        "police car",
+        "boat",
+        "bullet train"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ship_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "ship",
+      "options": [
+        "ship",
+        "airport",
+        "SUV",
+        "subway"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ship_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'yacht' mean?",
+      "word": "yacht",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "yacht_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "yacht",
+      "options": [
+        "tram",
+        "yacht",
+        "terminal",
+        "airport"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "yacht_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "yacht",
+      "options": [
+        "bullet train",
+        "yacht",
+        "spaceship",
+        "minivan"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "yacht_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ferry' mean?",
+      "word": "ferry",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ferry_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ferry",
+      "options": [
+        "locomotive",
+        "motorcycle",
+        "scooter",
+        "ferry"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ferry_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "ferry",
+      "options": [
+        "ferry",
+        "bullet train",
+        "police car",
+        "fire truck"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ferry_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cruise ship' mean?",
+      "word": "cruise ship",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cruise_ship_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cruise ship",
+      "options": [
+        "convertible",
+        "cruise ship",
+        "railway",
+        "freight train"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cruise_ship_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "cruise ship",
+      "options": [
+        "ship",
+        "cruise ship",
+        "terminal",
+        "police car"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cruise_ship_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sailboat' mean?",
+      "word": "sailboat",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sailboat_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sailboat",
+      "options": [
+        "minivan",
+        "police car",
+        "truck",
+        "sailboat"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sailboat_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "sailboat",
+      "options": [
+        "sailboat",
+        "hot air balloon",
+        "ferry",
+        "RV"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sailboat_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'canoe' mean?",
+      "word": "canoe",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "canoe_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "canoe",
+      "options": [
+        "canoe",
+        "yacht",
+        "airplane",
+        "truck"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "canoe_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "canoe",
+      "options": [
+        "sedan",
+        "skateboard",
+        "canoe",
+        "taxi"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "canoe_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'kayak' mean?",
+      "word": "kayak",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "kayak_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "kayak",
+      "options": [
+        "police car",
+        "kayak",
+        "RV",
+        "freight train"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "kayak_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "kayak",
+      "options": [
+        "train",
+        "kayak",
+        "cruise ship",
+        "terminal"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "kayak_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'submarine' mean?",
+      "word": "submarine",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "submarine_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "submarine",
+      "options": [
+        "terminal",
+        "sedan",
+        "helicopter",
+        "submarine"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "submarine_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "submarine",
+      "options": [
+        "submarine",
+        "jet",
+        "locomotive",
+        "police car"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "submarine_3",
+      "category": "Transportation"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'harbor' mean?",
+      "word": "harbor",
+      "options": [
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation",
+        "Something related to transportation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "harbor_1",
+      "category": "Transportation"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "harbor",
+      "options": [
+        "helicopter",
+        "train",
+        "sedan",
+        "harbor"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "harbor_2",
+      "category": "Transportation"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to transportation\"",
+      "word": "harbor",
+      "options": [
+        "truck",
+        "harbor",
+        "ferry",
+        "sailboat"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "harbor_3",
+      "category": "Transportation"
+    }
+  ]
+}

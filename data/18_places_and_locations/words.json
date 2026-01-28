@@ -1,0 +1,12 @@
+{
+  "id": 18,
+  "name": "Places & Locations",
+  "icon": "📍",
+  "words": [
+    "city", "town", "village", "neighborhood", "street", "road", "highway", "bridge", "tunnel", "intersection",
+    "park", "garden", "playground", "zoo", "aquarium", "museum", "library", "theater", "cinema", "stadium",
+    "restaurant", "cafe", "bar", "club", "hotel", "motel", "resort", "mall", "shop", "store",
+    "supermarket", "market", "bakery", "butcher", "pharmacy", "bank", "post office", "police station", "fire station", "hospital",
+    "church", "mosque", "temple", "synagogue", "cemetery", "prison", "court", "city hall", "embassy", "airport"
+  ]
+}

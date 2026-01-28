@@ -1,0 +1,2257 @@
+{
+  "category": "Family & People",
+  "category_id": 3,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'mother' mean?",
+      "word": "mother",
+      "options": [
+        "A female parent who raises children",
+        "A person who plays sports professionally",
+        "A person who flies aircraft",
+        "The son of your sibling"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mother_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ always takes care of me.\"",
+      "word": "mother",
+      "options": [
+        "sister",
+        "husband",
+        "mother",
+        "child"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "mother_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A female parent who raises children\"",
+      "word": "mother",
+      "options": [
+        "student",
+        "soldier",
+        "driver",
+        "mother"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "mother_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'father' mean?",
+      "word": "father",
+      "options": [
+        "A child of your son or daughter",
+        "A male parent who raises children",
+        "A husband or wife",
+        "A very young child"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "father_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ taught me to ride a bike.\"",
+      "word": "father",
+      "options": [
+        "pilot",
+        "father",
+        "scientist",
+        "driver"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "father_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A male parent who raises children\"",
+      "word": "father",
+      "options": [
+        "sister",
+        "journalist",
+        "father",
+        "actor"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "father_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'parent' mean?",
+      "word": "parent",
+      "options": [
+        "A person you work with",
+        "The daughter of your sibling",
+        "A female sibling",
+        "A mother or father"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "parent_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Every ___ wants the best for their child.\"",
+      "word": "parent",
+      "options": [
+        "parent",
+        "colleague",
+        "brother",
+        "engineer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "parent_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A mother or father\"",
+      "word": "parent",
+      "options": [
+        "parent",
+        "pilot",
+        "mother",
+        "nurse"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "parent_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'son' mean?",
+      "word": "son",
+      "options": [
+        "A female child",
+        "A person who designs and builds things",
+        "A male child",
+        "A person who creates art"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "son_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Their ___ is five years old.\"",
+      "word": "son",
+      "options": [
+        "son",
+        "granddaughter",
+        "lawyer",
+        "pilot"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "son_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A male child\"",
+      "word": "son",
+      "options": [
+        "son",
+        "journalist",
+        "sister",
+        "grandfather"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "son_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'daughter' mean?",
+      "word": "daughter",
+      "options": [
+        "A person who lives next to you",
+        "A married man",
+        "A female child",
+        "A professional cook"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "daughter_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Their ___ loves to dance.\"",
+      "word": "daughter",
+      "options": [
+        "father",
+        "granddaughter",
+        "firefighter",
+        "daughter"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "daughter_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A female child\"",
+      "word": "daughter",
+      "options": [
+        "sister",
+        "firefighter",
+        "brother",
+        "daughter"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "daughter_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'child' mean?",
+      "word": "child",
+      "options": [
+        "A married woman",
+        "A male child",
+        "A young person not yet an adult",
+        "A person who studies science"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "child_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Every ___ deserves a good education.\"",
+      "word": "child",
+      "options": [
+        "child",
+        "firefighter",
+        "uncle",
+        "grandson"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "child_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A young person not yet an adult\"",
+      "word": "child",
+      "options": [
+        "child",
+        "driver",
+        "sibling",
+        "chef"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "child_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'baby' mean?",
+      "word": "baby",
+      "options": [
+        "A very young child",
+        "A person who creates art",
+        "A person who reports news",
+        "A person who plays sports professionally"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "baby_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ smiled at her mother.\"",
+      "word": "baby",
+      "options": [
+        "grandparent",
+        "teacher",
+        "baby",
+        "daughter"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "baby_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A very young child\"",
+      "word": "baby",
+      "options": [
+        "baby",
+        "grandfather",
+        "student",
+        "grandparent"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "baby_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'brother' mean?",
+      "word": "brother",
+      "options": [
+        "A person who operates vehicles",
+        "A male sibling",
+        "A female romantic partner",
+        "A person who lives next to you"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "brother_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My older ___ helps me with homework.\"",
+      "word": "brother",
+      "options": [
+        "granddaughter",
+        "nurse",
+        "brother",
+        "sibling"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "brother_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A male sibling\"",
+      "word": "brother",
+      "options": [
+        "brother",
+        "boyfriend",
+        "aunt",
+        "teacher"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "brother_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sister' mean?",
+      "word": "sister",
+      "options": [
+        "A male parent who raises children",
+        "A female sibling",
+        "A person who plays sports professionally",
+        "A male romantic partner"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sister_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ and I share a room.\"",
+      "word": "sister",
+      "options": [
+        "chef",
+        "sister",
+        "boss",
+        "spouse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sister_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A female sibling\"",
+      "word": "sister",
+      "options": [
+        "cousin",
+        "lawyer",
+        "son",
+        "sister"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sister_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sibling' mean?",
+      "word": "sibling",
+      "options": [
+        "A brother or sister",
+        "A husband or wife",
+        "A very young child",
+        "A person you work with"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sibling_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I have two ___.\"",
+      "word": "sibling",
+      "options": [
+        "scientist",
+        "pilot",
+        "granddaughter",
+        "sibling"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sibling_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A brother or sister\"",
+      "word": "sibling",
+      "options": [
+        "police officer",
+        "farmer",
+        "neighbor",
+        "sibling"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sibling_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grandmother' mean?",
+      "word": "grandmother",
+      "options": [
+        "A male child",
+        "The mother of your parent",
+        "A person who plays sports professionally",
+        "A person who creates art"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "grandmother_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ makes the best cookies.\"",
+      "word": "grandmother",
+      "options": [
+        "boss",
+        "spouse",
+        "grandmother",
+        "soldier"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "grandmother_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The mother of your parent\"",
+      "word": "grandmother",
+      "options": [
+        "boyfriend",
+        "boss",
+        "student",
+        "grandmother"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "grandmother_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grandfather' mean?",
+      "word": "grandfather",
+      "options": [
+        "The father of your parent",
+        "A person in the military",
+        "A person you work with",
+        "A male child"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grandfather_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ tells great stories.\"",
+      "word": "grandfather",
+      "options": [
+        "friend",
+        "grandfather",
+        "niece",
+        "athlete"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "grandfather_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The father of your parent\"",
+      "word": "grandfather",
+      "options": [
+        "firefighter",
+        "neighbor",
+        "grandfather",
+        "grandchild"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "grandfather_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grandparent' mean?",
+      "word": "grandparent",
+      "options": [
+        "A person who reports news",
+        "A male romantic partner",
+        "A person who protects the public",
+        "A grandmother or grandfather"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "grandparent_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ lives nearby.\"",
+      "word": "grandparent",
+      "options": [
+        "niece",
+        "sibling",
+        "grandparent",
+        "mother"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "grandparent_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A grandmother or grandfather\"",
+      "word": "grandparent",
+      "options": [
+        "daughter",
+        "wife",
+        "grandparent",
+        "athlete"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "grandparent_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grandchild' mean?",
+      "word": "grandchild",
+      "options": [
+        "A person who helps care for patients",
+        "A person who protects the public",
+        "A child of your son or daughter",
+        "A person who studies science"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "grandchild_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"She loves her ___ very much.\"",
+      "word": "grandchild",
+      "options": [
+        "grandparent",
+        "grandchild",
+        "sister",
+        "daughter"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "grandchild_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A child of your son or daughter\"",
+      "word": "grandchild",
+      "options": [
+        "firefighter",
+        "grandmother",
+        "grandchild",
+        "boss"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "grandchild_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'grandson' mean?",
+      "word": "grandson",
+      "options": [
+        "The mother of your parent",
+        "A married man",
+        "A male grandchild",
+        "A child of your son or daughter"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "grandson_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Her ___ visits every weekend.\"",
+      "word": "grandson",
+      "options": [
+        "grandson",
+        "child",
+        "writer",
+        "artist"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grandson_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A male grandchild\"",
+      "word": "grandson",
+      "options": [
+        "grandson",
+        "husband",
+        "uncle",
+        "scientist"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "grandson_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'granddaughter' mean?",
+      "word": "granddaughter",
+      "options": [
+        "The son of your sibling",
+        "A female grandchild",
+        "A professional cook",
+        "A person who creates art"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "granddaughter_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Her ___ is learning piano.\"",
+      "word": "granddaughter",
+      "options": [
+        "grandson",
+        "granddaughter",
+        "scientist",
+        "police officer"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "granddaughter_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A female grandchild\"",
+      "word": "granddaughter",
+      "options": [
+        "athlete",
+        "granddaughter",
+        "firefighter",
+        "neighbor"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "granddaughter_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'aunt' mean?",
+      "word": "aunt",
+      "options": [
+        "The sister of your parent",
+        "A female grandchild",
+        "A person who helps care for patients",
+        "A person who grows food"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "aunt_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ lives in another city.\"",
+      "word": "aunt",
+      "options": [
+        "grandfather",
+        "aunt",
+        "pilot",
+        "parent"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "aunt_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The sister of your parent\"",
+      "word": "aunt",
+      "options": [
+        "friend",
+        "aunt",
+        "wife",
+        "niece"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "aunt_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'uncle' mean?",
+      "word": "uncle",
+      "options": [
+        "The brother of your parent",
+        "The child of your aunt or uncle",
+        "The father of your parent",
+        "A person who studies science"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "uncle_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ took me fishing.\"",
+      "word": "uncle",
+      "options": [
+        "grandfather",
+        "uncle",
+        "niece",
+        "spouse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "uncle_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The brother of your parent\"",
+      "word": "uncle",
+      "options": [
+        "uncle",
+        "grandmother",
+        "grandson",
+        "engineer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "uncle_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cousin' mean?",
+      "word": "cousin",
+      "options": [
+        "A young person not yet an adult",
+        "A person who studies at school",
+        "The child of your aunt or uncle",
+        "A male romantic partner"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cousin_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ is the same age as me.\"",
+      "word": "cousin",
+      "options": [
+        "mother",
+        "cousin",
+        "journalist",
+        "writer"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cousin_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The child of your aunt or uncle\"",
+      "word": "cousin",
+      "options": [
+        "firefighter",
+        "cousin",
+        "athlete",
+        "grandson"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cousin_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'nephew' mean?",
+      "word": "nephew",
+      "options": [
+        "A female romantic partner",
+        "A female child",
+        "A male sibling",
+        "The son of your sibling"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "nephew_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ is learning to walk.\"",
+      "word": "nephew",
+      "options": [
+        "nephew",
+        "boss",
+        "pilot",
+        "police officer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nephew_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The son of your sibling\"",
+      "word": "nephew",
+      "options": [
+        "nephew",
+        "driver",
+        "actor",
+        "grandson"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nephew_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'niece' mean?",
+      "word": "niece",
+      "options": [
+        "The daughter of your sibling",
+        "A husband or wife",
+        "A person you work with",
+        "A young person not yet an adult"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "niece_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ loves dolls.\"",
+      "word": "niece",
+      "options": [
+        "writer",
+        "spouse",
+        "niece",
+        "grandfather"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "niece_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The daughter of your sibling\"",
+      "word": "niece",
+      "options": [
+        "sister",
+        "niece",
+        "father",
+        "student"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "niece_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'husband' mean?",
+      "word": "husband",
+      "options": [
+        "A person who designs and builds things",
+        "A married man",
+        "A husband or wife",
+        "A person who operates vehicles"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "husband_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Her ___ brought her flowers.\"",
+      "word": "husband",
+      "options": [
+        "son",
+        "grandmother",
+        "husband",
+        "wife"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "husband_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A married man\"",
+      "word": "husband",
+      "options": [
+        "uncle",
+        "pilot",
+        "husband",
+        "mother"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "husband_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wife' mean?",
+      "word": "wife",
+      "options": [
+        "A person who studies science",
+        "A person you like spending time with",
+        "A married woman",
+        "A female child"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "wife_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"His ___ is a great cook.\"",
+      "word": "wife",
+      "options": [
+        "daughter",
+        "soldier",
+        "wife",
+        "doctor"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "wife_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A married woman\"",
+      "word": "wife",
+      "options": [
+        "musician",
+        "student",
+        "brother",
+        "wife"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "wife_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'spouse' mean?",
+      "word": "spouse",
+      "options": [
+        "A husband or wife",
+        "The mother of your parent",
+        "A person who operates vehicles",
+        "A married man"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "spouse_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"She introduced her ___ to us.\"",
+      "word": "spouse",
+      "options": [
+        "spouse",
+        "athlete",
+        "brother",
+        "chef"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "spouse_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A husband or wife\"",
+      "word": "spouse",
+      "options": [
+        "farmer",
+        "boyfriend",
+        "spouse",
+        "artist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "spouse_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'boyfriend' mean?",
+      "word": "boyfriend",
+      "options": [
+        "The mother of your parent",
+        "A male romantic partner",
+        "A male sibling",
+        "A female romantic partner"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "boyfriend_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Her ___ is very kind.\"",
+      "word": "boyfriend",
+      "options": [
+        "artist",
+        "journalist",
+        "sibling",
+        "boyfriend"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "boyfriend_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A male romantic partner\"",
+      "word": "boyfriend",
+      "options": [
+        "sibling",
+        "friend",
+        "boyfriend",
+        "writer"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "boyfriend_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'girlfriend' mean?",
+      "word": "girlfriend",
+      "options": [
+        "A person who studies science",
+        "A person who helps care for patients",
+        "A female romantic partner",
+        "A person who plays sports professionally"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "girlfriend_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"His ___ loves music.\"",
+      "word": "girlfriend",
+      "options": [
+        "engineer",
+        "cousin",
+        "doctor",
+        "girlfriend"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "girlfriend_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A female romantic partner\"",
+      "word": "girlfriend",
+      "options": [
+        "girlfriend",
+        "sibling",
+        "father",
+        "neighbor"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "girlfriend_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'friend' mean?",
+      "word": "friend",
+      "options": [
+        "A person you like spending time with",
+        "A person who helps students learn",
+        "A female sibling",
+        "A female child"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "friend_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My best ___ makes me laugh.\"",
+      "word": "friend",
+      "options": [
+        "sister",
+        "scientist",
+        "firefighter",
+        "friend"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "friend_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person you like spending time with\"",
+      "word": "friend",
+      "options": [
+        "nephew",
+        "grandfather",
+        "cousin",
+        "friend"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "friend_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'neighbor' mean?",
+      "word": "neighbor",
+      "options": [
+        "A person who lives next to you",
+        "The child of your aunt or uncle",
+        "The daughter of your sibling",
+        "A child of your son or daughter"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "neighbor_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Our ___ has a friendly dog.\"",
+      "word": "neighbor",
+      "options": [
+        "grandmother",
+        "neighbor",
+        "teacher",
+        "soldier"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "neighbor_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who lives next to you\"",
+      "word": "neighbor",
+      "options": [
+        "grandson",
+        "neighbor",
+        "brother",
+        "actor"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "neighbor_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'colleague' mean?",
+      "word": "colleague",
+      "options": [
+        "The son of your sibling",
+        "A mother or father",
+        "A person you work with",
+        "The brother of your parent"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "colleague_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ helped me with the project.\"",
+      "word": "colleague",
+      "options": [
+        "girlfriend",
+        "colleague",
+        "chef",
+        "student"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "colleague_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person you work with\"",
+      "word": "colleague",
+      "options": [
+        "colleague",
+        "sister",
+        "athlete",
+        "engineer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "colleague_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'boss' mean?",
+      "word": "boss",
+      "options": [
+        "A person you work with",
+        "A person in charge at work",
+        "A mother or father",
+        "A person who puts out fires"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "boss_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"My ___ approved my vacation.\"",
+      "word": "boss",
+      "options": [
+        "boss",
+        "colleague",
+        "neighbor",
+        "police officer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "boss_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person in charge at work\"",
+      "word": "boss",
+      "options": [
+        "husband",
+        "engineer",
+        "musician",
+        "boss"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "boss_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'teacher' mean?",
+      "word": "teacher",
+      "options": [
+        "A person who helps students learn",
+        "A male sibling",
+        "A very young child",
+        "The daughter of your sibling"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teacher_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ explained the lesson.\"",
+      "word": "teacher",
+      "options": [
+        "teacher",
+        "girlfriend",
+        "sister",
+        "pilot"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teacher_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who helps students learn\"",
+      "word": "teacher",
+      "options": [
+        "teacher",
+        "writer",
+        "driver",
+        "boss"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "teacher_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'student' mean?",
+      "word": "student",
+      "options": [
+        "The daughter of your sibling",
+        "A person who studies at school",
+        "A person who provides legal help",
+        "A female sibling"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "student_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Every ___ should do homework.\"",
+      "word": "student",
+      "options": [
+        "artist",
+        "child",
+        "scientist",
+        "student"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "student_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who studies at school\"",
+      "word": "student",
+      "options": [
+        "student",
+        "son",
+        "niece",
+        "baby"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "student_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'doctor' mean?",
+      "word": "doctor",
+      "options": [
+        "A person who operates vehicles",
+        "A person in charge at work",
+        "A person who flies aircraft",
+        "A person who helps sick people"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "doctor_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ checked my health.\"",
+      "word": "doctor",
+      "options": [
+        "student",
+        "boss",
+        "doctor",
+        "teacher"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "doctor_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who helps sick people\"",
+      "word": "doctor",
+      "options": [
+        "scientist",
+        "husband",
+        "grandfather",
+        "doctor"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "doctor_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'nurse' mean?",
+      "word": "nurse",
+      "options": [
+        "A person who helps care for patients",
+        "A female parent who raises children",
+        "A person who flies aircraft",
+        "A person who designs and builds things"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nurse_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ gave me medicine.\"",
+      "word": "nurse",
+      "options": [
+        "nurse",
+        "boss",
+        "daughter",
+        "police officer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nurse_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who helps care for patients\"",
+      "word": "nurse",
+      "options": [
+        "nurse",
+        "grandson",
+        "boss",
+        "doctor"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nurse_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lawyer' mean?",
+      "word": "lawyer",
+      "options": [
+        "The daughter of your sibling",
+        "A person who provides legal help",
+        "The mother of your parent",
+        "A person who performs in movies or plays"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "lawyer_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ won the case.\"",
+      "word": "lawyer",
+      "options": [
+        "grandmother",
+        "grandparent",
+        "lawyer",
+        "writer"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "lawyer_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who provides legal help\"",
+      "word": "lawyer",
+      "options": [
+        "spouse",
+        "mother",
+        "chef",
+        "lawyer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lawyer_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'engineer' mean?",
+      "word": "engineer",
+      "options": [
+        "A person in charge at work",
+        "A person who designs and builds things",
+        "The brother of your parent",
+        "A female child"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "engineer_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ designed the bridge.\"",
+      "word": "engineer",
+      "options": [
+        "musician",
+        "farmer",
+        "aunt",
+        "engineer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "engineer_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who designs and builds things\"",
+      "word": "engineer",
+      "options": [
+        "writer",
+        "wife",
+        "engineer",
+        "nephew"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "engineer_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'artist' mean?",
+      "word": "artist",
+      "options": [
+        "A person who creates art",
+        "A person who designs and builds things",
+        "A person who helps students learn",
+        "A person who flies aircraft"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "artist_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ painted a beautiful picture.\"",
+      "word": "artist",
+      "options": [
+        "athlete",
+        "artist",
+        "friend",
+        "musician"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "artist_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who creates art\"",
+      "word": "artist",
+      "options": [
+        "friend",
+        "grandson",
+        "girlfriend",
+        "artist"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "artist_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'musician' mean?",
+      "word": "musician",
+      "options": [
+        "A person who helps students learn",
+        "A person who plays music",
+        "A person who designs and builds things",
+        "The daughter of your sibling"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "musician_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ performed on stage.\"",
+      "word": "musician",
+      "options": [
+        "musician",
+        "girlfriend",
+        "wife",
+        "nephew"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "musician_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who plays music\"",
+      "word": "musician",
+      "options": [
+        "doctor",
+        "lawyer",
+        "boss",
+        "musician"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "musician_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'actor' mean?",
+      "word": "actor",
+      "options": [
+        "A person who lives next to you",
+        "A person who operates vehicles",
+        "A male child",
+        "A person who performs in movies or plays"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "actor_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ won an award.\"",
+      "word": "actor",
+      "options": [
+        "nurse",
+        "husband",
+        "actor",
+        "scientist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "actor_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who performs in movies or plays\"",
+      "word": "actor",
+      "options": [
+        "actor",
+        "friend",
+        "soldier",
+        "driver"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "actor_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chef' mean?",
+      "word": "chef",
+      "options": [
+        "A person who plays music",
+        "The brother of your parent",
+        "A professional cook",
+        "A person who operates vehicles"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "chef_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ prepared a delicious meal.\"",
+      "word": "chef",
+      "options": [
+        "granddaughter",
+        "chef",
+        "teacher",
+        "sister"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chef_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A professional cook\"",
+      "word": "chef",
+      "options": [
+        "artist",
+        "grandchild",
+        "chef",
+        "cousin"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "chef_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'police officer' mean?",
+      "word": "police officer",
+      "options": [
+        "A female parent who raises children",
+        "A person who helps care for patients",
+        "A person who protects the public",
+        "The brother of your parent"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "police_officer_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ helped find the lost child.\"",
+      "word": "police officer",
+      "options": [
+        "sister",
+        "parent",
+        "police officer",
+        "mother"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "police_officer_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who protects the public\"",
+      "word": "police officer",
+      "options": [
+        "grandfather",
+        "farmer",
+        "police officer",
+        "mother"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "police_officer_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'firefighter' mean?",
+      "word": "firefighter",
+      "options": [
+        "A very young child",
+        "A person who writes books or articles",
+        "A person who puts out fires",
+        "A person who helps sick people"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "firefighter_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ saved the family.\"",
+      "word": "firefighter",
+      "options": [
+        "sister",
+        "farmer",
+        "firefighter",
+        "driver"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "firefighter_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who puts out fires\"",
+      "word": "firefighter",
+      "options": [
+        "pilot",
+        "scientist",
+        "doctor",
+        "firefighter"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "firefighter_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'soldier' mean?",
+      "word": "soldier",
+      "options": [
+        "A person in the military",
+        "A person who helps students learn",
+        "A male child",
+        "A grandmother or grandfather"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "soldier_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ served the country.\"",
+      "word": "soldier",
+      "options": [
+        "engineer",
+        "husband",
+        "grandchild",
+        "soldier"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "soldier_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person in the military\"",
+      "word": "soldier",
+      "options": [
+        "nephew",
+        "soldier",
+        "boyfriend",
+        "nurse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "soldier_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pilot' mean?",
+      "word": "pilot",
+      "options": [
+        "The mother of your parent",
+        "A person who helps sick people",
+        "A male child",
+        "A person who flies aircraft"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pilot_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ landed the plane safely.\"",
+      "word": "pilot",
+      "options": [
+        "pilot",
+        "journalist",
+        "sister",
+        "brother"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pilot_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who flies aircraft\"",
+      "word": "pilot",
+      "options": [
+        "sibling",
+        "uncle",
+        "pilot",
+        "girlfriend"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pilot_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'driver' mean?",
+      "word": "driver",
+      "options": [
+        "A person who studies science",
+        "A person you like spending time with",
+        "A young person not yet an adult",
+        "A person who operates vehicles"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "driver_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ took us to the airport.\"",
+      "word": "driver",
+      "options": [
+        "sibling",
+        "driver",
+        "boyfriend",
+        "farmer"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "driver_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who operates vehicles\"",
+      "word": "driver",
+      "options": [
+        "husband",
+        "athlete",
+        "driver",
+        "teacher"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "driver_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'farmer' mean?",
+      "word": "farmer",
+      "options": [
+        "The father of your parent",
+        "A person who grows food",
+        "A male parent who raises children",
+        "A person you like spending time with"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "farmer_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ harvested the crops.\"",
+      "word": "farmer",
+      "options": [
+        "engineer",
+        "teacher",
+        "neighbor",
+        "farmer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "farmer_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who grows food\"",
+      "word": "farmer",
+      "options": [
+        "boyfriend",
+        "farmer",
+        "nurse",
+        "uncle"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "farmer_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'scientist' mean?",
+      "word": "scientist",
+      "options": [
+        "A person who writes books or articles",
+        "A person who studies science",
+        "A husband or wife",
+        "A female child"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "scientist_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ made a discovery.\"",
+      "word": "scientist",
+      "options": [
+        "scientist",
+        "child",
+        "granddaughter",
+        "wife"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "scientist_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who studies science\"",
+      "word": "scientist",
+      "options": [
+        "scientist",
+        "grandparent",
+        "aunt",
+        "journalist"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "scientist_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'writer' mean?",
+      "word": "writer",
+      "options": [
+        "The daughter of your sibling",
+        "The mother of your parent",
+        "A person who writes books or articles",
+        "A female romantic partner"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "writer_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ published a new book.\"",
+      "word": "writer",
+      "options": [
+        "writer",
+        "father",
+        "cousin",
+        "driver"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "writer_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who writes books or articles\"",
+      "word": "writer",
+      "options": [
+        "writer",
+        "sister",
+        "neighbor",
+        "scientist"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "writer_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'journalist' mean?",
+      "word": "journalist",
+      "options": [
+        "A person who reports news",
+        "A female child",
+        "A person who performs in movies or plays",
+        "A person who plays music"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "journalist_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ interviewed the mayor.\"",
+      "word": "journalist",
+      "options": [
+        "journalist",
+        "athlete",
+        "daughter",
+        "pilot"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "journalist_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who reports news\"",
+      "word": "journalist",
+      "options": [
+        "parent",
+        "journalist",
+        "father",
+        "daughter"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "journalist_3",
+      "category": "Family & People"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'athlete' mean?",
+      "word": "athlete",
+      "options": [
+        "A person who operates vehicles",
+        "A person who plays sports professionally",
+        "The daughter of your sibling",
+        "A person who lives next to you"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "athlete_1",
+      "category": "Family & People"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ won the gold medal.\"",
+      "word": "athlete",
+      "options": [
+        "athlete",
+        "granddaughter",
+        "colleague",
+        "driver"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "athlete_2",
+      "category": "Family & People"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A person who plays sports professionally\"",
+      "word": "athlete",
+      "options": [
+        "wife",
+        "chef",
+        "athlete",
+        "musician"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "athlete_3",
+      "category": "Family & People"
+    }
+  ]
+}

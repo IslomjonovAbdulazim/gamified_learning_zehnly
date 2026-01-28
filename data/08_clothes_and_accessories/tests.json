@@ -1,0 +1,2257 @@
+{
+  "category": "Clothes & Accessories",
+  "category_id": 8,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'shirt' mean?",
+      "word": "shirt",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shirt_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "shirt",
+      "options": [
+        "skirt",
+        "suspenders",
+        "shirt",
+        "heels"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "shirt_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "shirt",
+      "options": [
+        "gloves",
+        "shirt",
+        "wallet",
+        "shorts"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "shirt_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 't-shirt' mean?",
+      "word": "t-shirt",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "t-shirt_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "t-shirt",
+      "options": [
+        "t-shirt",
+        "cap",
+        "jeans",
+        "hoodie"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "t-shirt_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "t-shirt",
+      "options": [
+        "t-shirt",
+        "cap",
+        "ring",
+        "earrings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "t-shirt_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'blouse' mean?",
+      "word": "blouse",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "blouse_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "blouse",
+      "options": [
+        "suit",
+        "blouse",
+        "mittens",
+        "wallet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "blouse_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "blouse",
+      "options": [
+        "blouse",
+        "slippers",
+        "flip flops",
+        "suspenders"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "blouse_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sweater' mean?",
+      "word": "sweater",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sweater_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sweater",
+      "options": [
+        "sweater",
+        "bow tie",
+        "hoodie",
+        "beanie"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sweater_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "sweater",
+      "options": [
+        "coat",
+        "heels",
+        "tie",
+        "sweater"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sweater_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hoodie' mean?",
+      "word": "hoodie",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hoodie_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hoodie",
+      "options": [
+        "hoodie",
+        "purse",
+        "glasses",
+        "cap"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hoodie_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "hoodie",
+      "options": [
+        "watch",
+        "heels",
+        "hoodie",
+        "coat"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hoodie_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'jacket' mean?",
+      "word": "jacket",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jacket_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "jacket",
+      "options": [
+        "pants",
+        "watch",
+        "jacket",
+        "cap"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "jacket_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "jacket",
+      "options": [
+        "suspenders",
+        "jacket",
+        "suit",
+        "gloves"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "jacket_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'coat' mean?",
+      "word": "coat",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "coat_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "coat",
+      "options": [
+        "shoes",
+        "sandals",
+        "suspenders",
+        "coat"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "coat_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "coat",
+      "options": [
+        "coat",
+        "scarf",
+        "bracelet",
+        "underwear"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "coat_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'suit' mean?",
+      "word": "suit",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "suit_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "suit",
+      "options": [
+        "watch",
+        "suspenders",
+        "earrings",
+        "suit"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "suit_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "suit",
+      "options": [
+        "shoes",
+        "mittens",
+        "tie",
+        "suit"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "suit_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'dress' mean?",
+      "word": "dress",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "dress_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "dress",
+      "options": [
+        "pajamas",
+        "socks",
+        "dress",
+        "sunglasses"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "dress_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "dress",
+      "options": [
+        "bra",
+        "shoes",
+        "dress",
+        "skirt"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "dress_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'skirt' mean?",
+      "word": "skirt",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "skirt_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "skirt",
+      "options": [
+        "belt",
+        "slippers",
+        "skirt",
+        "running shoes"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "skirt_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "skirt",
+      "options": [
+        "belt",
+        "skirt",
+        "sandals",
+        "bow tie"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "skirt_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pants' mean?",
+      "word": "pants",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pants_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pants",
+      "options": [
+        "pants",
+        "flip flops",
+        "heels",
+        "jacket"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pants_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "pants",
+      "options": [
+        "pants",
+        "bracelet",
+        "shoes",
+        "scarf"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pants_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'jeans' mean?",
+      "word": "jeans",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jeans_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "jeans",
+      "options": [
+        "jeans",
+        "blouse",
+        "pajamas",
+        "slippers"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jeans_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "jeans",
+      "options": [
+        "skirt",
+        "jeans",
+        "stockings",
+        "shirt"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "jeans_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'shorts' mean?",
+      "word": "shorts",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shorts_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "shorts",
+      "options": [
+        "glasses",
+        "tie",
+        "shorts",
+        "shirt"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "shorts_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "shorts",
+      "options": [
+        "ring",
+        "sneakers",
+        "purse",
+        "shorts"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "shorts_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'leggings' mean?",
+      "word": "leggings",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "leggings_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "leggings",
+      "options": [
+        "jacket",
+        "leggings",
+        "tie",
+        "underwear"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "leggings_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "leggings",
+      "options": [
+        "heels",
+        "leggings",
+        "sweater",
+        "t-shirt"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "leggings_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'underwear' mean?",
+      "word": "underwear",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "underwear_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "underwear",
+      "options": [
+        "handbag",
+        "bra",
+        "sweater",
+        "underwear"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "underwear_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "underwear",
+      "options": [
+        "shirt",
+        "underwear",
+        "hat",
+        "pants"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "underwear_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bra' mean?",
+      "word": "bra",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bra_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bra",
+      "options": [
+        "underwear",
+        "skirt",
+        "bra",
+        "sandals"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bra_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "bra",
+      "options": [
+        "gloves",
+        "bra",
+        "flip flops",
+        "shirt"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bra_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'socks' mean?",
+      "word": "socks",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "socks_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "socks",
+      "options": [
+        "bra",
+        "gloves",
+        "socks",
+        "sandals"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "socks_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "socks",
+      "options": [
+        "socks",
+        "flip flops",
+        "robe",
+        "suspenders"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "socks_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'stockings' mean?",
+      "word": "stockings",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stockings_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "stockings",
+      "options": [
+        "stockings",
+        "underwear",
+        "slippers",
+        "tie"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stockings_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "stockings",
+      "options": [
+        "slippers",
+        "bra",
+        "hat",
+        "stockings"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "stockings_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pajamas' mean?",
+      "word": "pajamas",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pajamas_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pajamas",
+      "options": [
+        "pants",
+        "tie",
+        "pajamas",
+        "shorts"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pajamas_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "pajamas",
+      "options": [
+        "t-shirt",
+        "pajamas",
+        "sweater",
+        "blouse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pajamas_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'robe' mean?",
+      "word": "robe",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "robe_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "robe",
+      "options": [
+        "robe",
+        "wallet",
+        "boots",
+        "bow tie"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "robe_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "robe",
+      "options": [
+        "pants",
+        "ring",
+        "running shoes",
+        "robe"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "robe_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hat' mean?",
+      "word": "hat",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hat_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hat",
+      "options": [
+        "mittens",
+        "sunglasses",
+        "hat",
+        "bracelet"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hat_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "hat",
+      "options": [
+        "gloves",
+        "hat",
+        "mittens",
+        "shoes"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hat_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cap' mean?",
+      "word": "cap",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cap_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cap",
+      "options": [
+        "boots",
+        "jacket",
+        "cap",
+        "belt"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cap_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "cap",
+      "options": [
+        "cap",
+        "boots",
+        "sandals",
+        "coat"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cap_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'beanie' mean?",
+      "word": "beanie",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "beanie_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "beanie",
+      "options": [
+        "leggings",
+        "beanie",
+        "pajamas",
+        "coat"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "beanie_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "beanie",
+      "options": [
+        "bracelet",
+        "beanie",
+        "gloves",
+        "belt"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "beanie_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'scarf' mean?",
+      "word": "scarf",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "scarf_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "scarf",
+      "options": [
+        "jacket",
+        "shorts",
+        "loafers",
+        "scarf"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "scarf_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "scarf",
+      "options": [
+        "scarf",
+        "handbag",
+        "tie",
+        "suit"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "scarf_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'gloves' mean?",
+      "word": "gloves",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "gloves_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "gloves",
+      "options": [
+        "gloves",
+        "tie",
+        "t-shirt",
+        "socks"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "gloves_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "gloves",
+      "options": [
+        "bow tie",
+        "hat",
+        "mittens",
+        "gloves"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "gloves_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mittens' mean?",
+      "word": "mittens",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mittens_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mittens",
+      "options": [
+        "earrings",
+        "pants",
+        "bow tie",
+        "mittens"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "mittens_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "mittens",
+      "options": [
+        "running shoes",
+        "blouse",
+        "tie",
+        "mittens"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "mittens_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'belt' mean?",
+      "word": "belt",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "belt_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "belt",
+      "options": [
+        "earrings",
+        "scarf",
+        "belt",
+        "necklace"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "belt_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "belt",
+      "options": [
+        "handbag",
+        "bra",
+        "blouse",
+        "belt"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "belt_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tie' mean?",
+      "word": "tie",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tie_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tie",
+      "options": [
+        "pants",
+        "jeans",
+        "tie",
+        "shorts"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "tie_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "tie",
+      "options": [
+        "tie",
+        "slippers",
+        "dress",
+        "boots"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tie_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bow tie' mean?",
+      "word": "bow tie",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bow_tie_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bow tie",
+      "options": [
+        "coat",
+        "pajamas",
+        "necklace",
+        "bow tie"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bow_tie_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "bow tie",
+      "options": [
+        "dress",
+        "bow tie",
+        "bracelet",
+        "mittens"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bow_tie_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'suspenders' mean?",
+      "word": "suspenders",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "suspenders_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "suspenders",
+      "options": [
+        "shoes",
+        "gloves",
+        "suspenders",
+        "earrings"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "suspenders_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "suspenders",
+      "options": [
+        "purse",
+        "bracelet",
+        "earrings",
+        "suspenders"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "suspenders_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'shoes' mean?",
+      "word": "shoes",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shoes_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "shoes",
+      "options": [
+        "necklace",
+        "ring",
+        "shirt",
+        "shoes"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "shoes_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "shoes",
+      "options": [
+        "shoes",
+        "stockings",
+        "tie",
+        "beanie"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shoes_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'boots' mean?",
+      "word": "boots",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "boots_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "boots",
+      "options": [
+        "blouse",
+        "shoes",
+        "boots",
+        "flip flops"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "boots_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "boots",
+      "options": [
+        "scarf",
+        "boots",
+        "watch",
+        "belt"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "boots_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sandals' mean?",
+      "word": "sandals",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sandals_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sandals",
+      "options": [
+        "shirt",
+        "sandals",
+        "flip flops",
+        "purse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sandals_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "sandals",
+      "options": [
+        "sandals",
+        "earrings",
+        "socks",
+        "shorts"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sandals_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sneakers' mean?",
+      "word": "sneakers",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sneakers_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sneakers",
+      "options": [
+        "sneakers",
+        "t-shirt",
+        "skirt",
+        "gloves"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sneakers_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "sneakers",
+      "options": [
+        "sneakers",
+        "dress",
+        "boots",
+        "t-shirt"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sneakers_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'heels' mean?",
+      "word": "heels",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "heels_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "heels",
+      "options": [
+        "mittens",
+        "jeans",
+        "heels",
+        "loafers"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "heels_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "heels",
+      "options": [
+        "dress",
+        "bracelet",
+        "mittens",
+        "heels"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "heels_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'slippers' mean?",
+      "word": "slippers",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "slippers_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "slippers",
+      "options": [
+        "ring",
+        "slippers",
+        "dress",
+        "robe"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "slippers_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "slippers",
+      "options": [
+        "jeans",
+        "slippers",
+        "glasses",
+        "coat"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "slippers_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'flip flops' mean?",
+      "word": "flip flops",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "flip_flops_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "flip flops",
+      "options": [
+        "earrings",
+        "hat",
+        "flip flops",
+        "sneakers"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "flip_flops_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "flip flops",
+      "options": [
+        "purse",
+        "loafers",
+        "tie",
+        "flip flops"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "flip_flops_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'loafers' mean?",
+      "word": "loafers",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "loafers_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "loafers",
+      "options": [
+        "cap",
+        "loafers",
+        "bow tie",
+        "gloves"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "loafers_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "loafers",
+      "options": [
+        "loafers",
+        "stockings",
+        "underwear",
+        "jeans"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "loafers_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'Oxford shoes' mean?",
+      "word": "Oxford shoes",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "Oxford_shoes_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "Oxford shoes",
+      "options": [
+        "hoodie",
+        "bra",
+        "Oxford shoes",
+        "shoes"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "Oxford_shoes_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "Oxford shoes",
+      "options": [
+        "glasses",
+        "watch",
+        "Oxford shoes",
+        "shorts"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "Oxford_shoes_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'running shoes' mean?",
+      "word": "running shoes",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "running_shoes_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "running shoes",
+      "options": [
+        "wallet",
+        "slippers",
+        "running shoes",
+        "socks"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "running_shoes_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "running shoes",
+      "options": [
+        "stockings",
+        "leggings",
+        "slippers",
+        "running shoes"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "running_shoes_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'watch' mean?",
+      "word": "watch",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "watch_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "watch",
+      "options": [
+        "t-shirt",
+        "watch",
+        "skirt",
+        "purse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "watch_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "watch",
+      "options": [
+        "pajamas",
+        "watch",
+        "ring",
+        "blouse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "watch_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bracelet' mean?",
+      "word": "bracelet",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bracelet_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bracelet",
+      "options": [
+        "shoes",
+        "bracelet",
+        "wallet",
+        "hat"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bracelet_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "bracelet",
+      "options": [
+        "bracelet",
+        "scarf",
+        "Oxford shoes",
+        "sneakers"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bracelet_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'necklace' mean?",
+      "word": "necklace",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "necklace_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "necklace",
+      "options": [
+        "ring",
+        "stockings",
+        "scarf",
+        "necklace"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "necklace_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "necklace",
+      "options": [
+        "necklace",
+        "coat",
+        "handbag",
+        "beanie"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "necklace_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'earrings' mean?",
+      "word": "earrings",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "earrings_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "earrings",
+      "options": [
+        "earrings",
+        "jacket",
+        "jeans",
+        "glasses"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "earrings_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "earrings",
+      "options": [
+        "earrings",
+        "t-shirt",
+        "flip flops",
+        "pajamas"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "earrings_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ring' mean?",
+      "word": "ring",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ring_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ring",
+      "options": [
+        "slippers",
+        "underwear",
+        "watch",
+        "ring"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ring_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "ring",
+      "options": [
+        "shoes",
+        "bracelet",
+        "ring",
+        "skirt"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "ring_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'glasses' mean?",
+      "word": "glasses",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "glasses_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "glasses",
+      "options": [
+        "robe",
+        "mittens",
+        "glasses",
+        "earrings"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "glasses_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "glasses",
+      "options": [
+        "robe",
+        "glasses",
+        "scarf",
+        "stockings"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "glasses_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sunglasses' mean?",
+      "word": "sunglasses",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sunglasses_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sunglasses",
+      "options": [
+        "Oxford shoes",
+        "sunglasses",
+        "hat",
+        "bracelet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sunglasses_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "sunglasses",
+      "options": [
+        "suspenders",
+        "handbag",
+        "mittens",
+        "sunglasses"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sunglasses_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'handbag' mean?",
+      "word": "handbag",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "handbag_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "handbag",
+      "options": [
+        "skirt",
+        "suit",
+        "handbag",
+        "shorts"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "handbag_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "handbag",
+      "options": [
+        "suit",
+        "shoes",
+        "mittens",
+        "handbag"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "handbag_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'purse' mean?",
+      "word": "purse",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "purse_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "purse",
+      "options": [
+        "sunglasses",
+        "ring",
+        "purse",
+        "handbag"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "purse_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "purse",
+      "options": [
+        "leggings",
+        "shoes",
+        "pants",
+        "purse"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "purse_3",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wallet' mean?",
+      "word": "wallet",
+      "options": [
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories",
+        "Something related to clothes & accessories"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wallet_1",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wallet",
+      "options": [
+        "wallet",
+        "sweater",
+        "beanie",
+        "underwear"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wallet_2",
+      "category": "Clothes & Accessories"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to clothes & accessories\"",
+      "word": "wallet",
+      "options": [
+        "wallet",
+        "hat",
+        "slippers",
+        "earrings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wallet_3",
+      "category": "Clothes & Accessories"
+    }
+  ]
+}

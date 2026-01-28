@@ -1,0 +1,2257 @@
+{
+  "category": "Animals",
+  "category_id": 1,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'dog' mean?",
+      "word": "dog",
+      "options": [
+        "A large bird of prey with excellent vision",
+        "A black and white bear that eats bamboo",
+        "A loyal pet that barks and is man's best friend",
+        "A large white bear from the Arctic"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "dog_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ wagged its tail when the owner came home.\"",
+      "word": "dog",
+      "options": [
+        "crocodile",
+        "monkey",
+        "deer",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "dog_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A loyal pet that barks and is man's best friend\"",
+      "word": "dog",
+      "options": [
+        "butterfly",
+        "owl",
+        "bear",
+        "dog"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "dog_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cat' mean?",
+      "word": "cat",
+      "options": [
+        "A small furry pet that meows and purrs",
+        "An intelligent ape related to humans",
+        "A large powerful ape from Africa",
+        "An animal that lives in water and has gills"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cat_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ climbed up the tree to catch a bird.\"",
+      "word": "cat",
+      "options": [
+        "cat",
+        "shark",
+        "rabbit",
+        "lion"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cat_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A small furry pet that meows and purrs\"",
+      "word": "cat",
+      "options": [
+        "turtle",
+        "cat",
+        "crab",
+        "wolf"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cat_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'elephant' mean?",
+      "word": "elephant",
+      "options": [
+        "A bird that swims and says quack",
+        "A large wild cat with orange fur and black stripes",
+        "The largest land animal with a long trunk",
+        "A pink farm animal that oinks"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "elephant_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ used its trunk to drink water.\"",
+      "word": "elephant",
+      "options": [
+        "duck",
+        "hippopotamus",
+        "elephant",
+        "crab"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "elephant_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The largest land animal with a long trunk\"",
+      "word": "elephant",
+      "options": [
+        "wolf",
+        "crab",
+        "snake",
+        "elephant"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "elephant_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lion' mean?",
+      "word": "lion",
+      "options": [
+        "A sea creature with claws that walks sideways",
+        "A large white bear from the Arctic",
+        "A large animal that people ride",
+        "A large wild cat known as the king of the jungle"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lion_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ roared loudly in the savanna.\"",
+      "word": "lion",
+      "options": [
+        "lobster",
+        "whale",
+        "lion",
+        "bear"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "lion_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large wild cat known as the king of the jungle\"",
+      "word": "lion",
+      "options": [
+        "lion",
+        "monkey",
+        "polar bear",
+        "horse"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lion_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tiger' mean?",
+      "word": "tiger",
+      "options": [
+        "A large wild cat with orange fur and black stripes",
+        "A long reptile with no legs that slithers",
+        "A black and white bear that eats bamboo",
+        "A large wild cat known as the king of the jungle"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tiger_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ hunted silently in the forest.\"",
+      "word": "tiger",
+      "options": [
+        "tiger",
+        "hippopotamus",
+        "bee",
+        "lizard"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tiger_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large wild cat with orange fur and black stripes\"",
+      "word": "tiger",
+      "options": [
+        "tiger",
+        "duck",
+        "jellyfish",
+        "crocodile"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tiger_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bear' mean?",
+      "word": "bear",
+      "options": [
+        "A graceful forest animal with antlers",
+        "A reptile with a hard shell on its back",
+        "A large furry animal that hibernates in winter",
+        "A colorful bird that can mimic speech"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bear_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ caught fish from the river.\"",
+      "word": "bear",
+      "options": [
+        "octopus",
+        "ant",
+        "rhinoceros",
+        "bear"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bear_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large furry animal that hibernates in winter\"",
+      "word": "bear",
+      "options": [
+        "panda",
+        "bear",
+        "lizard",
+        "dog"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bear_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wolf' mean?",
+      "word": "wolf",
+      "options": [
+        "A small reptile with four legs and a tail",
+        "A wild animal that lives in packs and howls",
+        "A small furry pet that meows and purrs",
+        "A large wild cat known as the king of the jungle"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "wolf_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ howled at the moon.\"",
+      "word": "wolf",
+      "options": [
+        "wolf",
+        "octopus",
+        "penguin",
+        "whale"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wolf_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A wild animal that lives in packs and howls\"",
+      "word": "wolf",
+      "options": [
+        "horse",
+        "lion",
+        "goat",
+        "wolf"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "wolf_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fox' mean?",
+      "word": "fox",
+      "options": [
+        "A smart sea mammal that is very friendly",
+        "A creature with eight legs that spins webs",
+        "A clever animal with reddish fur and a bushy tail",
+        "A large wild cat known as the king of the jungle"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "fox_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ ran quickly through the forest.\"",
+      "word": "fox",
+      "options": [
+        "ant",
+        "bee",
+        "fox",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "fox_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A clever animal with reddish fur and a bushy tail\"",
+      "word": "fox",
+      "options": [
+        "hippopotamus",
+        "frog",
+        "spider",
+        "fox"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fox_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rabbit' mean?",
+      "word": "rabbit",
+      "options": [
+        "A small animal with long ears that hops",
+        "A bird that hunts at night and hoots",
+        "The tallest animal with a very long neck",
+        "A small reptile with four legs and a tail"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rabbit_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ hopped through the garden.\"",
+      "word": "rabbit",
+      "options": [
+        "rabbit",
+        "kangaroo",
+        "dolphin",
+        "crab"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rabbit_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A small animal with long ears that hops\"",
+      "word": "rabbit",
+      "options": [
+        "ant",
+        "octopus",
+        "rabbit",
+        "tiger"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rabbit_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'deer' mean?",
+      "word": "deer",
+      "options": [
+        "A bird that swims and says quack",
+        "A reptile with a hard shell on its back",
+        "A graceful forest animal with antlers",
+        "An animal that lives in water and has gills"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "deer_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ jumped over the fence.\"",
+      "word": "deer",
+      "options": [
+        "deer",
+        "tiger",
+        "penguin",
+        "wolf"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "deer_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A graceful forest animal with antlers\"",
+      "word": "deer",
+      "options": [
+        "turtle",
+        "deer",
+        "koala",
+        "hippopotamus"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "deer_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'horse' mean?",
+      "word": "horse",
+      "options": [
+        "A bird that hunts at night and hoots",
+        "A large animal that people ride",
+        "A large powerful ape from Africa",
+        "A sea creature with a soft body that can sting"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "horse_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"She learned to ride a ___ at the farm.\"",
+      "word": "horse",
+      "options": [
+        "bee",
+        "horse",
+        "bear",
+        "octopus"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "horse_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large animal that people ride\"",
+      "word": "horse",
+      "options": [
+        "horse",
+        "chimpanzee",
+        "gorilla",
+        "crab"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "horse_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cow' mean?",
+      "word": "cow",
+      "options": [
+        "A farm animal that produces milk",
+        "A large wild cat known as the king of the jungle",
+        "A reptile with a hard shell on its back",
+        "A sea creature with large claws"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cow_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The farmer milked the ___ every morning.\"",
+      "word": "cow",
+      "options": [
+        "cow",
+        "turtle",
+        "horse",
+        "penguin"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cow_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A farm animal that produces milk\"",
+      "word": "cow",
+      "options": [
+        "cow",
+        "zebra",
+        "giraffe",
+        "ant"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cow_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pig' mean?",
+      "word": "pig",
+      "options": [
+        "A pink farm animal that oinks",
+        "A large bird often eaten during holidays",
+        "A farm animal that produces milk",
+        "A black and white bear that eats bamboo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pig_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ rolled in the mud.\"",
+      "word": "pig",
+      "options": [
+        "pig",
+        "bee",
+        "monkey",
+        "gorilla"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pig_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A pink farm animal that oinks\"",
+      "word": "pig",
+      "options": [
+        "deer",
+        "butterfly",
+        "pig",
+        "shark"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pig_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sheep' mean?",
+      "word": "sheep",
+      "options": [
+        "A pink farm animal that oinks",
+        "An insect that makes honey and can sting",
+        "A clever animal with reddish fur and a bushy tail",
+        "A farm animal with woolly fur"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sheep_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ provided wool for sweaters.\"",
+      "word": "sheep",
+      "options": [
+        "sheep",
+        "deer",
+        "octopus",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sheep_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A farm animal with woolly fur\"",
+      "word": "sheep",
+      "options": [
+        "monkey",
+        "sheep",
+        "cow",
+        "fish"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sheep_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'goat' mean?",
+      "word": "goat",
+      "options": [
+        "A farm animal with horns that can climb",
+        "A large reptile with sharp teeth in water",
+        "A sea creature with claws that walks sideways",
+        "A small animal with long ears that hops"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "goat_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ climbed up the rocky hill.\"",
+      "word": "goat",
+      "options": [
+        "snake",
+        "hippopotamus",
+        "monkey",
+        "goat"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "goat_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A farm animal with horns that can climb\"",
+      "word": "goat",
+      "options": [
+        "chicken",
+        "crab",
+        "goat",
+        "dog"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "goat_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chicken' mean?",
+      "word": "chicken",
+      "options": [
+        "A large wild cat with orange fur and black stripes",
+        "A large powerful ape from Africa",
+        "A large African animal that lives in water",
+        "A bird raised on farms that lays eggs"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "chicken_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ laid three eggs today.\"",
+      "word": "chicken",
+      "options": [
+        "chicken",
+        "dog",
+        "goat",
+        "kangaroo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chicken_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A bird raised on farms that lays eggs\"",
+      "word": "chicken",
+      "options": [
+        "chicken",
+        "polar bear",
+        "sheep",
+        "dolphin"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chicken_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'duck' mean?",
+      "word": "duck",
+      "options": [
+        "A sea creature with a soft body that can sting",
+        "The tallest animal with a very long neck",
+        "An Australian animal that eats eucalyptus",
+        "A bird that swims and says quack"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "duck_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ swam across the pond.\"",
+      "word": "duck",
+      "options": [
+        "duck",
+        "monkey",
+        "bear",
+        "penguin"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "duck_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A bird that swims and says quack\"",
+      "word": "duck",
+      "options": [
+        "duck",
+        "octopus",
+        "horse",
+        "sheep"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "duck_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'turkey' mean?",
+      "word": "turkey",
+      "options": [
+        "A pink farm animal that oinks",
+        "An Australian animal that hops with a pouch",
+        "A large bird often eaten during holidays",
+        "A small reptile with four legs and a tail"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "turkey_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"We had roasted ___ for dinner.\"",
+      "word": "turkey",
+      "options": [
+        "octopus",
+        "penguin",
+        "frog",
+        "turkey"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "turkey_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large bird often eaten during holidays\"",
+      "word": "turkey",
+      "options": [
+        "turtle",
+        "turkey",
+        "lizard",
+        "zebra"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "turkey_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'eagle' mean?",
+      "word": "eagle",
+      "options": [
+        "A large bird of prey with excellent vision",
+        "A small furry pet that meows and purrs",
+        "A bird that hunts at night and hoots",
+        "A creature with eight legs that spins webs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eagle_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ soared high above the mountains.\"",
+      "word": "eagle",
+      "options": [
+        "lobster",
+        "eagle",
+        "gorilla",
+        "jellyfish"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "eagle_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large bird of prey with excellent vision\"",
+      "word": "eagle",
+      "options": [
+        "dog",
+        "eagle",
+        "hippopotamus",
+        "zebra"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "eagle_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'owl' mean?",
+      "word": "owl",
+      "options": [
+        "A farm animal that produces milk",
+        "A large white bear from the Arctic",
+        "A large furry animal that hibernates in winter",
+        "A bird that hunts at night and hoots"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "owl_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ hooted in the dark forest.\"",
+      "word": "owl",
+      "options": [
+        "crab",
+        "penguin",
+        "owl",
+        "cow"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "owl_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A bird that hunts at night and hoots\"",
+      "word": "owl",
+      "options": [
+        "owl",
+        "parrot",
+        "rhinoceros",
+        "eagle"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "owl_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'parrot' mean?",
+      "word": "parrot",
+      "options": [
+        "A farm animal that produces milk",
+        "A farm animal with woolly fur",
+        "An insect that makes honey and can sting",
+        "A colorful bird that can mimic speech"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "parrot_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ repeated everything we said.\"",
+      "word": "parrot",
+      "options": [
+        "owl",
+        "parrot",
+        "lobster",
+        "octopus"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "parrot_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A colorful bird that can mimic speech\"",
+      "word": "parrot",
+      "options": [
+        "monkey",
+        "lion",
+        "rhinoceros",
+        "parrot"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "parrot_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'penguin' mean?",
+      "word": "penguin",
+      "options": [
+        "A colorful bird that can mimic speech",
+        "A black and white bird that cannot fly but swims",
+        "An intelligent ape related to humans",
+        "A smart sea mammal that is very friendly"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "penguin_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ lives in cold Antarctica.\"",
+      "word": "penguin",
+      "options": [
+        "turtle",
+        "cat",
+        "penguin",
+        "horse"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "penguin_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A black and white bird that cannot fly but swims\"",
+      "word": "penguin",
+      "options": [
+        "tiger",
+        "penguin",
+        "rhinoceros",
+        "lizard"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "penguin_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'dolphin' mean?",
+      "word": "dolphin",
+      "options": [
+        "A pink farm animal that oinks",
+        "A small reptile with four legs and a tail",
+        "A farm animal with horns that can climb",
+        "A smart sea mammal that is very friendly"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "dolphin_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ jumped out of the water.\"",
+      "word": "dolphin",
+      "options": [
+        "fox",
+        "dolphin",
+        "gorilla",
+        "deer"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "dolphin_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A smart sea mammal that is very friendly\"",
+      "word": "dolphin",
+      "options": [
+        "horse",
+        "dolphin",
+        "chicken",
+        "rhinoceros"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "dolphin_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'whale' mean?",
+      "word": "whale",
+      "options": [
+        "A sea creature with claws that walks sideways",
+        "The largest animal in the ocean",
+        "A bird raised on farms that lays eggs",
+        "An Australian animal that hops with a pouch"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "whale_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ sprayed water from its blowhole.\"",
+      "word": "whale",
+      "options": [
+        "rabbit",
+        "snake",
+        "whale",
+        "rhinoceros"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "whale_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The largest animal in the ocean\"",
+      "word": "whale",
+      "options": [
+        "whale",
+        "eagle",
+        "kangaroo",
+        "goat"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "whale_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'shark' mean?",
+      "word": "shark",
+      "options": [
+        "A sea creature with eight arms",
+        "A large white bear from the Arctic",
+        "A dangerous fish with sharp teeth",
+        "A farm animal that produces milk"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "shark_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ swam beneath the surface.\"",
+      "word": "shark",
+      "options": [
+        "goat",
+        "shark",
+        "tiger",
+        "monkey"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "shark_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A dangerous fish with sharp teeth\"",
+      "word": "shark",
+      "options": [
+        "monkey",
+        "shark",
+        "chimpanzee",
+        "bear"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "shark_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fish' mean?",
+      "word": "fish",
+      "options": [
+        "A dangerous fish with sharp teeth",
+        "A bird that swims and says quack",
+        "A black and white bear that eats bamboo",
+        "An animal that lives in water and has gills"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fish_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ swam in circles in the tank.\"",
+      "word": "fish",
+      "options": [
+        "bee",
+        "spider",
+        "penguin",
+        "fish"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fish_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An animal that lives in water and has gills\"",
+      "word": "fish",
+      "options": [
+        "goat",
+        "fish",
+        "horse",
+        "whale"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "fish_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'octopus' mean?",
+      "word": "octopus",
+      "options": [
+        "An insect with beautiful colorful wings",
+        "A smart sea mammal that is very friendly",
+        "A sea creature with eight arms",
+        "A large animal that people ride"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "octopus_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ has eight long arms.\"",
+      "word": "octopus",
+      "options": [
+        "kangaroo",
+        "octopus",
+        "elephant",
+        "zebra"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "octopus_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sea creature with eight arms\"",
+      "word": "octopus",
+      "options": [
+        "octopus",
+        "deer",
+        "chicken",
+        "butterfly"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "octopus_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'crab' mean?",
+      "word": "crab",
+      "options": [
+        "An African animal with black and white stripes",
+        "A large animal with a horn on its nose",
+        "An Australian animal that eats eucalyptus",
+        "A sea creature with claws that walks sideways"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "crab_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ walked sideways on the beach.\"",
+      "word": "crab",
+      "options": [
+        "rabbit",
+        "crab",
+        "wolf",
+        "spider"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "crab_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sea creature with claws that walks sideways\"",
+      "word": "crab",
+      "options": [
+        "fox",
+        "crab",
+        "chicken",
+        "horse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "crab_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lobster' mean?",
+      "word": "lobster",
+      "options": [
+        "An insect with beautiful colorful wings",
+        "The largest land animal with a long trunk",
+        "A sea creature with large claws",
+        "A clever animal that swings from trees"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "lobster_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The restaurant served fresh ___.\"",
+      "word": "lobster",
+      "options": [
+        "polar bear",
+        "sheep",
+        "lobster",
+        "cat"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "lobster_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sea creature with large claws\"",
+      "word": "lobster",
+      "options": [
+        "octopus",
+        "snake",
+        "lobster",
+        "dolphin"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "lobster_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'jellyfish' mean?",
+      "word": "jellyfish",
+      "options": [
+        "A sea creature with a soft body that can sting",
+        "A sea creature with large claws",
+        "A pink farm animal that oinks",
+        "A black and white bird that cannot fly but swims"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jellyfish_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"Be careful, that ___ can sting you.\"",
+      "word": "jellyfish",
+      "options": [
+        "koala",
+        "gorilla",
+        "chimpanzee",
+        "jellyfish"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "jellyfish_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A sea creature with a soft body that can sting\"",
+      "word": "jellyfish",
+      "options": [
+        "owl",
+        "sheep",
+        "giraffe",
+        "jellyfish"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "jellyfish_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'butterfly' mean?",
+      "word": "butterfly",
+      "options": [
+        "A dangerous fish with sharp teeth",
+        "A large bird of prey with excellent vision",
+        "An insect with beautiful colorful wings",
+        "A loyal pet that barks and is man's best friend"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "butterfly_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ landed on the flower.\"",
+      "word": "butterfly",
+      "options": [
+        "butterfly",
+        "bee",
+        "spider",
+        "dog"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "butterfly_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An insect with beautiful colorful wings\"",
+      "word": "butterfly",
+      "options": [
+        "snake",
+        "octopus",
+        "lobster",
+        "butterfly"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "butterfly_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bee' mean?",
+      "word": "bee",
+      "options": [
+        "A large reptile with sharp teeth in water",
+        "An insect that makes honey and can sting",
+        "A creature with eight legs that spins webs",
+        "A sea creature with eight arms"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bee_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ collected nectar from flowers.\"",
+      "word": "bee",
+      "options": [
+        "giraffe",
+        "chicken",
+        "bee",
+        "rabbit"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bee_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An insect that makes honey and can sting\"",
+      "word": "bee",
+      "options": [
+        "penguin",
+        "goat",
+        "crocodile",
+        "bee"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bee_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ant' mean?",
+      "word": "ant",
+      "options": [
+        "An insect that makes honey and can sting",
+        "A wild animal that lives in packs and howls",
+        "A tiny insect that lives in colonies",
+        "A large wild cat with orange fur and black stripes"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "ant_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ carried food to its colony.\"",
+      "word": "ant",
+      "options": [
+        "sheep",
+        "ant",
+        "dolphin",
+        "gorilla"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ant_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A tiny insect that lives in colonies\"",
+      "word": "ant",
+      "options": [
+        "deer",
+        "ant",
+        "rhinoceros",
+        "chicken"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ant_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'spider' mean?",
+      "word": "spider",
+      "options": [
+        "A sea creature with large claws",
+        "A tiny insect that lives in colonies",
+        "A creature with eight legs that spins webs",
+        "A dangerous fish with sharp teeth"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "spider_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ spun a web between branches.\"",
+      "word": "spider",
+      "options": [
+        "turtle",
+        "lobster",
+        "spider",
+        "monkey"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "spider_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A creature with eight legs that spins webs\"",
+      "word": "spider",
+      "options": [
+        "hippopotamus",
+        "gorilla",
+        "spider",
+        "pig"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "spider_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'snake' mean?",
+      "word": "snake",
+      "options": [
+        "A small reptile with four legs and a tail",
+        "A farm animal with horns that can climb",
+        "An insect that makes honey and can sting",
+        "A long reptile with no legs that slithers"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "snake_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ slithered through the grass.\"",
+      "word": "snake",
+      "options": [
+        "crab",
+        "horse",
+        "snake",
+        "fox"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "snake_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A long reptile with no legs that slithers\"",
+      "word": "snake",
+      "options": [
+        "panda",
+        "crocodile",
+        "polar bear",
+        "snake"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "snake_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lizard' mean?",
+      "word": "lizard",
+      "options": [
+        "A small reptile with four legs and a tail",
+        "A sea creature with eight arms",
+        "A long reptile with no legs that slithers",
+        "A farm animal with horns that can climb"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lizard_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ basked in the warm sun.\"",
+      "word": "lizard",
+      "options": [
+        "lizard",
+        "parrot",
+        "fish",
+        "dog"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lizard_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A small reptile with four legs and a tail\"",
+      "word": "lizard",
+      "options": [
+        "goat",
+        "lizard",
+        "dog",
+        "giraffe"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "lizard_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'turtle' mean?",
+      "word": "turtle",
+      "options": [
+        "The largest animal in the ocean",
+        "A clever animal with reddish fur and a bushy tail",
+        "A reptile with a hard shell on its back",
+        "A loyal pet that barks and is man's best friend"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "turtle_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ moved slowly toward the water.\"",
+      "word": "turtle",
+      "options": [
+        "tiger",
+        "turkey",
+        "giraffe",
+        "turtle"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "turtle_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A reptile with a hard shell on its back\"",
+      "word": "turtle",
+      "options": [
+        "duck",
+        "koala",
+        "dolphin",
+        "turtle"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "turtle_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'frog' mean?",
+      "word": "frog",
+      "options": [
+        "An amphibian that hops and lives near water",
+        "A sea creature with a soft body that can sting",
+        "An intelligent ape related to humans",
+        "A creature with eight legs that spins webs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "frog_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ jumped from lily pad to lily pad.\"",
+      "word": "frog",
+      "options": [
+        "rabbit",
+        "elephant",
+        "frog",
+        "duck"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "frog_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An amphibian that hops and lives near water\"",
+      "word": "frog",
+      "options": [
+        "giraffe",
+        "lion",
+        "fox",
+        "frog"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "frog_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'crocodile' mean?",
+      "word": "crocodile",
+      "options": [
+        "A loyal pet that barks and is man's best friend",
+        "A large reptile with sharp teeth in water",
+        "An amphibian that hops and lives near water",
+        "A long reptile with no legs that slithers"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "crocodile_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ waited in the river for prey.\"",
+      "word": "crocodile",
+      "options": [
+        "crocodile",
+        "rabbit",
+        "spider",
+        "chicken"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "crocodile_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large reptile with sharp teeth in water\"",
+      "word": "crocodile",
+      "options": [
+        "crab",
+        "cat",
+        "crocodile",
+        "gorilla"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "crocodile_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'monkey' mean?",
+      "word": "monkey",
+      "options": [
+        "A large reptile with sharp teeth in water",
+        "A sea creature with eight arms",
+        "A clever animal that swings from trees",
+        "A large white bear from the Arctic"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "monkey_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ swung from branch to branch.\"",
+      "word": "monkey",
+      "options": [
+        "wolf",
+        "monkey",
+        "fox",
+        "rhinoceros"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "monkey_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A clever animal that swings from trees\"",
+      "word": "monkey",
+      "options": [
+        "fox",
+        "pig",
+        "monkey",
+        "turtle"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "monkey_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'gorilla' mean?",
+      "word": "gorilla",
+      "options": [
+        "A bird that hunts at night and hoots",
+        "An Australian animal that eats eucalyptus",
+        "The largest land animal with a long trunk",
+        "A large powerful ape from Africa"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "gorilla_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ beat its chest.\"",
+      "word": "gorilla",
+      "options": [
+        "dolphin",
+        "tiger",
+        "butterfly",
+        "gorilla"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "gorilla_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large powerful ape from Africa\"",
+      "word": "gorilla",
+      "options": [
+        "deer",
+        "duck",
+        "crocodile",
+        "gorilla"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "gorilla_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chimpanzee' mean?",
+      "word": "chimpanzee",
+      "options": [
+        "An intelligent ape related to humans",
+        "A bird that swims and says quack",
+        "A colorful bird that can mimic speech",
+        "A bird raised on farms that lays eggs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chimpanzee_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ used a stick as a tool.\"",
+      "word": "chimpanzee",
+      "options": [
+        "spider",
+        "frog",
+        "chimpanzee",
+        "turkey"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "chimpanzee_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An intelligent ape related to humans\"",
+      "word": "chimpanzee",
+      "options": [
+        "panda",
+        "crocodile",
+        "sheep",
+        "chimpanzee"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "chimpanzee_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'giraffe' mean?",
+      "word": "giraffe",
+      "options": [
+        "A large powerful ape from Africa",
+        "An animal that lives in water and has gills",
+        "The tallest animal with a very long neck",
+        "A sea creature with eight arms"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "giraffe_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ ate leaves from the tall tree.\"",
+      "word": "giraffe",
+      "options": [
+        "giraffe",
+        "cat",
+        "frog",
+        "elephant"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "giraffe_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"The tallest animal with a very long neck\"",
+      "word": "giraffe",
+      "options": [
+        "bee",
+        "giraffe",
+        "chimpanzee",
+        "penguin"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "giraffe_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'zebra' mean?",
+      "word": "zebra",
+      "options": [
+        "An African animal with black and white stripes",
+        "The tallest animal with a very long neck",
+        "A bird that swims and says quack",
+        "A bird raised on farms that lays eggs"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "zebra_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ has unique stripe patterns.\"",
+      "word": "zebra",
+      "options": [
+        "kangaroo",
+        "monkey",
+        "zebra",
+        "turtle"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "zebra_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An African animal with black and white stripes\"",
+      "word": "zebra",
+      "options": [
+        "bear",
+        "zebra",
+        "chimpanzee",
+        "sheep"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "zebra_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hippopotamus' mean?",
+      "word": "hippopotamus",
+      "options": [
+        "A bird that hunts at night and hoots",
+        "A tiny insect that lives in colonies",
+        "A large powerful ape from Africa",
+        "A large African animal that lives in water"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "hippopotamus_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ opened its huge mouth.\"",
+      "word": "hippopotamus",
+      "options": [
+        "hippopotamus",
+        "tiger",
+        "lizard",
+        "ant"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hippopotamus_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large African animal that lives in water\"",
+      "word": "hippopotamus",
+      "options": [
+        "lobster",
+        "dog",
+        "hippopotamus",
+        "horse"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hippopotamus_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rhinoceros' mean?",
+      "word": "rhinoceros",
+      "options": [
+        "An insect that makes honey and can sting",
+        "A bird raised on farms that lays eggs",
+        "A long reptile with no legs that slithers",
+        "A large animal with a horn on its nose"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "rhinoceros_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ charged to defend itself.\"",
+      "word": "rhinoceros",
+      "options": [
+        "gorilla",
+        "spider",
+        "rhinoceros",
+        "dolphin"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rhinoceros_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large animal with a horn on its nose\"",
+      "word": "rhinoceros",
+      "options": [
+        "fox",
+        "tiger",
+        "rhinoceros",
+        "shark"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rhinoceros_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'kangaroo' mean?",
+      "word": "kangaroo",
+      "options": [
+        "An insect that makes honey and can sting",
+        "An animal that lives in water and has gills",
+        "An Australian animal that hops with a pouch",
+        "A long reptile with no legs that slithers"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "kangaroo_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ hopped across the outback.\"",
+      "word": "kangaroo",
+      "options": [
+        "goat",
+        "kangaroo",
+        "rhinoceros",
+        "crocodile"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "kangaroo_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An Australian animal that hops with a pouch\"",
+      "word": "kangaroo",
+      "options": [
+        "snake",
+        "cow",
+        "elephant",
+        "kangaroo"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "kangaroo_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'koala' mean?",
+      "word": "koala",
+      "options": [
+        "An insect with beautiful colorful wings",
+        "An Australian animal that eats eucalyptus",
+        "A large furry animal that hibernates in winter",
+        "A creature with eight legs that spins webs"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "koala_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ slept in the tree all day.\"",
+      "word": "koala",
+      "options": [
+        "koala",
+        "bear",
+        "wolf",
+        "fox"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "koala_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"An Australian animal that eats eucalyptus\"",
+      "word": "koala",
+      "options": [
+        "chimpanzee",
+        "koala",
+        "monkey",
+        "lion"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "koala_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'panda' mean?",
+      "word": "panda",
+      "options": [
+        "A wild animal that lives in packs and howls",
+        "A small furry pet that meows and purrs",
+        "The largest land animal with a long trunk",
+        "A black and white bear that eats bamboo"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "panda_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ munched on bamboo.\"",
+      "word": "panda",
+      "options": [
+        "bear",
+        "spider",
+        "polar bear",
+        "panda"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "panda_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A black and white bear that eats bamboo\"",
+      "word": "panda",
+      "options": [
+        "panda",
+        "lobster",
+        "jellyfish",
+        "turkey"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "panda_3",
+      "category": "Animals"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'polar bear' mean?",
+      "word": "polar bear",
+      "options": [
+        "A large white bear from the Arctic",
+        "A large African animal that lives in water",
+        "A colorful bird that can mimic speech",
+        "A black and white bear that eats bamboo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "polar_bear_1",
+      "category": "Animals"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"The ___ hunted seals on the ice.\"",
+      "word": "polar bear",
+      "options": [
+        "polar bear",
+        "whale",
+        "cow",
+        "bear"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "polar_bear_2",
+      "category": "Animals"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"A large white bear from the Arctic\"",
+      "word": "polar bear",
+      "options": [
+        "polar bear",
+        "frog",
+        "chicken",
+        "chimpanzee"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "polar_bear_3",
+      "category": "Animals"
+    }
+  ]
+}

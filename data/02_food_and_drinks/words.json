@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Food & Drinks",
+  "icon": "🍔",
+  "words": [
+    "apple", "banana", "orange", "grape", "strawberry", "watermelon", "pineapple", "mango", "peach", "cherry",
+    "bread", "rice", "pasta", "noodles", "pizza", "burger", "sandwich", "salad", "soup", "steak",
+    "chicken", "fish", "egg", "cheese", "butter", "milk", "yogurt", "ice cream", "cake", "cookie",
+    "chocolate", "candy", "sugar", "salt", "pepper", "oil", "vinegar", "sauce", "ketchup", "mustard",
+    "water", "juice", "coffee", "tea", "soda", "beer", "wine", "smoothie", "milkshake", "lemonade"
+  ]
+}

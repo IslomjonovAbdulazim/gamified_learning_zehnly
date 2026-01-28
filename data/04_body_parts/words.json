@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "Body Parts",
+  "icon": "🫀",
+  "words": [
+    "head", "face", "hair", "forehead", "eyebrow", "eye", "eyelash", "nose", "ear", "cheek",
+    "mouth", "lip", "tongue", "tooth", "teeth", "chin", "jaw", "neck", "throat", "shoulder",
+    "arm", "elbow", "wrist", "hand", "finger", "thumb", "nail", "chest", "breast", "stomach",
+    "back", "spine", "waist", "hip", "leg", "thigh", "knee", "ankle", "foot", "toe",
+    "heart", "brain", "lung", "liver", "kidney", "bone", "muscle", "skin", "blood", "vein"
+  ]
+}

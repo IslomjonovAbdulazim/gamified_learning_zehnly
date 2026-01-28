@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "name": "School & Education",
+  "icon": "📚",
+  "words": [
+    "school", "classroom", "teacher", "student", "principal", "professor", "university", "college", "academy", "institute",
+    "book", "textbook", "notebook", "pencil", "pen", "eraser", "ruler", "calculator", "computer", "tablet",
+    "desk", "chair", "blackboard", "whiteboard", "chalk", "marker", "backpack", "locker", "library", "cafeteria",
+    "homework", "assignment", "exam", "test", "quiz", "grade", "report card", "diploma", "degree", "certificate",
+    "math", "science", "history", "geography", "literature", "language", "art", "music", "physical education", "biology"
+  ]
+}

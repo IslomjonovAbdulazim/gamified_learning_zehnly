@@ -1,0 +1,2257 @@
+{
+  "category": "Numbers & Time",
+  "category_id": 6,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'one' mean?",
+      "word": "one",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "one_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "one",
+      "options": [
+        "millennium",
+        "century",
+        "twelve",
+        "one"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "one_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "one",
+      "options": [
+        "seven",
+        "nine",
+        "one",
+        "eighty"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "one_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'two' mean?",
+      "word": "two",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "two_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "two",
+      "options": [
+        "nineteen",
+        "thirty",
+        "two",
+        "year"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "two_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "two",
+      "options": [
+        "second",
+        "sixty",
+        "nineteen",
+        "two"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "two_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'three' mean?",
+      "word": "three",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "three_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "three",
+      "options": [
+        "second",
+        "last",
+        "forty",
+        "three"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "three_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "three",
+      "options": [
+        "three",
+        "third",
+        "five",
+        "eighty"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "three_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'four' mean?",
+      "word": "four",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "four_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "four",
+      "options": [
+        "four",
+        "sixty",
+        "millennium",
+        "month"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "four_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "four",
+      "options": [
+        "four",
+        "six",
+        "seventy",
+        "million"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "four_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'five' mean?",
+      "word": "five",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "five_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "five",
+      "options": [
+        "fourteen",
+        "five",
+        "thirty",
+        "previous"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "five_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "five",
+      "options": [
+        "five",
+        "million",
+        "six",
+        "fifteen"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "five_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'six' mean?",
+      "word": "six",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "six_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "six",
+      "options": [
+        "second",
+        "fifth",
+        "third",
+        "six"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "six_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "six",
+      "options": [
+        "first",
+        "month",
+        "six",
+        "million"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "six_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'seven' mean?",
+      "word": "seven",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "seven_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "seven",
+      "options": [
+        "seven",
+        "second",
+        "fourth",
+        "week"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "seven_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "seven",
+      "options": [
+        "millennium",
+        "seven",
+        "seventy",
+        "third"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "seven_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'eight' mean?",
+      "word": "eight",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eight_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "eight",
+      "options": [
+        "fifty",
+        "eight",
+        "quarter",
+        "hour"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "eight_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "eight",
+      "options": [
+        "eight",
+        "nineteen",
+        "three",
+        "day"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eight_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'nine' mean?",
+      "word": "nine",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nine_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "nine",
+      "options": [
+        "eleven",
+        "third",
+        "nine",
+        "seventeen"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "nine_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "nine",
+      "options": [
+        "fifteen",
+        "million",
+        "nine",
+        "twenty"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "nine_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ten' mean?",
+      "word": "ten",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ten_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ten",
+      "options": [
+        "five",
+        "ten",
+        "eighty",
+        "ninety"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ten_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "ten",
+      "options": [
+        "half",
+        "fifth",
+        "ten",
+        "next"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "ten_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'eleven' mean?",
+      "word": "eleven",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eleven_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "eleven",
+      "options": [
+        "half",
+        "eleven",
+        "century",
+        "millennium"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "eleven_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "eleven",
+      "options": [
+        "second",
+        "million",
+        "quarter",
+        "eleven"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "eleven_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'twelve' mean?",
+      "word": "twelve",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "twelve_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "twelve",
+      "options": [
+        "thirty",
+        "million",
+        "twelve",
+        "sixty"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "twelve_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "twelve",
+      "options": [
+        "thirteen",
+        "twelve",
+        "six",
+        "fifth"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "twelve_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'thirteen' mean?",
+      "word": "thirteen",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thirteen_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "thirteen",
+      "options": [
+        "fifteen",
+        "eighteen",
+        "thirteen",
+        "second"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "thirteen_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "thirteen",
+      "options": [
+        "thirteen",
+        "six",
+        "nineteen",
+        "fifty"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thirteen_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fourteen' mean?",
+      "word": "fourteen",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fourteen_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fourteen",
+      "options": [
+        "fourteen",
+        "week",
+        "three",
+        "ten"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fourteen_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "fourteen",
+      "options": [
+        "hundred",
+        "fourteen",
+        "second",
+        "previous"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "fourteen_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fifteen' mean?",
+      "word": "fifteen",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fifteen_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fifteen",
+      "options": [
+        "fifteen",
+        "thirty",
+        "quarter",
+        "century"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fifteen_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "fifteen",
+      "options": [
+        "thousand",
+        "last",
+        "fifteen",
+        "half"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "fifteen_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sixteen' mean?",
+      "word": "sixteen",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sixteen_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sixteen",
+      "options": [
+        "two",
+        "sixteen",
+        "eleven",
+        "fifteen"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "sixteen_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "sixteen",
+      "options": [
+        "sixteen",
+        "hundred",
+        "day",
+        "decade"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sixteen_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'seventeen' mean?",
+      "word": "seventeen",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "seventeen_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "seventeen",
+      "options": [
+        "seventeen",
+        "previous",
+        "million",
+        "first"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "seventeen_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "seventeen",
+      "options": [
+        "ninety",
+        "fifth",
+        "seventeen",
+        "sixty"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "seventeen_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'eighteen' mean?",
+      "word": "eighteen",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eighteen_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "eighteen",
+      "options": [
+        "twelve",
+        "twenty",
+        "eighteen",
+        "quarter"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "eighteen_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "eighteen",
+      "options": [
+        "thirty",
+        "second",
+        "millennium",
+        "eighteen"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "eighteen_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'nineteen' mean?",
+      "word": "nineteen",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nineteen_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "nineteen",
+      "options": [
+        "third",
+        "hour",
+        "nineteen",
+        "fifty"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "nineteen_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "nineteen",
+      "options": [
+        "half",
+        "million",
+        "nineteen",
+        "seven"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "nineteen_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'twenty' mean?",
+      "word": "twenty",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "twenty_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "twenty",
+      "options": [
+        "one",
+        "forty",
+        "twenty",
+        "ten"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "twenty_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "twenty",
+      "options": [
+        "twenty",
+        "six",
+        "eighty",
+        "forty"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "twenty_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'thirty' mean?",
+      "word": "thirty",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thirty_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "thirty",
+      "options": [
+        "thirty",
+        "minute",
+        "ten",
+        "fourth"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thirty_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "thirty",
+      "options": [
+        "thirty",
+        "previous",
+        "two",
+        "twelve"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thirty_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'forty' mean?",
+      "word": "forty",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "forty_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "forty",
+      "options": [
+        "forty",
+        "twelve",
+        "fifth",
+        "eight"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "forty_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "forty",
+      "options": [
+        "forty",
+        "hour",
+        "fourth",
+        "two"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "forty_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fifty' mean?",
+      "word": "fifty",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fifty_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fifty",
+      "options": [
+        "hour",
+        "previous",
+        "century",
+        "fifty"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fifty_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "fifty",
+      "options": [
+        "fifty",
+        "half",
+        "minute",
+        "second"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fifty_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sixty' mean?",
+      "word": "sixty",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sixty_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sixty",
+      "options": [
+        "second",
+        "eight",
+        "second",
+        "sixty"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sixty_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "sixty",
+      "options": [
+        "sixty",
+        "fourth",
+        "millennium",
+        "next"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sixty_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'seventy' mean?",
+      "word": "seventy",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "seventy_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "seventy",
+      "options": [
+        "eight",
+        "seventy",
+        "decade",
+        "nineteen"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "seventy_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "seventy",
+      "options": [
+        "twenty",
+        "eight",
+        "seventy",
+        "fifty"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "seventy_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'eighty' mean?",
+      "word": "eighty",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eighty_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "eighty",
+      "options": [
+        "eighty",
+        "second",
+        "seventeen",
+        "hundred"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "eighty_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "eighty",
+      "options": [
+        "million",
+        "eighty",
+        "half",
+        "ten"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "eighty_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ninety' mean?",
+      "word": "ninety",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ninety_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ninety",
+      "options": [
+        "decade",
+        "ninety",
+        "last",
+        "sixty"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ninety_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "ninety",
+      "options": [
+        "ninety",
+        "day",
+        "quarter",
+        "one"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ninety_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hundred' mean?",
+      "word": "hundred",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hundred_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hundred",
+      "options": [
+        "year",
+        "eighteen",
+        "hundred",
+        "fifth"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hundred_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "hundred",
+      "options": [
+        "week",
+        "decade",
+        "ten",
+        "hundred"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "hundred_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'thousand' mean?",
+      "word": "thousand",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thousand_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "thousand",
+      "options": [
+        "thousand",
+        "million",
+        "week",
+        "year"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "thousand_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "thousand",
+      "options": [
+        "day",
+        "nineteen",
+        "thousand",
+        "six"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "thousand_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'million' mean?",
+      "word": "million",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "million_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "million",
+      "options": [
+        "fifty",
+        "million",
+        "day",
+        "four"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "million_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "million",
+      "options": [
+        "twelve",
+        "million",
+        "day",
+        "ten"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "million_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'first' mean?",
+      "word": "first",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "first_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "first",
+      "options": [
+        "fifty",
+        "eight",
+        "next",
+        "first"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "first_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "first",
+      "options": [
+        "sixty",
+        "second",
+        "sixteen",
+        "first"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "first_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'second' mean?",
+      "word": "second",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "second_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "second",
+      "options": [
+        "decade",
+        "sixty",
+        "millennium",
+        "second"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "second_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "second",
+      "options": [
+        "week",
+        "fifth",
+        "half",
+        "second"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "second_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'third' mean?",
+      "word": "third",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "third_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "third",
+      "options": [
+        "third",
+        "ninety",
+        "fifth",
+        "seventeen"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "third_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "third",
+      "options": [
+        "day",
+        "thirty",
+        "nine",
+        "third"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "third_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fourth' mean?",
+      "word": "fourth",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fourth_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fourth",
+      "options": [
+        "fourth",
+        "four",
+        "day",
+        "last"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fourth_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "fourth",
+      "options": [
+        "fourth",
+        "fifty",
+        "next",
+        "hour"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fourth_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fifth' mean?",
+      "word": "fifth",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fifth_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fifth",
+      "options": [
+        "fifth",
+        "third",
+        "last",
+        "fifteen"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fifth_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "fifth",
+      "options": [
+        "twelve",
+        "fifth",
+        "week",
+        "thirteen"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "fifth_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'last' mean?",
+      "word": "last",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "last_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "last",
+      "options": [
+        "last",
+        "millennium",
+        "thirteen",
+        "fourth"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "last_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "last",
+      "options": [
+        "previous",
+        "last",
+        "seventeen",
+        "seventy"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "last_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'next' mean?",
+      "word": "next",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "next_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "next",
+      "options": [
+        "next",
+        "last",
+        "first",
+        "fifteen"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "next_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "next",
+      "options": [
+        "next",
+        "eighteen",
+        "week",
+        "year"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "next_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'previous' mean?",
+      "word": "previous",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "previous_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "previous",
+      "options": [
+        "previous",
+        "six",
+        "eleven",
+        "nine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "previous_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "previous",
+      "options": [
+        "next",
+        "eighty",
+        "previous",
+        "third"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "previous_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'half' mean?",
+      "word": "half",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "half_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "half",
+      "options": [
+        "thirty",
+        "half",
+        "day",
+        "second"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "half_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "half",
+      "options": [
+        "half",
+        "fourth",
+        "week",
+        "third"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "half_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'quarter' mean?",
+      "word": "quarter",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "quarter_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "quarter",
+      "options": [
+        "hundred",
+        "quarter",
+        "fifty",
+        "eighteen"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "quarter_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "quarter",
+      "options": [
+        "quarter",
+        "last",
+        "next",
+        "hundred"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "quarter_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'second' mean?",
+      "word": "second",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "second_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "second",
+      "options": [
+        "previous",
+        "second",
+        "hundred",
+        "one"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "second_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "second",
+      "options": [
+        "month",
+        "million",
+        "eight",
+        "second"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "second_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'minute' mean?",
+      "word": "minute",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "minute_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "minute",
+      "options": [
+        "third",
+        "minute",
+        "half",
+        "two"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "minute_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "minute",
+      "options": [
+        "eighteen",
+        "minute",
+        "fifteen",
+        "week"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "minute_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hour' mean?",
+      "word": "hour",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hour_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hour",
+      "options": [
+        "twelve",
+        "hour",
+        "forty",
+        "second"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hour_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "hour",
+      "options": [
+        "seventeen",
+        "hour",
+        "second",
+        "seven"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hour_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'day' mean?",
+      "word": "day",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "day_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "day",
+      "options": [
+        "fifty",
+        "four",
+        "seventy",
+        "day"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "day_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "day",
+      "options": [
+        "day",
+        "twenty",
+        "second",
+        "three"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "day_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'week' mean?",
+      "word": "week",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "week_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "week",
+      "options": [
+        "seventeen",
+        "week",
+        "thirty",
+        "hour"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "week_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "week",
+      "options": [
+        "week",
+        "ten",
+        "sixty",
+        "twelve"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "week_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'month' mean?",
+      "word": "month",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "month_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "month",
+      "options": [
+        "first",
+        "half",
+        "thousand",
+        "month"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "month_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "month",
+      "options": [
+        "week",
+        "month",
+        "fifteen",
+        "year"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "month_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'year' mean?",
+      "word": "year",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "year_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "year",
+      "options": [
+        "next",
+        "week",
+        "nineteen",
+        "year"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "year_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "year",
+      "options": [
+        "seven",
+        "fifteen",
+        "sixty",
+        "year"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "year_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'decade' mean?",
+      "word": "decade",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "decade_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "decade",
+      "options": [
+        "quarter",
+        "decade",
+        "five",
+        "minute"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "decade_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "decade",
+      "options": [
+        "decade",
+        "day",
+        "seventeen",
+        "six"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "decade_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'century' mean?",
+      "word": "century",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "century_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "century",
+      "options": [
+        "ten",
+        "fifteen",
+        "century",
+        "thirteen"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "century_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "century",
+      "options": [
+        "century",
+        "minute",
+        "ten",
+        "eight"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "century_3",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'millennium' mean?",
+      "word": "millennium",
+      "options": [
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time",
+        "Something related to numbers & time"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "millennium_1",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "millennium",
+      "options": [
+        "fifty",
+        "half",
+        "ten",
+        "millennium"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "millennium_2",
+      "category": "Numbers & Time"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to numbers & time\"",
+      "word": "millennium",
+      "options": [
+        "minute",
+        "day",
+        "millennium",
+        "forty"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "millennium_3",
+      "category": "Numbers & Time"
+    }
+  ]
+}

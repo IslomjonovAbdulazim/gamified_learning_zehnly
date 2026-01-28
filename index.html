@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Islands - Learn English Vocabulary</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header class="header">
+            <h1>Word Islands</h1>
+            <div class="stats">
+                <span class="stat">🔥 <span id="streak">0</span> day streak</span>
+                <span class="stat">⭐ <span id="totalWords">0</span> words learned</span>
+                <span class="stat options-setting">
+                    Options:
+                    <select id="optionCount" onchange="setOptionCount(this.value)">
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                    </select>
+                </span>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main id="mainContent">
+            <!-- Categories View -->
+            <section id="categoriesView" class="view active">
+                <h2>Choose an Island to Explore</h2>
+                <p class="subtitle">Practice regularly to keep your islands healthy!</p>
+                <div id="categoriesGrid" class="categories-grid"></div>
+                <button id="floatingPracticeBtn" class="floating-practice-btn" onclick="startGlobalPractice()" style="display: none;">
+                    🎯 Practice Now (<span id="totalNeedReview">0</span>)
+                </button>
+            </section>
+
+            <!-- Category Detail View -->
+            <section id="categoryView" class="view">
+                <button class="back-btn" onclick="showCategories()">← Back to Islands</button>
+                <div class="category-header">
+                    <img id="categoryIcon" src="" alt="">
+                    <div>
+                        <h2 id="categoryTitle"></h2>
+                        <p id="categoryProgress"></p>
+                    </div>
+                </div>
+                <div class="category-actions">
+                    <button id="practiceBtn" class="btn btn-primary" onclick="startPractice()" style="display: none;">🎯 Practice</button>
+                    <button id="learnBtn" class="btn btn-secondary" onclick="startLearnNew()">📚 Learn New Words</button>
+                </div>
+                <div class="words-section">
+                    <h3>Your Words</h3>
+                    <div id="wordsList" class="words-list"></div>
+                </div>
+            </section>
+
+            <!-- Practice View -->
+            <section id="practiceView" class="view">
+                <div class="practice-header">
+                    <button class="back-btn" onclick="exitPractice()">✕ Exit</button>
+                    <div class="progress-bar">
+                        <div id="practiceProgress" class="progress-fill"></div>
+                    </div>
+                    <span id="practiceCount">0/0</span>
+                </div>
+                <div id="questionCard" class="question-card">
+                    <p id="questionText" class="question-text"></p>
+                    <div id="optionsContainer" class="options-container"></div>
+                </div>
+                <div id="feedbackCard" class="feedback-card hidden">
+                    <div id="feedbackIcon" class="feedback-icon"></div>
+                    <p id="feedbackText"></p>
+                    <button class="btn btn-primary" onclick="nextQuestion()">Continue</button>
+                </div>
+            </section>
+
+            <!-- Results View -->
+            <section id="resultsView" class="view">
+                <div class="results-card">
+                    <h2>Practice Complete!</h2>
+                    <div class="results-stats">
+                        <div class="result-stat">
+                            <span class="result-number" id="correctCount">0</span>
+                            <span class="result-label">Correct</span>
+                        </div>
+                        <div class="result-stat">
+                            <span class="result-number" id="wrongCount">0</span>
+                            <span class="result-label">To Review</span>
+                        </div>
+                    </div>
+                    <div class="results-actions">
+                        <button class="btn btn-primary" onclick="showCategory(currentCategory)">Back to Island</button>
+                        <button class="btn btn-secondary" onclick="showCategories()">All Islands</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

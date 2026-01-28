@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Family & People",
+  "icon": "👨‍👩‍👧‍👦",
+  "words": [
+    "mother", "father", "parent", "son", "daughter", "child", "baby", "brother", "sister", "sibling",
+    "grandmother", "grandfather", "grandparent", "grandchild", "grandson", "granddaughter", "aunt", "uncle", "cousin", "nephew",
+    "niece", "husband", "wife", "spouse", "boyfriend", "girlfriend", "friend", "neighbor", "colleague", "boss",
+    "teacher", "student", "doctor", "nurse", "lawyer", "engineer", "artist", "musician", "actor", "chef",
+    "police officer", "firefighter", "soldier", "pilot", "driver", "farmer", "scientist", "writer", "journalist", "athlete"
+  ]
+}

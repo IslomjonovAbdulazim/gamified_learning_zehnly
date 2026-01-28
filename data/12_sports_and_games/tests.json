@@ -1,0 +1,2257 @@
+{
+  "category": "Sports & Games",
+  "category_id": 12,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'soccer' mean?",
+      "word": "soccer",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "soccer_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "soccer",
+      "options": [
+        "volleyball",
+        "hiking",
+        "cycling",
+        "soccer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "soccer_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "soccer",
+      "options": [
+        "hiking",
+        "gymnastics",
+        "soccer",
+        "cheerleading"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "soccer_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'football' mean?",
+      "word": "football",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "football_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "football",
+      "options": [
+        "football",
+        "shooting",
+        "gymnastics",
+        "ballet"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "football_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "football",
+      "options": [
+        "camping",
+        "video game",
+        "football",
+        "cycling"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "football_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'basketball' mean?",
+      "word": "basketball",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "basketball_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "basketball",
+      "options": [
+        "fencing",
+        "camping",
+        "basketball",
+        "taekwondo"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "basketball_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "basketball",
+      "options": [
+        "basketball",
+        "weightlifting",
+        "tennis",
+        "martial arts"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "basketball_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'baseball' mean?",
+      "word": "baseball",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "baseball_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "baseball",
+      "options": [
+        "rugby",
+        "baseball",
+        "martial arts",
+        "cards"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "baseball_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "baseball",
+      "options": [
+        "aerobics",
+        "baseball",
+        "boxing",
+        "fencing"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "baseball_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tennis' mean?",
+      "word": "tennis",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tennis_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tennis",
+      "options": [
+        "surfing",
+        "taekwondo",
+        "volleyball",
+        "tennis"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tennis_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "tennis",
+      "options": [
+        "tennis",
+        "cards",
+        "soccer",
+        "running"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tennis_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'golf' mean?",
+      "word": "golf",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "golf_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "golf",
+      "options": [
+        "shooting",
+        "golf",
+        "tennis",
+        "fencing"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "golf_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "golf",
+      "options": [
+        "swimming",
+        "running",
+        "aerobics",
+        "golf"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "golf_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hockey' mean?",
+      "word": "hockey",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hockey_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hockey",
+      "options": [
+        "dancing",
+        "lottery",
+        "hockey",
+        "basketball"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hockey_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "hockey",
+      "options": [
+        "hockey",
+        "cricket",
+        "diving",
+        "skating"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hockey_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'volleyball' mean?",
+      "word": "volleyball",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "volleyball_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "volleyball",
+      "options": [
+        "weightlifting",
+        "volleyball",
+        "fencing",
+        "rock climbing"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "volleyball_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "volleyball",
+      "options": [
+        "snowboarding",
+        "golf",
+        "football",
+        "volleyball"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "volleyball_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rugby' mean?",
+      "word": "rugby",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rugby_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rugby",
+      "options": [
+        "ballet",
+        "golf",
+        "football",
+        "rugby"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "rugby_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "rugby",
+      "options": [
+        "diving",
+        "rugby",
+        "camping",
+        "hiking"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "rugby_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cricket' mean?",
+      "word": "cricket",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cricket_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cricket",
+      "options": [
+        "skating",
+        "rock climbing",
+        "boxing",
+        "cricket"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cricket_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "cricket",
+      "options": [
+        "puzzle",
+        "cricket",
+        "rugby",
+        "shooting"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cricket_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'swimming' mean?",
+      "word": "swimming",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "swimming_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "swimming",
+      "options": [
+        "swimming",
+        "baseball",
+        "diving",
+        "ballet"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "swimming_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "swimming",
+      "options": [
+        "swimming",
+        "dancing",
+        "hiking",
+        "tennis"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "swimming_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'diving' mean?",
+      "word": "diving",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "diving_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "diving",
+      "options": [
+        "diving",
+        "lottery",
+        "hockey",
+        "golf"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "diving_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "diving",
+      "options": [
+        "chess",
+        "diving",
+        "dominoes",
+        "lottery"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "diving_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'surfing' mean?",
+      "word": "surfing",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "surfing_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "surfing",
+      "options": [
+        "surfing",
+        "video game",
+        "basketball",
+        "weightlifting"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "surfing_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "surfing",
+      "options": [
+        "surfing",
+        "pilates",
+        "cricket",
+        "skating"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "surfing_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'skiing' mean?",
+      "word": "skiing",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "skiing_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "skiing",
+      "options": [
+        "boxing",
+        "skiing",
+        "hiking",
+        "marathon"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "skiing_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "skiing",
+      "options": [
+        "skiing",
+        "cards",
+        "golf",
+        "karate"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "skiing_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'snowboarding' mean?",
+      "word": "snowboarding",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "snowboarding_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "snowboarding",
+      "options": [
+        "snowboarding",
+        "judo",
+        "ballet",
+        "rock climbing"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "snowboarding_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "snowboarding",
+      "options": [
+        "karate",
+        "boxing",
+        "puzzle",
+        "snowboarding"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "snowboarding_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'skating' mean?",
+      "word": "skating",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "skating_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "skating",
+      "options": [
+        "rugby",
+        "skating",
+        "checkers",
+        "pilates"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "skating_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "skating",
+      "options": [
+        "chess",
+        "camping",
+        "skating",
+        "yoga"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "skating_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cycling' mean?",
+      "word": "cycling",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cycling_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cycling",
+      "options": [
+        "martial arts",
+        "puzzle",
+        "cycling",
+        "fencing"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cycling_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "cycling",
+      "options": [
+        "cycling",
+        "board game",
+        "bingo",
+        "swimming"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cycling_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'running' mean?",
+      "word": "running",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "running_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "running",
+      "options": [
+        "taekwondo",
+        "jogging",
+        "pilates",
+        "running"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "running_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "running",
+      "options": [
+        "running",
+        "gymnastics",
+        "karate",
+        "cheerleading"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "running_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'jogging' mean?",
+      "word": "jogging",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "jogging_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "jogging",
+      "options": [
+        "baseball",
+        "skiing",
+        "rock climbing",
+        "jogging"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "jogging_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "jogging",
+      "options": [
+        "pilates",
+        "skating",
+        "cheerleading",
+        "jogging"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "jogging_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'marathon' mean?",
+      "word": "marathon",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "marathon_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "marathon",
+      "options": [
+        "rugby",
+        "tennis",
+        "swimming",
+        "marathon"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "marathon_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "marathon",
+      "options": [
+        "swimming",
+        "marathon",
+        "board game",
+        "taekwondo"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "marathon_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'boxing' mean?",
+      "word": "boxing",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "boxing_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "boxing",
+      "options": [
+        "diving",
+        "martial arts",
+        "boxing",
+        "board game"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "boxing_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "boxing",
+      "options": [
+        "poker",
+        "soccer",
+        "karate",
+        "boxing"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "boxing_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wrestling' mean?",
+      "word": "wrestling",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wrestling_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wrestling",
+      "options": [
+        "skiing",
+        "taekwondo",
+        "karate",
+        "wrestling"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "wrestling_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "wrestling",
+      "options": [
+        "checkers",
+        "skating",
+        "diving",
+        "wrestling"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "wrestling_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'martial arts' mean?",
+      "word": "martial arts",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "martial_arts_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "martial arts",
+      "options": [
+        "archery",
+        "martial arts",
+        "ballet",
+        "skiing"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "martial_arts_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "martial arts",
+      "options": [
+        "snowboarding",
+        "chess",
+        "skiing",
+        "martial arts"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "martial_arts_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'karate' mean?",
+      "word": "karate",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "karate_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "karate",
+      "options": [
+        "pilates",
+        "marathon",
+        "wrestling",
+        "karate"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "karate_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "karate",
+      "options": [
+        "karate",
+        "hockey",
+        "tennis",
+        "bingo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "karate_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'judo' mean?",
+      "word": "judo",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "judo_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "judo",
+      "options": [
+        "cards",
+        "board game",
+        "weightlifting",
+        "judo"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "judo_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "judo",
+      "options": [
+        "lottery",
+        "judo",
+        "basketball",
+        "surfing"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "judo_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'taekwondo' mean?",
+      "word": "taekwondo",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "taekwondo_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "taekwondo",
+      "options": [
+        "taekwondo",
+        "surfing",
+        "puzzle",
+        "cards"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "taekwondo_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "taekwondo",
+      "options": [
+        "taekwondo",
+        "jogging",
+        "martial arts",
+        "boxing"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "taekwondo_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fencing' mean?",
+      "word": "fencing",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fencing_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fencing",
+      "options": [
+        "board game",
+        "fencing",
+        "yoga",
+        "gymnastics"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "fencing_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "fencing",
+      "options": [
+        "fencing",
+        "surfing",
+        "swimming",
+        "camping"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fencing_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'archery' mean?",
+      "word": "archery",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "archery_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "archery",
+      "options": [
+        "jogging",
+        "poker",
+        "wrestling",
+        "archery"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "archery_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "archery",
+      "options": [
+        "archery",
+        "diving",
+        "golf",
+        "puzzle"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "archery_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'shooting' mean?",
+      "word": "shooting",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shooting_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "shooting",
+      "options": [
+        "diving",
+        "shooting",
+        "bingo",
+        "jogging"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "shooting_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "shooting",
+      "options": [
+        "shooting",
+        "cheerleading",
+        "judo",
+        "fencing"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shooting_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'weightlifting' mean?",
+      "word": "weightlifting",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "weightlifting_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "weightlifting",
+      "options": [
+        "poker",
+        "weightlifting",
+        "golf",
+        "taekwondo"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "weightlifting_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "weightlifting",
+      "options": [
+        "archery",
+        "weightlifting",
+        "bingo",
+        "video game"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "weightlifting_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'gymnastics' mean?",
+      "word": "gymnastics",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "gymnastics_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "gymnastics",
+      "options": [
+        "running",
+        "checkers",
+        "gymnastics",
+        "chess"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "gymnastics_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "gymnastics",
+      "options": [
+        "gymnastics",
+        "lottery",
+        "archery",
+        "football"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "gymnastics_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'yoga' mean?",
+      "word": "yoga",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "yoga_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "yoga",
+      "options": [
+        "weightlifting",
+        "lottery",
+        "video game",
+        "yoga"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "yoga_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "yoga",
+      "options": [
+        "jogging",
+        "skiing",
+        "yoga",
+        "snowboarding"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "yoga_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pilates' mean?",
+      "word": "pilates",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pilates_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pilates",
+      "options": [
+        "chess",
+        "basketball",
+        "pilates",
+        "cycling"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pilates_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "pilates",
+      "options": [
+        "gymnastics",
+        "skiing",
+        "volleyball",
+        "pilates"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pilates_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'aerobics' mean?",
+      "word": "aerobics",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "aerobics_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "aerobics",
+      "options": [
+        "soccer",
+        "aerobics",
+        "rock climbing",
+        "puzzle"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "aerobics_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "aerobics",
+      "options": [
+        "jogging",
+        "aerobics",
+        "dancing",
+        "hockey"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "aerobics_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'dancing' mean?",
+      "word": "dancing",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "dancing_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "dancing",
+      "options": [
+        "marathon",
+        "jogging",
+        "dancing",
+        "cycling"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "dancing_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "dancing",
+      "options": [
+        "dancing",
+        "taekwondo",
+        "judo",
+        "weightlifting"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "dancing_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ballet' mean?",
+      "word": "ballet",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ballet_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ballet",
+      "options": [
+        "baseball",
+        "weightlifting",
+        "ballet",
+        "football"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "ballet_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "ballet",
+      "options": [
+        "rock climbing",
+        "weightlifting",
+        "ballet",
+        "hiking"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "ballet_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cheerleading' mean?",
+      "word": "cheerleading",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cheerleading_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cheerleading",
+      "options": [
+        "tennis",
+        "puzzle",
+        "yoga",
+        "cheerleading"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cheerleading_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "cheerleading",
+      "options": [
+        "tennis",
+        "cheerleading",
+        "hockey",
+        "gymnastics"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cheerleading_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rock climbing' mean?",
+      "word": "rock climbing",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rock_climbing_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rock climbing",
+      "options": [
+        "boxing",
+        "cheerleading",
+        "bingo",
+        "rock climbing"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "rock_climbing_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "rock climbing",
+      "options": [
+        "gymnastics",
+        "cycling",
+        "rock climbing",
+        "cricket"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rock_climbing_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hiking' mean?",
+      "word": "hiking",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hiking_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hiking",
+      "options": [
+        "fencing",
+        "yoga",
+        "volleyball",
+        "hiking"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "hiking_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "hiking",
+      "options": [
+        "hiking",
+        "baseball",
+        "yoga",
+        "cards"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hiking_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'camping' mean?",
+      "word": "camping",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "camping_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "camping",
+      "options": [
+        "cheerleading",
+        "boxing",
+        "camping",
+        "cycling"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "camping_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "camping",
+      "options": [
+        "camping",
+        "weightlifting",
+        "pilates",
+        "bingo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "camping_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chess' mean?",
+      "word": "chess",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chess_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "chess",
+      "options": [
+        "lottery",
+        "chess",
+        "cycling",
+        "taekwondo"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chess_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "chess",
+      "options": [
+        "chess",
+        "archery",
+        "surfing",
+        "fencing"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chess_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'checkers' mean?",
+      "word": "checkers",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "checkers_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "checkers",
+      "options": [
+        "aerobics",
+        "skating",
+        "cricket",
+        "checkers"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "checkers_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "checkers",
+      "options": [
+        "checkers",
+        "dominoes",
+        "video game",
+        "martial arts"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "checkers_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cards' mean?",
+      "word": "cards",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cards_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cards",
+      "options": [
+        "cards",
+        "archery",
+        "ballet",
+        "rugby"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cards_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "cards",
+      "options": [
+        "camping",
+        "rock climbing",
+        "running",
+        "cards"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cards_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'poker' mean?",
+      "word": "poker",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "poker_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "poker",
+      "options": [
+        "poker",
+        "hockey",
+        "board game",
+        "pilates"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "poker_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "poker",
+      "options": [
+        "running",
+        "tennis",
+        "poker",
+        "video game"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "poker_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'dominoes' mean?",
+      "word": "dominoes",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "dominoes_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "dominoes",
+      "options": [
+        "cards",
+        "camping",
+        "dominoes",
+        "archery"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "dominoes_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "dominoes",
+      "options": [
+        "dominoes",
+        "ballet",
+        "camping",
+        "cheerleading"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "dominoes_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'puzzle' mean?",
+      "word": "puzzle",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "puzzle_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "puzzle",
+      "options": [
+        "gymnastics",
+        "puzzle",
+        "fencing",
+        "dominoes"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "puzzle_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "puzzle",
+      "options": [
+        "skating",
+        "gymnastics",
+        "puzzle",
+        "basketball"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "puzzle_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'video game' mean?",
+      "word": "video game",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "video_game_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "video game",
+      "options": [
+        "fencing",
+        "hockey",
+        "martial arts",
+        "video game"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "video_game_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "video game",
+      "options": [
+        "weightlifting",
+        "aerobics",
+        "video game",
+        "yoga"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "video_game_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'board game' mean?",
+      "word": "board game",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "board_game_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "board game",
+      "options": [
+        "dominoes",
+        "jogging",
+        "hockey",
+        "board game"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "board_game_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "board game",
+      "options": [
+        "tennis",
+        "camping",
+        "board game",
+        "ballet"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "board_game_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lottery' mean?",
+      "word": "lottery",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lottery_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lottery",
+      "options": [
+        "marathon",
+        "basketball",
+        "dancing",
+        "lottery"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "lottery_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "lottery",
+      "options": [
+        "lottery",
+        "weightlifting",
+        "cricket",
+        "video game"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lottery_3",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bingo' mean?",
+      "word": "bingo",
+      "options": [
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games",
+        "Something related to sports & games"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bingo_1",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bingo",
+      "options": [
+        "diving",
+        "bingo",
+        "pilates",
+        "soccer"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bingo_2",
+      "category": "Sports & Games"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to sports & games\"",
+      "word": "bingo",
+      "options": [
+        "bingo",
+        "poker",
+        "diving",
+        "cheerleading"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bingo_3",
+      "category": "Sports & Games"
+    }
+  ]
+}

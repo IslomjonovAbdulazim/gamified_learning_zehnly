@@ -1,0 +1,2257 @@
+{
+  "category": "Places & Locations",
+  "category_id": 18,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'city' mean?",
+      "word": "city",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "city_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "city",
+      "options": [
+        "fire station",
+        "city",
+        "supermarket",
+        "tunnel"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "city_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "city",
+      "options": [
+        "highway",
+        "butcher",
+        "city",
+        "museum"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "city_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'town' mean?",
+      "word": "town",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "town_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "town",
+      "options": [
+        "playground",
+        "mall",
+        "town",
+        "highway"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "town_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "town",
+      "options": [
+        "highway",
+        "shop",
+        "town",
+        "intersection"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "town_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'village' mean?",
+      "word": "village",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "village_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "village",
+      "options": [
+        "village",
+        "playground",
+        "stadium",
+        "aquarium"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "village_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "village",
+      "options": [
+        "street",
+        "market",
+        "village",
+        "restaurant"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "village_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'neighborhood' mean?",
+      "word": "neighborhood",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "neighborhood_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "neighborhood",
+      "options": [
+        "neighborhood",
+        "bridge",
+        "motel",
+        "city"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "neighborhood_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "neighborhood",
+      "options": [
+        "cinema",
+        "restaurant",
+        "neighborhood",
+        "synagogue"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "neighborhood_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'street' mean?",
+      "word": "street",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "street_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "street",
+      "options": [
+        "town",
+        "intersection",
+        "park",
+        "street"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "street_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "street",
+      "options": [
+        "hotel",
+        "mall",
+        "street",
+        "fire station"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "street_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'road' mean?",
+      "word": "road",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "road_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "road",
+      "options": [
+        "mall",
+        "street",
+        "prison",
+        "road"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "road_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "road",
+      "options": [
+        "city",
+        "village",
+        "airport",
+        "road"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "road_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'highway' mean?",
+      "word": "highway",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "highway_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "highway",
+      "options": [
+        "highway",
+        "cemetery",
+        "bridge",
+        "street"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "highway_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "highway",
+      "options": [
+        "theater",
+        "synagogue",
+        "road",
+        "highway"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "highway_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bridge' mean?",
+      "word": "bridge",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bridge_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bridge",
+      "options": [
+        "hospital",
+        "bridge",
+        "bank",
+        "theater"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bridge_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "bridge",
+      "options": [
+        "market",
+        "highway",
+        "stadium",
+        "bridge"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bridge_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tunnel' mean?",
+      "word": "tunnel",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tunnel_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tunnel",
+      "options": [
+        "synagogue",
+        "street",
+        "restaurant",
+        "tunnel"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tunnel_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "tunnel",
+      "options": [
+        "tunnel",
+        "airport",
+        "cemetery",
+        "hospital"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tunnel_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'intersection' mean?",
+      "word": "intersection",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "intersection_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "intersection",
+      "options": [
+        "market",
+        "intersection",
+        "highway",
+        "synagogue"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "intersection_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "intersection",
+      "options": [
+        "street",
+        "tunnel",
+        "intersection",
+        "neighborhood"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "intersection_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'park' mean?",
+      "word": "park",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "park_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "park",
+      "options": [
+        "park",
+        "neighborhood",
+        "hotel",
+        "prison"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "park_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "park",
+      "options": [
+        "post office",
+        "park",
+        "zoo",
+        "intersection"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "park_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'garden' mean?",
+      "word": "garden",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "garden_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "garden",
+      "options": [
+        "garden",
+        "motel",
+        "bank",
+        "shop"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "garden_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "garden",
+      "options": [
+        "stadium",
+        "bar",
+        "airport",
+        "garden"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "garden_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'playground' mean?",
+      "word": "playground",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "playground_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "playground",
+      "options": [
+        "playground",
+        "post office",
+        "town",
+        "synagogue"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "playground_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "playground",
+      "options": [
+        "bakery",
+        "city hall",
+        "intersection",
+        "playground"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "playground_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'zoo' mean?",
+      "word": "zoo",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "zoo_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "zoo",
+      "options": [
+        "zoo",
+        "theater",
+        "aquarium",
+        "bar"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "zoo_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "zoo",
+      "options": [
+        "zoo",
+        "cafe",
+        "supermarket",
+        "bank"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "zoo_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'aquarium' mean?",
+      "word": "aquarium",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "aquarium_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "aquarium",
+      "options": [
+        "church",
+        "aquarium",
+        "tunnel",
+        "highway"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "aquarium_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "aquarium",
+      "options": [
+        "police station",
+        "hospital",
+        "aquarium",
+        "playground"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "aquarium_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'museum' mean?",
+      "word": "museum",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "museum_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "museum",
+      "options": [
+        "museum",
+        "market",
+        "bakery",
+        "intersection"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "museum_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "museum",
+      "options": [
+        "bank",
+        "cinema",
+        "museum",
+        "restaurant"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "museum_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'library' mean?",
+      "word": "library",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "library_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "library",
+      "options": [
+        "store",
+        "hospital",
+        "cemetery",
+        "library"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "library_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "library",
+      "options": [
+        "club",
+        "village",
+        "resort",
+        "library"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "library_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'theater' mean?",
+      "word": "theater",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "theater_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "theater",
+      "options": [
+        "garden",
+        "mall",
+        "theater",
+        "restaurant"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "theater_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "theater",
+      "options": [
+        "town",
+        "theater",
+        "intersection",
+        "mall"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "theater_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cinema' mean?",
+      "word": "cinema",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cinema_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cinema",
+      "options": [
+        "synagogue",
+        "shop",
+        "cemetery",
+        "cinema"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cinema_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "cinema",
+      "options": [
+        "court",
+        "cinema",
+        "intersection",
+        "mosque"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cinema_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'stadium' mean?",
+      "word": "stadium",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stadium_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "stadium",
+      "options": [
+        "stadium",
+        "post office",
+        "town",
+        "zoo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stadium_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "stadium",
+      "options": [
+        "zoo",
+        "cemetery",
+        "library",
+        "stadium"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "stadium_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'restaurant' mean?",
+      "word": "restaurant",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "restaurant_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "restaurant",
+      "options": [
+        "mosque",
+        "restaurant",
+        "highway",
+        "supermarket"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "restaurant_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "restaurant",
+      "options": [
+        "synagogue",
+        "court",
+        "restaurant",
+        "police station"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "restaurant_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cafe' mean?",
+      "word": "cafe",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cafe_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cafe",
+      "options": [
+        "road",
+        "cafe",
+        "bar",
+        "supermarket"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cafe_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "cafe",
+      "options": [
+        "cafe",
+        "town",
+        "fire station",
+        "road"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cafe_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bar' mean?",
+      "word": "bar",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bar_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bar",
+      "options": [
+        "bar",
+        "supermarket",
+        "cafe",
+        "store"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bar_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "bar",
+      "options": [
+        "synagogue",
+        "tunnel",
+        "bar",
+        "road"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bar_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'club' mean?",
+      "word": "club",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "club_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "club",
+      "options": [
+        "club",
+        "bakery",
+        "shop",
+        "town"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "club_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "club",
+      "options": [
+        "garden",
+        "club",
+        "city hall",
+        "supermarket"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "club_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hotel' mean?",
+      "word": "hotel",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hotel_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hotel",
+      "options": [
+        "city hall",
+        "village",
+        "road",
+        "hotel"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "hotel_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "hotel",
+      "options": [
+        "hotel",
+        "bakery",
+        "market",
+        "garden"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hotel_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'motel' mean?",
+      "word": "motel",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "motel_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "motel",
+      "options": [
+        "airport",
+        "road",
+        "prison",
+        "motel"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "motel_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "motel",
+      "options": [
+        "mosque",
+        "club",
+        "motel",
+        "restaurant"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "motel_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'resort' mean?",
+      "word": "resort",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "resort_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "resort",
+      "options": [
+        "library",
+        "neighborhood",
+        "resort",
+        "tunnel"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "resort_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "resort",
+      "options": [
+        "mall",
+        "resort",
+        "synagogue",
+        "road"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "resort_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mall' mean?",
+      "word": "mall",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mall_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mall",
+      "options": [
+        "intersection",
+        "church",
+        "cemetery",
+        "mall"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "mall_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "mall",
+      "options": [
+        "mall",
+        "club",
+        "cinema",
+        "city"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mall_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'shop' mean?",
+      "word": "shop",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shop_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "shop",
+      "options": [
+        "city",
+        "shop",
+        "cafe",
+        "neighborhood"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "shop_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "shop",
+      "options": [
+        "shop",
+        "road",
+        "cemetery",
+        "aquarium"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "shop_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'store' mean?",
+      "word": "store",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "store_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "store",
+      "options": [
+        "mall",
+        "highway",
+        "hospital",
+        "store"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "store_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "store",
+      "options": [
+        "church",
+        "market",
+        "bar",
+        "store"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "store_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'supermarket' mean?",
+      "word": "supermarket",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "supermarket_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "supermarket",
+      "options": [
+        "supermarket",
+        "bridge",
+        "park",
+        "hotel"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "supermarket_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "supermarket",
+      "options": [
+        "city hall",
+        "butcher",
+        "supermarket",
+        "city"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "supermarket_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'market' mean?",
+      "word": "market",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "market_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "market",
+      "options": [
+        "court",
+        "market",
+        "synagogue",
+        "club"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "market_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "market",
+      "options": [
+        "zoo",
+        "aquarium",
+        "mosque",
+        "market"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "market_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bakery' mean?",
+      "word": "bakery",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bakery_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bakery",
+      "options": [
+        "bakery",
+        "road",
+        "street",
+        "intersection"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bakery_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "bakery",
+      "options": [
+        "prison",
+        "bakery",
+        "park",
+        "pharmacy"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bakery_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'butcher' mean?",
+      "word": "butcher",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "butcher_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "butcher",
+      "options": [
+        "pharmacy",
+        "airport",
+        "prison",
+        "butcher"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "butcher_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "butcher",
+      "options": [
+        "cemetery",
+        "butcher",
+        "embassy",
+        "tunnel"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "butcher_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pharmacy' mean?",
+      "word": "pharmacy",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pharmacy_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pharmacy",
+      "options": [
+        "mosque",
+        "pharmacy",
+        "highway",
+        "police station"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pharmacy_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "pharmacy",
+      "options": [
+        "village",
+        "pharmacy",
+        "police station",
+        "airport"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pharmacy_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bank' mean?",
+      "word": "bank",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bank_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bank",
+      "options": [
+        "supermarket",
+        "prison",
+        "bakery",
+        "bank"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "bank_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "bank",
+      "options": [
+        "motel",
+        "bank",
+        "restaurant",
+        "hospital"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bank_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'post office' mean?",
+      "word": "post office",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "post_office_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "post office",
+      "options": [
+        "street",
+        "fire station",
+        "post office",
+        "club"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "post_office_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "post office",
+      "options": [
+        "theater",
+        "hospital",
+        "post office",
+        "town"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "post_office_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'police station' mean?",
+      "word": "police station",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "police_station_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "police station",
+      "options": [
+        "police station",
+        "bank",
+        "road",
+        "theater"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "police_station_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "police station",
+      "options": [
+        "cemetery",
+        "park",
+        "city hall",
+        "police station"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "police_station_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fire station' mean?",
+      "word": "fire station",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fire_station_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fire station",
+      "options": [
+        "fire station",
+        "court",
+        "village",
+        "garden"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fire_station_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "fire station",
+      "options": [
+        "city",
+        "intersection",
+        "post office",
+        "fire station"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fire_station_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hospital' mean?",
+      "word": "hospital",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hospital_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hospital",
+      "options": [
+        "street",
+        "restaurant",
+        "hospital",
+        "club"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hospital_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "hospital",
+      "options": [
+        "garden",
+        "highway",
+        "hospital",
+        "theater"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hospital_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'church' mean?",
+      "word": "church",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "church_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "church",
+      "options": [
+        "road",
+        "highway",
+        "playground",
+        "church"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "church_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "church",
+      "options": [
+        "playground",
+        "motel",
+        "church",
+        "library"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "church_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mosque' mean?",
+      "word": "mosque",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mosque_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mosque",
+      "options": [
+        "butcher",
+        "mosque",
+        "town",
+        "highway"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "mosque_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "mosque",
+      "options": [
+        "mosque",
+        "resort",
+        "fire station",
+        "bridge"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mosque_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'temple' mean?",
+      "word": "temple",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "temple_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "temple",
+      "options": [
+        "cemetery",
+        "restaurant",
+        "temple",
+        "police station"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "temple_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "temple",
+      "options": [
+        "temple",
+        "aquarium",
+        "embassy",
+        "post office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "temple_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'synagogue' mean?",
+      "word": "synagogue",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "synagogue_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "synagogue",
+      "options": [
+        "prison",
+        "library",
+        "playground",
+        "synagogue"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "synagogue_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "synagogue",
+      "options": [
+        "synagogue",
+        "hospital",
+        "fire station",
+        "resort"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "synagogue_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cemetery' mean?",
+      "word": "cemetery",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cemetery_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cemetery",
+      "options": [
+        "mosque",
+        "market",
+        "cemetery",
+        "street"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cemetery_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "cemetery",
+      "options": [
+        "synagogue",
+        "cinema",
+        "road",
+        "cemetery"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cemetery_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'prison' mean?",
+      "word": "prison",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "prison_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "prison",
+      "options": [
+        "highway",
+        "village",
+        "club",
+        "prison"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "prison_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "prison",
+      "options": [
+        "court",
+        "motel",
+        "prison",
+        "church"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "prison_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'court' mean?",
+      "word": "court",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "court_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "court",
+      "options": [
+        "hotel",
+        "bridge",
+        "neighborhood",
+        "court"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "court_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "court",
+      "options": [
+        "city hall",
+        "church",
+        "court",
+        "road"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "court_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'city hall' mean?",
+      "word": "city hall",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "city_hall_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "city hall",
+      "options": [
+        "city hall",
+        "cinema",
+        "market",
+        "motel"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "city_hall_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "city hall",
+      "options": [
+        "city hall",
+        "store",
+        "bakery",
+        "cafe"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "city_hall_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'embassy' mean?",
+      "word": "embassy",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "embassy_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "embassy",
+      "options": [
+        "embassy",
+        "hotel",
+        "museum",
+        "cinema"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "embassy_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "embassy",
+      "options": [
+        "city hall",
+        "church",
+        "embassy",
+        "theater"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "embassy_3",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'airport' mean?",
+      "word": "airport",
+      "options": [
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations",
+        "Something related to places & locations"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "airport_1",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "airport",
+      "options": [
+        "cafe",
+        "cinema",
+        "airport",
+        "stadium"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "airport_2",
+      "category": "Places & Locations"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to places & locations\"",
+      "word": "airport",
+      "options": [
+        "bridge",
+        "airport",
+        "mall",
+        "aquarium"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "airport_3",
+      "category": "Places & Locations"
+    }
+  ]
+}

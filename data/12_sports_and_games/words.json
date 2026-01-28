@@ -1,0 +1,12 @@
+{
+  "id": 12,
+  "name": "Sports & Games",
+  "icon": "⚽",
+  "words": [
+    "soccer", "football", "basketball", "baseball", "tennis", "golf", "hockey", "volleyball", "rugby", "cricket",
+    "swimming", "diving", "surfing", "skiing", "snowboarding", "skating", "cycling", "running", "jogging", "marathon",
+    "boxing", "wrestling", "martial arts", "karate", "judo", "taekwondo", "fencing", "archery", "shooting", "weightlifting",
+    "gymnastics", "yoga", "pilates", "aerobics", "dancing", "ballet", "cheerleading", "rock climbing", "hiking", "camping",
+    "chess", "checkers", "cards", "poker", "dominoes", "puzzle", "video game", "board game", "lottery", "bingo"
+  ]
+}

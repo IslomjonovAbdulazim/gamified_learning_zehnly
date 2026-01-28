@@ -1,0 +1,2257 @@
+{
+  "category": "Music & Entertainment",
+  "category_id": 20,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'music' mean?",
+      "word": "music",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "music_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "music",
+      "options": [
+        "chorus",
+        "performance",
+        "rhythm",
+        "music"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "music_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "music",
+      "options": [
+        "animation",
+        "band",
+        "action",
+        "music"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "music_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'song' mean?",
+      "word": "song",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "song_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "song",
+      "options": [
+        "tour",
+        "drama",
+        "animation",
+        "song"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "song_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "song",
+      "options": [
+        "song",
+        "album",
+        "orchestra",
+        "harmony"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "song_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'melody' mean?",
+      "word": "melody",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "melody_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "melody",
+      "options": [
+        "lyrics",
+        "show",
+        "orchestra",
+        "melody"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "melody_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "melody",
+      "options": [
+        "drums",
+        "melody",
+        "piano",
+        "action"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "melody_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'rhythm' mean?",
+      "word": "rhythm",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rhythm_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "rhythm",
+      "options": [
+        "single",
+        "series",
+        "rhythm",
+        "beat"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "rhythm_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "rhythm",
+      "options": [
+        "rhythm",
+        "singer",
+        "flute",
+        "show"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "rhythm_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'beat' mean?",
+      "word": "beat",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "beat_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "beat",
+      "options": [
+        "documentary",
+        "beat",
+        "keyboard",
+        "saxophone"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "beat_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "beat",
+      "options": [
+        "beat",
+        "rhythm",
+        "series",
+        "drums"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "beat_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tune' mean?",
+      "word": "tune",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tune_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tune",
+      "options": [
+        "chorus",
+        "conductor",
+        "artist",
+        "tune"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tune_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "tune",
+      "options": [
+        "trumpet",
+        "tune",
+        "lyrics",
+        "album"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "tune_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'lyrics' mean?",
+      "word": "lyrics",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "lyrics_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "lyrics",
+      "options": [
+        "drums",
+        "playlist",
+        "lyrics",
+        "single"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "lyrics_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "lyrics",
+      "options": [
+        "animation",
+        "lyrics",
+        "song",
+        "saxophone"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "lyrics_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chorus' mean?",
+      "word": "chorus",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chorus_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "chorus",
+      "options": [
+        "flute",
+        "chorus",
+        "film",
+        "playlist"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chorus_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "chorus",
+      "options": [
+        "series",
+        "chorus",
+        "performer",
+        "playlist"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "chorus_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'verse' mean?",
+      "word": "verse",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "verse_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "verse",
+      "options": [
+        "chorus",
+        "verse",
+        "violin",
+        "radio"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "verse_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "verse",
+      "options": [
+        "performance",
+        "verse",
+        "radio",
+        "guitar"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "verse_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'harmony' mean?",
+      "word": "harmony",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "harmony_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "harmony",
+      "options": [
+        "action",
+        "animation",
+        "harmony",
+        "streaming"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "harmony_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "harmony",
+      "options": [
+        "harmony",
+        "melody",
+        "saxophone",
+        "single"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "harmony_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'singer' mean?",
+      "word": "singer",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "singer_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "singer",
+      "options": [
+        "film",
+        "singer",
+        "beat",
+        "horror"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "singer_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "singer",
+      "options": [
+        "choir",
+        "singer",
+        "series",
+        "tour"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "singer_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'musician' mean?",
+      "word": "musician",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "musician_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "musician",
+      "options": [
+        "single",
+        "musician",
+        "trumpet",
+        "animation"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "musician_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "musician",
+      "options": [
+        "musician",
+        "single",
+        "horror",
+        "drums"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "musician_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'band' mean?",
+      "word": "band",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "band_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "band",
+      "options": [
+        "band",
+        "keyboard",
+        "film",
+        "verse"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "band_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "band",
+      "options": [
+        "band",
+        "drums",
+        "harmony",
+        "comedy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "band_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'orchestra' mean?",
+      "word": "orchestra",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "orchestra_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "orchestra",
+      "options": [
+        "festival",
+        "orchestra",
+        "violin",
+        "melody"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "orchestra_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "orchestra",
+      "options": [
+        "concert",
+        "DJ",
+        "keyboard",
+        "orchestra"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "orchestra_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'choir' mean?",
+      "word": "choir",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "choir_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "choir",
+      "options": [
+        "choir",
+        "trumpet",
+        "saxophone",
+        "music"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "choir_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "choir",
+      "options": [
+        "drama",
+        "drums",
+        "melody",
+        "choir"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "choir_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'DJ' mean?",
+      "word": "DJ",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "DJ_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "DJ",
+      "options": [
+        "verse",
+        "DJ",
+        "show",
+        "keyboard"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "DJ_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "DJ",
+      "options": [
+        "lyrics",
+        "composer",
+        "DJ",
+        "bass"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "DJ_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'composer' mean?",
+      "word": "composer",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "composer_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "composer",
+      "options": [
+        "bass",
+        "composer",
+        "action",
+        "chorus"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "composer_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "composer",
+      "options": [
+        "rhythm",
+        "animation",
+        "TV show",
+        "composer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "composer_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'conductor' mean?",
+      "word": "conductor",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "conductor_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "conductor",
+      "options": [
+        "piano",
+        "concert",
+        "conductor",
+        "music"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "conductor_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "conductor",
+      "options": [
+        "movie",
+        "conductor",
+        "chorus",
+        "band"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "conductor_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'performer' mean?",
+      "word": "performer",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "performer_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "performer",
+      "options": [
+        "performer",
+        "verse",
+        "drums",
+        "lyrics"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "performer_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "performer",
+      "options": [
+        "performer",
+        "saxophone",
+        "film",
+        "concert"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "performer_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'artist' mean?",
+      "word": "artist",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "artist_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "artist",
+      "options": [
+        "microphone",
+        "band",
+        "show",
+        "artist"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "artist_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "artist",
+      "options": [
+        "bass",
+        "composer",
+        "action",
+        "artist"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "artist_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'guitar' mean?",
+      "word": "guitar",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "guitar_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "guitar",
+      "options": [
+        "drums",
+        "guitar",
+        "DJ",
+        "action"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "guitar_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "guitar",
+      "options": [
+        "festival",
+        "movie",
+        "guitar",
+        "song"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "guitar_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'piano' mean?",
+      "word": "piano",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "piano_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "piano",
+      "options": [
+        "playlist",
+        "trumpet",
+        "lyrics",
+        "piano"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "piano_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "piano",
+      "options": [
+        "tour",
+        "album",
+        "piano",
+        "movie"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "piano_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'violin' mean?",
+      "word": "violin",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "violin_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "violin",
+      "options": [
+        "violin",
+        "documentary",
+        "orchestra",
+        "guitar"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "violin_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "violin",
+      "options": [
+        "violin",
+        "flute",
+        "trumpet",
+        "band"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "violin_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'drums' mean?",
+      "word": "drums",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drums_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "drums",
+      "options": [
+        "TV show",
+        "DJ",
+        "drums",
+        "rhythm"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "drums_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "drums",
+      "options": [
+        "drums",
+        "action",
+        "single",
+        "piano"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drums_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'flute' mean?",
+      "word": "flute",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "flute_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "flute",
+      "options": [
+        "melody",
+        "horror",
+        "flute",
+        "drums"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "flute_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "flute",
+      "options": [
+        "radio",
+        "flute",
+        "movie",
+        "bass"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "flute_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'trumpet' mean?",
+      "word": "trumpet",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "trumpet_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "trumpet",
+      "options": [
+        "saxophone",
+        "DJ",
+        "trumpet",
+        "band"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "trumpet_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "trumpet",
+      "options": [
+        "trumpet",
+        "action",
+        "rhythm",
+        "choir"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "trumpet_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'saxophone' mean?",
+      "word": "saxophone",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "saxophone_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "saxophone",
+      "options": [
+        "drama",
+        "band",
+        "singer",
+        "saxophone"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "saxophone_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "saxophone",
+      "options": [
+        "saxophone",
+        "band",
+        "violin",
+        "horror"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "saxophone_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bass' mean?",
+      "word": "bass",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bass_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bass",
+      "options": [
+        "TV show",
+        "bass",
+        "composer",
+        "musician"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bass_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "bass",
+      "options": [
+        "lyrics",
+        "bass",
+        "artist",
+        "keyboard"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bass_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'keyboard' mean?",
+      "word": "keyboard",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "keyboard_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "keyboard",
+      "options": [
+        "comedy",
+        "DJ",
+        "band",
+        "keyboard"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "keyboard_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "keyboard",
+      "options": [
+        "keyboard",
+        "beat",
+        "series",
+        "conductor"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "keyboard_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'microphone' mean?",
+      "word": "microphone",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "microphone_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "microphone",
+      "options": [
+        "radio",
+        "conductor",
+        "performer",
+        "microphone"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "microphone_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "microphone",
+      "options": [
+        "microphone",
+        "bass",
+        "playlist",
+        "festival"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "microphone_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'concert' mean?",
+      "word": "concert",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "concert_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "concert",
+      "options": [
+        "film",
+        "concert",
+        "chorus",
+        "orchestra"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "concert_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "concert",
+      "options": [
+        "choir",
+        "beat",
+        "concert",
+        "song"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "concert_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'show' mean?",
+      "word": "show",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "show_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "show",
+      "options": [
+        "melody",
+        "performance",
+        "single",
+        "show"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "show_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "show",
+      "options": [
+        "playlist",
+        "album",
+        "show",
+        "guitar"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "show_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'performance' mean?",
+      "word": "performance",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "performance_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "performance",
+      "options": [
+        "concert",
+        "singer",
+        "performance",
+        "chorus"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "performance_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "performance",
+      "options": [
+        "performance",
+        "horror",
+        "drama",
+        "show"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "performance_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'festival' mean?",
+      "word": "festival",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "festival_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "festival",
+      "options": [
+        "song",
+        "festival",
+        "chorus",
+        "verse"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "festival_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "festival",
+      "options": [
+        "bass",
+        "movie",
+        "festival",
+        "horror"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "festival_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tour' mean?",
+      "word": "tour",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tour_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tour",
+      "options": [
+        "playlist",
+        "tour",
+        "trumpet",
+        "documentary"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "tour_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "tour",
+      "options": [
+        "tour",
+        "music",
+        "trumpet",
+        "album"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tour_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'album' mean?",
+      "word": "album",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "album_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "album",
+      "options": [
+        "verse",
+        "choir",
+        "playlist",
+        "album"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "album_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "album",
+      "options": [
+        "concert",
+        "streaming",
+        "orchestra",
+        "album"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "album_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'single' mean?",
+      "word": "single",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "single_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "single",
+      "options": [
+        "microphone",
+        "single",
+        "singer",
+        "DJ"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "single_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "single",
+      "options": [
+        "album",
+        "music",
+        "single",
+        "guitar"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "single_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'playlist' mean?",
+      "word": "playlist",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "playlist_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "playlist",
+      "options": [
+        "show",
+        "series",
+        "singer",
+        "playlist"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "playlist_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "playlist",
+      "options": [
+        "artist",
+        "documentary",
+        "festival",
+        "playlist"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "playlist_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'radio' mean?",
+      "word": "radio",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "radio_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "radio",
+      "options": [
+        "radio",
+        "show",
+        "lyrics",
+        "piano"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "radio_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "radio",
+      "options": [
+        "action",
+        "orchestra",
+        "series",
+        "radio"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "radio_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'streaming' mean?",
+      "word": "streaming",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "streaming_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "streaming",
+      "options": [
+        "streaming",
+        "music",
+        "chorus",
+        "guitar"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "streaming_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "streaming",
+      "options": [
+        "concert",
+        "album",
+        "streaming",
+        "keyboard"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "streaming_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'movie' mean?",
+      "word": "movie",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "movie_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "movie",
+      "options": [
+        "movie",
+        "series",
+        "horror",
+        "keyboard"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "movie_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "movie",
+      "options": [
+        "movie",
+        "chorus",
+        "concert",
+        "melody"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "movie_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'film' mean?",
+      "word": "film",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "film_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "film",
+      "options": [
+        "movie",
+        "chorus",
+        "singer",
+        "film"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "film_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "film",
+      "options": [
+        "action",
+        "performance",
+        "single",
+        "film"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "film_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'TV show' mean?",
+      "word": "TV show",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "TV_show_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "TV show",
+      "options": [
+        "band",
+        "artist",
+        "comedy",
+        "TV show"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "TV_show_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "TV show",
+      "options": [
+        "TV show",
+        "series",
+        "song",
+        "streaming"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "TV_show_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'series' mean?",
+      "word": "series",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "series_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "series",
+      "options": [
+        "drums",
+        "show",
+        "singer",
+        "series"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "series_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "series",
+      "options": [
+        "movie",
+        "action",
+        "drums",
+        "series"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "series_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'documentary' mean?",
+      "word": "documentary",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "documentary_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "documentary",
+      "options": [
+        "album",
+        "radio",
+        "documentary",
+        "microphone"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "documentary_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "documentary",
+      "options": [
+        "musician",
+        "album",
+        "documentary",
+        "single"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "documentary_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'comedy' mean?",
+      "word": "comedy",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "comedy_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "comedy",
+      "options": [
+        "flute",
+        "comedy",
+        "animation",
+        "harmony"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "comedy_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "comedy",
+      "options": [
+        "movie",
+        "orchestra",
+        "comedy",
+        "TV show"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "comedy_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'drama' mean?",
+      "word": "drama",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drama_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "drama",
+      "options": [
+        "piano",
+        "saxophone",
+        "drama",
+        "verse"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "drama_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "drama",
+      "options": [
+        "drama",
+        "flute",
+        "album",
+        "horror"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "drama_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'action' mean?",
+      "word": "action",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "action_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "action",
+      "options": [
+        "album",
+        "horror",
+        "single",
+        "action"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "action_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "action",
+      "options": [
+        "movie",
+        "harmony",
+        "album",
+        "action"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "action_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'horror' mean?",
+      "word": "horror",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "horror_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "horror",
+      "options": [
+        "horror",
+        "melody",
+        "rhythm",
+        "singer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "horror_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "horror",
+      "options": [
+        "song",
+        "horror",
+        "flute",
+        "choir"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "horror_3",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'animation' mean?",
+      "word": "animation",
+      "options": [
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment",
+        "Something related to music & entertainment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "animation_1",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "animation",
+      "options": [
+        "harmony",
+        "conductor",
+        "animation",
+        "piano"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "animation_2",
+      "category": "Music & Entertainment"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to music & entertainment\"",
+      "word": "animation",
+      "options": [
+        "single",
+        "animation",
+        "composer",
+        "conductor"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "animation_3",
+      "category": "Music & Entertainment"
+    }
+  ]
+}

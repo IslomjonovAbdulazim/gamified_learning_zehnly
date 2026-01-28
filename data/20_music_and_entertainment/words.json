@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "name": "Music & Entertainment",
+  "icon": "🎵",
+  "words": [
+    "music", "song", "melody", "rhythm", "beat", "tune", "lyrics", "chorus", "verse", "harmony",
+    "singer", "musician", "band", "orchestra", "choir", "DJ", "composer", "conductor", "performer", "artist",
+    "guitar", "piano", "violin", "drums", "flute", "trumpet", "saxophone", "bass", "keyboard", "microphone",
+    "concert", "show", "performance", "festival", "tour", "album", "single", "playlist", "radio", "streaming",
+    "movie", "film", "TV show", "series", "documentary", "comedy", "drama", "action", "horror", "animation"
+  ]
+}

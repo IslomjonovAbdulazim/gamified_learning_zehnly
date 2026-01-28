@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "name": "Clothes & Accessories",
+  "icon": "👕",
+  "words": [
+    "shirt", "t-shirt", "blouse", "sweater", "hoodie", "jacket", "coat", "suit", "dress", "skirt",
+    "pants", "jeans", "shorts", "leggings", "underwear", "bra", "socks", "stockings", "pajamas", "robe",
+    "hat", "cap", "beanie", "scarf", "gloves", "mittens", "belt", "tie", "bow tie", "suspenders",
+    "shoes", "boots", "sandals", "sneakers", "heels", "slippers", "flip flops", "loafers", "Oxford shoes", "running shoes",
+    "watch", "bracelet", "necklace", "earrings", "ring", "glasses", "sunglasses", "handbag", "purse", "wallet"
+  ]
+}

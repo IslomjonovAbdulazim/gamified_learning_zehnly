@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "Colors",
+  "icon": "🎨",
+  "words": [
+    "red", "blue", "green", "yellow", "orange", "purple", "pink", "brown", "black", "white",
+    "gray", "grey", "silver", "gold", "bronze", "beige", "cream", "ivory", "tan", "maroon",
+    "navy", "turquoise", "teal", "cyan", "magenta", "violet", "indigo", "lavender", "coral", "salmon",
+    "peach", "burgundy", "crimson", "scarlet", "olive", "lime", "mint", "emerald", "jade", "aqua",
+    "sky blue", "royal blue", "midnight blue", "forest green", "hot pink", "rose", "rust", "copper", "charcoal", "pearl"
+  ]
+}

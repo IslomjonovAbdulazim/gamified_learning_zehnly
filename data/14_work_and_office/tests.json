@@ -1,0 +1,2257 @@
+{
+  "category": "Work & Office",
+  "category_id": 14,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'job' mean?",
+      "word": "job",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "job_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "job",
+      "options": [
+        "calendar",
+        "job",
+        "desk",
+        "document"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "job_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "job",
+      "options": [
+        "appointment",
+        "job",
+        "work",
+        "profession"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "job_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'work' mean?",
+      "word": "work",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "work_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "work",
+      "options": [
+        "vacation",
+        "work",
+        "chair",
+        "document"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "work_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "work",
+      "options": [
+        "work",
+        "raise",
+        "document",
+        "report"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "work_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'career' mean?",
+      "word": "career",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "career_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "career",
+      "options": [
+        "memo",
+        "occupation",
+        "deadline",
+        "career"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "career_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "career",
+      "options": [
+        "manager",
+        "career",
+        "boss",
+        "salary"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "career_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'profession' mean?",
+      "word": "profession",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "profession_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "profession",
+      "options": [
+        "corporation",
+        "profession",
+        "team",
+        "letter"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "profession_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "profession",
+      "options": [
+        "job",
+        "profession",
+        "market",
+        "occupation"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "profession_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'occupation' mean?",
+      "word": "occupation",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "occupation_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "occupation",
+      "options": [
+        "wage",
+        "presentation",
+        "occupation",
+        "contract"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "occupation_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "occupation",
+      "options": [
+        "paycheck",
+        "occupation",
+        "computer",
+        "team"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "occupation_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'employment' mean?",
+      "word": "employment",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "employment_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "employment",
+      "options": [
+        "organization",
+        "vacation",
+        "office",
+        "employment"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "employment_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "employment",
+      "options": [
+        "work",
+        "employment",
+        "sick leave",
+        "client"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "employment_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'employer' mean?",
+      "word": "employer",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "employer_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "employer",
+      "options": [
+        "pension",
+        "employer",
+        "job",
+        "conference"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "employer_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "employer",
+      "options": [
+        "agreement",
+        "employment",
+        "employer",
+        "phone"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "employer_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'employee' mean?",
+      "word": "employee",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "employee_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "employee",
+      "options": [
+        "sick leave",
+        "computer",
+        "employee",
+        "paycheck"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "employee_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "employee",
+      "options": [
+        "bonus",
+        "industry",
+        "employee",
+        "business"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "employee_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'boss' mean?",
+      "word": "boss",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "boss_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "boss",
+      "options": [
+        "contract",
+        "job",
+        "boss",
+        "paycheck"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "boss_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "boss",
+      "options": [
+        "boss",
+        "company",
+        "calendar",
+        "employer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "boss_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'manager' mean?",
+      "word": "manager",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "manager_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "manager",
+      "options": [
+        "employer",
+        "desk",
+        "manager",
+        "chair"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "manager_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "manager",
+      "options": [
+        "profession",
+        "occupation",
+        "manager",
+        "meeting"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "manager_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'office' mean?",
+      "word": "office",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "office_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "office",
+      "options": [
+        "job",
+        "schedule",
+        "client",
+        "office"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "office_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "office",
+      "options": [
+        "calendar",
+        "office",
+        "paycheck",
+        "salary"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "office_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'desk' mean?",
+      "word": "desk",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "desk_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "desk",
+      "options": [
+        "bonus",
+        "company",
+        "salary",
+        "desk"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "desk_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "desk",
+      "options": [
+        "customer",
+        "letter",
+        "desk",
+        "presentation"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "desk_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'chair' mean?",
+      "word": "chair",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chair_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "chair",
+      "options": [
+        "chair",
+        "desk",
+        "appointment",
+        "sick leave"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chair_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "chair",
+      "options": [
+        "chair",
+        "calendar",
+        "promotion",
+        "client"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "chair_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'computer' mean?",
+      "word": "computer",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "computer_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "computer",
+      "options": [
+        "computer",
+        "memo",
+        "phone",
+        "appointment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "computer_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "computer",
+      "options": [
+        "occupation",
+        "meeting",
+        "email",
+        "computer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "computer_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'phone' mean?",
+      "word": "phone",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "phone_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "phone",
+      "options": [
+        "employment",
+        "phone",
+        "memo",
+        "chair"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "phone_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "phone",
+      "options": [
+        "letter",
+        "phone",
+        "business",
+        "raise"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "phone_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'meeting' mean?",
+      "word": "meeting",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "meeting_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "meeting",
+      "options": [
+        "employee",
+        "meeting",
+        "chair",
+        "business"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "meeting_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "meeting",
+      "options": [
+        "meeting",
+        "sick leave",
+        "company",
+        "memo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "meeting_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'conference' mean?",
+      "word": "conference",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "conference_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "conference",
+      "options": [
+        "conference",
+        "contract",
+        "promotion",
+        "team"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "conference_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "conference",
+      "options": [
+        "conference",
+        "salary",
+        "department",
+        "promotion"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "conference_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'presentation' mean?",
+      "word": "presentation",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "presentation_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "presentation",
+      "options": [
+        "team",
+        "boss",
+        "interview",
+        "presentation"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "presentation_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "presentation",
+      "options": [
+        "presentation",
+        "retirement",
+        "salary",
+        "pension"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "presentation_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'report' mean?",
+      "word": "report",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "report_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "report",
+      "options": [
+        "boss",
+        "team",
+        "salary",
+        "report"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "report_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "report",
+      "options": [
+        "report",
+        "contract",
+        "employer",
+        "team"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "report_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'document' mean?",
+      "word": "document",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "document_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "document",
+      "options": [
+        "email",
+        "client",
+        "document",
+        "report"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "document_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "document",
+      "options": [
+        "paycheck",
+        "document",
+        "occupation",
+        "employment"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "document_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'email' mean?",
+      "word": "email",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "email_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "email",
+      "options": [
+        "email",
+        "profession",
+        "employee",
+        "client"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "email_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "email",
+      "options": [
+        "client",
+        "email",
+        "calendar",
+        "market"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "email_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'memo' mean?",
+      "word": "memo",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "memo_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "memo",
+      "options": [
+        "office",
+        "memo",
+        "phone",
+        "deadline"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "memo_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "memo",
+      "options": [
+        "memo",
+        "bonus",
+        "office",
+        "email"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "memo_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'letter' mean?",
+      "word": "letter",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "letter_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "letter",
+      "options": [
+        "interview",
+        "career",
+        "bonus",
+        "letter"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "letter_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "letter",
+      "options": [
+        "agreement",
+        "profession",
+        "manager",
+        "letter"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "letter_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'contract' mean?",
+      "word": "contract",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "contract_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "contract",
+      "options": [
+        "bonus",
+        "report",
+        "department",
+        "contract"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "contract_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "contract",
+      "options": [
+        "job",
+        "agreement",
+        "employment",
+        "contract"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "contract_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'agreement' mean?",
+      "word": "agreement",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "agreement_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "agreement",
+      "options": [
+        "boss",
+        "agreement",
+        "industry",
+        "work"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "agreement_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "agreement",
+      "options": [
+        "career",
+        "raise",
+        "agreement",
+        "bonus"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "agreement_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'deadline' mean?",
+      "word": "deadline",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "deadline_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "deadline",
+      "options": [
+        "agreement",
+        "job",
+        "deadline",
+        "client"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "deadline_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "deadline",
+      "options": [
+        "deadline",
+        "manager",
+        "chair",
+        "promotion"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "deadline_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'schedule' mean?",
+      "word": "schedule",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "schedule_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "schedule",
+      "options": [
+        "calendar",
+        "business",
+        "schedule",
+        "wage"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "schedule_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "schedule",
+      "options": [
+        "industry",
+        "computer",
+        "employer",
+        "schedule"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "schedule_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'calendar' mean?",
+      "word": "calendar",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "calendar_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "calendar",
+      "options": [
+        "calendar",
+        "document",
+        "pension",
+        "computer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "calendar_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "calendar",
+      "options": [
+        "industry",
+        "presentation",
+        "email",
+        "calendar"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "calendar_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'appointment' mean?",
+      "word": "appointment",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "appointment_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "appointment",
+      "options": [
+        "memo",
+        "interview",
+        "pension",
+        "appointment"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "appointment_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "appointment",
+      "options": [
+        "client",
+        "appointment",
+        "conference",
+        "memo"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "appointment_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'interview' mean?",
+      "word": "interview",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "interview_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "interview",
+      "options": [
+        "job",
+        "schedule",
+        "interview",
+        "vacation"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "interview_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "interview",
+      "options": [
+        "interview",
+        "occupation",
+        "business",
+        "job"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "interview_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'salary' mean?",
+      "word": "salary",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "salary_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "salary",
+      "options": [
+        "memo",
+        "corporation",
+        "salary",
+        "wage"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "salary_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "salary",
+      "options": [
+        "salary",
+        "corporation",
+        "promotion",
+        "vacation"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "salary_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wage' mean?",
+      "word": "wage",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wage_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wage",
+      "options": [
+        "document",
+        "wage",
+        "career",
+        "paycheck"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "wage_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "wage",
+      "options": [
+        "wage",
+        "paycheck",
+        "desk",
+        "department"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wage_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'paycheck' mean?",
+      "word": "paycheck",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "paycheck_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "paycheck",
+      "options": [
+        "team",
+        "business",
+        "paycheck",
+        "boss"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "paycheck_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "paycheck",
+      "options": [
+        "document",
+        "raise",
+        "phone",
+        "paycheck"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "paycheck_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bonus' mean?",
+      "word": "bonus",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bonus_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bonus",
+      "options": [
+        "market",
+        "chair",
+        "bonus",
+        "paycheck"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bonus_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "bonus",
+      "options": [
+        "appointment",
+        "bonus",
+        "schedule",
+        "corporation"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bonus_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'raise' mean?",
+      "word": "raise",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "raise_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "raise",
+      "options": [
+        "employer",
+        "letter",
+        "market",
+        "raise"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "raise_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "raise",
+      "options": [
+        "company",
+        "bonus",
+        "raise",
+        "market"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "raise_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'promotion' mean?",
+      "word": "promotion",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "promotion_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "promotion",
+      "options": [
+        "business",
+        "meeting",
+        "career",
+        "promotion"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "promotion_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "promotion",
+      "options": [
+        "promotion",
+        "occupation",
+        "team",
+        "report"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "promotion_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'retirement' mean?",
+      "word": "retirement",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "retirement_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "retirement",
+      "options": [
+        "deadline",
+        "client",
+        "retirement",
+        "raise"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "retirement_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "retirement",
+      "options": [
+        "employment",
+        "customer",
+        "retirement",
+        "paycheck"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "retirement_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pension' mean?",
+      "word": "pension",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pension_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pension",
+      "options": [
+        "bonus",
+        "document",
+        "pension",
+        "computer"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pension_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "pension",
+      "options": [
+        "pension",
+        "interview",
+        "chair",
+        "employment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pension_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'vacation' mean?",
+      "word": "vacation",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "vacation_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "vacation",
+      "options": [
+        "department",
+        "vacation",
+        "raise",
+        "company"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "vacation_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "vacation",
+      "options": [
+        "desk",
+        "raise",
+        "employment",
+        "vacation"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "vacation_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sick leave' mean?",
+      "word": "sick leave",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sick_leave_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sick leave",
+      "options": [
+        "department",
+        "desk",
+        "market",
+        "sick leave"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sick_leave_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "sick leave",
+      "options": [
+        "sick leave",
+        "industry",
+        "business",
+        "appointment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sick_leave_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'team' mean?",
+      "word": "team",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "team_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "team",
+      "options": [
+        "boss",
+        "team",
+        "employment",
+        "deadline"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "team_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "team",
+      "options": [
+        "team",
+        "business",
+        "salary",
+        "email"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "team_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'department' mean?",
+      "word": "department",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "department_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "department",
+      "options": [
+        "office",
+        "retirement",
+        "department",
+        "presentation"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "department_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "department",
+      "options": [
+        "department",
+        "customer",
+        "deadline",
+        "phone"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "department_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'company' mean?",
+      "word": "company",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "company_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "company",
+      "options": [
+        "industry",
+        "deadline",
+        "company",
+        "meeting"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "company_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "company",
+      "options": [
+        "company",
+        "organization",
+        "department",
+        "wage"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "company_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'corporation' mean?",
+      "word": "corporation",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "corporation_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "corporation",
+      "options": [
+        "appointment",
+        "calendar",
+        "corporation",
+        "report"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "corporation_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "corporation",
+      "options": [
+        "wage",
+        "corporation",
+        "customer",
+        "job"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "corporation_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'business' mean?",
+      "word": "business",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "business_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "business",
+      "options": [
+        "business",
+        "appointment",
+        "profession",
+        "email"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "business_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "business",
+      "options": [
+        "letter",
+        "business",
+        "employment",
+        "corporation"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "business_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'organization' mean?",
+      "word": "organization",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "organization_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "organization",
+      "options": [
+        "organization",
+        "team",
+        "employer",
+        "memo"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "organization_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "organization",
+      "options": [
+        "appointment",
+        "deadline",
+        "pension",
+        "organization"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "organization_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'industry' mean?",
+      "word": "industry",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "industry_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "industry",
+      "options": [
+        "industry",
+        "document",
+        "retirement",
+        "paycheck"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "industry_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "industry",
+      "options": [
+        "salary",
+        "team",
+        "work",
+        "industry"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "industry_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'market' mean?",
+      "word": "market",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "market_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "market",
+      "options": [
+        "market",
+        "organization",
+        "occupation",
+        "report"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "market_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "market",
+      "options": [
+        "agreement",
+        "phone",
+        "market",
+        "document"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "market_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'customer' mean?",
+      "word": "customer",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "customer_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "customer",
+      "options": [
+        "customer",
+        "retirement",
+        "letter",
+        "deadline"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "customer_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "customer",
+      "options": [
+        "work",
+        "market",
+        "document",
+        "customer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "customer_3",
+      "category": "Work & Office"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'client' mean?",
+      "word": "client",
+      "options": [
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office",
+        "Something related to work & office"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "client_1",
+      "category": "Work & Office"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "client",
+      "options": [
+        "market",
+        "promotion",
+        "manager",
+        "client"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "client_2",
+      "category": "Work & Office"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to work & office\"",
+      "word": "client",
+      "options": [
+        "vacation",
+        "office",
+        "client",
+        "employment"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "client_3",
+      "category": "Work & Office"
+    }
+  ]
+}

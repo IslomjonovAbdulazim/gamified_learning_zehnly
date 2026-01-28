@@ -1,0 +1,2257 @@
+{
+  "category": "Health & Medicine",
+  "category_id": 15,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'health' mean?",
+      "word": "health",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "health_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "health",
+      "options": [
+        "health",
+        "injury",
+        "fever",
+        "diagnosis"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "health_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "health",
+      "options": [
+        "cold",
+        "pharmacy",
+        "health",
+        "healthy"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "health_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'healthy' mean?",
+      "word": "healthy",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "healthy_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "healthy",
+      "options": [
+        "toothache",
+        "healthy",
+        "doctor",
+        "medicine"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "healthy_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "healthy",
+      "options": [
+        "headache",
+        "clinic",
+        "healthy",
+        "surgery"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "healthy_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'sick' mean?",
+      "word": "sick",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sick_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "sick",
+      "options": [
+        "fever",
+        "pain",
+        "therapist",
+        "sick"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "sick_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "sick",
+      "options": [
+        "sick",
+        "flu",
+        "disease",
+        "doctor"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "sick_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ill' mean?",
+      "word": "ill",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ill_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ill",
+      "options": [
+        "ill",
+        "stomachache",
+        "checkup",
+        "pill"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ill_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "ill",
+      "options": [
+        "appointment",
+        "syrup",
+        "hospital",
+        "ill"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "ill_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'disease' mean?",
+      "word": "disease",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "disease_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "disease",
+      "options": [
+        "bacteria",
+        "flu",
+        "painkiller",
+        "disease"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "disease_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "disease",
+      "options": [
+        "disease",
+        "headache",
+        "stomachache",
+        "tablet"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "disease_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'illness' mean?",
+      "word": "illness",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "illness_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "illness",
+      "options": [
+        "pain",
+        "ill",
+        "examination",
+        "illness"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "illness_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "illness",
+      "options": [
+        "painkiller",
+        "illness",
+        "bacteria",
+        "infection"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "illness_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'infection' mean?",
+      "word": "infection",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "infection_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "infection",
+      "options": [
+        "patient",
+        "pharmacy",
+        "emergency room",
+        "infection"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "infection_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "infection",
+      "options": [
+        "bacteria",
+        "infection",
+        "treatment",
+        "doctor"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "infection_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'virus' mean?",
+      "word": "virus",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "virus_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "virus",
+      "options": [
+        "therapist",
+        "specialist",
+        "virus",
+        "appointment"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "virus_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "virus",
+      "options": [
+        "virus",
+        "treatment",
+        "psychiatrist",
+        "examination"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "virus_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bacteria' mean?",
+      "word": "bacteria",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bacteria_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bacteria",
+      "options": [
+        "psychiatrist",
+        "bacteria",
+        "injection",
+        "infection"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bacteria_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "bacteria",
+      "options": [
+        "toothache",
+        "pill",
+        "bacteria",
+        "dentist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "bacteria_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'allergy' mean?",
+      "word": "allergy",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "allergy_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "allergy",
+      "options": [
+        "allergy",
+        "health",
+        "pharmacy",
+        "doctor"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "allergy_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "allergy",
+      "options": [
+        "virus",
+        "allergy",
+        "clinic",
+        "pain"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "allergy_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'doctor' mean?",
+      "word": "doctor",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "doctor_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "doctor",
+      "options": [
+        "doctor",
+        "wound",
+        "psychiatrist",
+        "clinic"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "doctor_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "doctor",
+      "options": [
+        "virus",
+        "emergency room",
+        "toothache",
+        "doctor"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "doctor_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'nurse' mean?",
+      "word": "nurse",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "nurse_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "nurse",
+      "options": [
+        "headache",
+        "dentist",
+        "nurse",
+        "pharmacist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "nurse_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "nurse",
+      "options": [
+        "cough",
+        "stomachache",
+        "fever",
+        "nurse"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "nurse_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'surgeon' mean?",
+      "word": "surgeon",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "surgeon_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "surgeon",
+      "options": [
+        "stomachache",
+        "surgeon",
+        "prescription",
+        "health"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "surgeon_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "surgeon",
+      "options": [
+        "pharmacy",
+        "prescription",
+        "ill",
+        "surgeon"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "surgeon_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'dentist' mean?",
+      "word": "dentist",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "dentist_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "dentist",
+      "options": [
+        "cough",
+        "antibiotic",
+        "dentist",
+        "therapist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "dentist_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "dentist",
+      "options": [
+        "ill",
+        "clinic",
+        "dentist",
+        "prescription"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "dentist_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pharmacist' mean?",
+      "word": "pharmacist",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pharmacist_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pharmacist",
+      "options": [
+        "cough",
+        "capsule",
+        "pharmacist",
+        "stomachache"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pharmacist_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "pharmacist",
+      "options": [
+        "headache",
+        "pharmacist",
+        "ill",
+        "appointment"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pharmacist_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'therapist' mean?",
+      "word": "therapist",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "therapist_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "therapist",
+      "options": [
+        "headache",
+        "surgery",
+        "health",
+        "therapist"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "therapist_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "therapist",
+      "options": [
+        "therapist",
+        "emergency room",
+        "checkup",
+        "disease"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "therapist_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'psychiatrist' mean?",
+      "word": "psychiatrist",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "psychiatrist_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "psychiatrist",
+      "options": [
+        "examination",
+        "psychiatrist",
+        "hospital",
+        "diagnosis"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "psychiatrist_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "psychiatrist",
+      "options": [
+        "stomachache",
+        "headache",
+        "psychiatrist",
+        "fever"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "psychiatrist_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'specialist' mean?",
+      "word": "specialist",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "specialist_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "specialist",
+      "options": [
+        "specialist",
+        "ambulance",
+        "wound",
+        "disease"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "specialist_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "specialist",
+      "options": [
+        "healthy",
+        "prescription",
+        "specialist",
+        "vaccine"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "specialist_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'patient' mean?",
+      "word": "patient",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "patient_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "patient",
+      "options": [
+        "flu",
+        "fever",
+        "infection",
+        "patient"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "patient_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "patient",
+      "options": [
+        "infection",
+        "flu",
+        "pharmacist",
+        "patient"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "patient_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hospital' mean?",
+      "word": "hospital",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hospital_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hospital",
+      "options": [
+        "dentist",
+        "hospital",
+        "cold",
+        "bacteria"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hospital_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "hospital",
+      "options": [
+        "clinic",
+        "nurse",
+        "hospital",
+        "pain"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "hospital_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'clinic' mean?",
+      "word": "clinic",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "clinic_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "clinic",
+      "options": [
+        "clinic",
+        "healthy",
+        "cold",
+        "checkup"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "clinic_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "clinic",
+      "options": [
+        "healthy",
+        "clinic",
+        "antibiotic",
+        "fever"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "clinic_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pharmacy' mean?",
+      "word": "pharmacy",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pharmacy_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pharmacy",
+      "options": [
+        "nurse",
+        "antibiotic",
+        "pharmacy",
+        "tablet"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pharmacy_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "pharmacy",
+      "options": [
+        "antibiotic",
+        "pharmacy",
+        "examination",
+        "infection"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "pharmacy_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'emergency room' mean?",
+      "word": "emergency room",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "emergency_room_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "emergency room",
+      "options": [
+        "emergency room",
+        "capsule",
+        "specialist",
+        "appointment"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "emergency_room_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "emergency room",
+      "options": [
+        "clinic",
+        "emergency room",
+        "flu",
+        "hospital"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "emergency_room_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'ambulance' mean?",
+      "word": "ambulance",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "ambulance_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "ambulance",
+      "options": [
+        "fever",
+        "ambulance",
+        "allergy",
+        "dentist"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "ambulance_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "ambulance",
+      "options": [
+        "patient",
+        "sick",
+        "ambulance",
+        "specialist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "ambulance_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'appointment' mean?",
+      "word": "appointment",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "appointment_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "appointment",
+      "options": [
+        "syrup",
+        "appointment",
+        "antibiotic",
+        "therapist"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "appointment_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "appointment",
+      "options": [
+        "appointment",
+        "injury",
+        "capsule",
+        "checkup"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "appointment_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'checkup' mean?",
+      "word": "checkup",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "checkup_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "checkup",
+      "options": [
+        "surgeon",
+        "syrup",
+        "checkup",
+        "fever"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "checkup_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "checkup",
+      "options": [
+        "healthy",
+        "surgeon",
+        "patient",
+        "checkup"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "checkup_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'examination' mean?",
+      "word": "examination",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "examination_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "examination",
+      "options": [
+        "vaccine",
+        "patient",
+        "examination",
+        "flu"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "examination_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "examination",
+      "options": [
+        "antibiotic",
+        "clinic",
+        "examination",
+        "pharmacist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "examination_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'diagnosis' mean?",
+      "word": "diagnosis",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "diagnosis_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "diagnosis",
+      "options": [
+        "emergency room",
+        "cough",
+        "diagnosis",
+        "specialist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "diagnosis_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "diagnosis",
+      "options": [
+        "diagnosis",
+        "examination",
+        "bacteria",
+        "injury"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "diagnosis_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'treatment' mean?",
+      "word": "treatment",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "treatment_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "treatment",
+      "options": [
+        "health",
+        "allergy",
+        "vaccine",
+        "treatment"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "treatment_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "treatment",
+      "options": [
+        "sick",
+        "infection",
+        "treatment",
+        "examination"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "treatment_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'surgery' mean?",
+      "word": "surgery",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "surgery_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "surgery",
+      "options": [
+        "surgery",
+        "patient",
+        "treatment",
+        "pharmacy"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "surgery_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "surgery",
+      "options": [
+        "infection",
+        "surgery",
+        "dentist",
+        "disease"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "surgery_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'medicine' mean?",
+      "word": "medicine",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "medicine_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "medicine",
+      "options": [
+        "health",
+        "medicine",
+        "painkiller",
+        "specialist"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "medicine_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "medicine",
+      "options": [
+        "medicine",
+        "vaccine",
+        "patient",
+        "fever"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "medicine_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pill' mean?",
+      "word": "pill",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pill_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pill",
+      "options": [
+        "surgeon",
+        "wound",
+        "pill",
+        "painkiller"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pill_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "pill",
+      "options": [
+        "dentist",
+        "pain",
+        "cold",
+        "pill"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pill_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tablet' mean?",
+      "word": "tablet",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tablet_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tablet",
+      "options": [
+        "antibiotic",
+        "ambulance",
+        "surgery",
+        "tablet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tablet_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "tablet",
+      "options": [
+        "surgeon",
+        "allergy",
+        "flu",
+        "tablet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tablet_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'capsule' mean?",
+      "word": "capsule",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "capsule_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "capsule",
+      "options": [
+        "syrup",
+        "infection",
+        "capsule",
+        "stomachache"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "capsule_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "capsule",
+      "options": [
+        "wound",
+        "pill",
+        "capsule",
+        "dentist"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "capsule_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'syrup' mean?",
+      "word": "syrup",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "syrup_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "syrup",
+      "options": [
+        "syrup",
+        "diagnosis",
+        "psychiatrist",
+        "pharmacist"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "syrup_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "syrup",
+      "options": [
+        "syrup",
+        "illness",
+        "therapist",
+        "painkiller"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "syrup_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'injection' mean?",
+      "word": "injection",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "injection_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "injection",
+      "options": [
+        "infection",
+        "virus",
+        "injection",
+        "ill"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "injection_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "injection",
+      "options": [
+        "surgery",
+        "pharmacist",
+        "pill",
+        "injection"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "injection_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'vaccine' mean?",
+      "word": "vaccine",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "vaccine_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "vaccine",
+      "options": [
+        "injection",
+        "vaccine",
+        "doctor",
+        "healthy"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "vaccine_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "vaccine",
+      "options": [
+        "vaccine",
+        "prescription",
+        "ill",
+        "injection"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "vaccine_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'antibiotic' mean?",
+      "word": "antibiotic",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "antibiotic_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "antibiotic",
+      "options": [
+        "medicine",
+        "cold",
+        "antibiotic",
+        "wound"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "antibiotic_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "antibiotic",
+      "options": [
+        "treatment",
+        "antibiotic",
+        "therapist",
+        "surgery"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "antibiotic_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'painkiller' mean?",
+      "word": "painkiller",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "painkiller_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "painkiller",
+      "options": [
+        "syrup",
+        "headache",
+        "hospital",
+        "painkiller"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "painkiller_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "painkiller",
+      "options": [
+        "patient",
+        "prescription",
+        "painkiller",
+        "cold"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "painkiller_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'prescription' mean?",
+      "word": "prescription",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "prescription_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "prescription",
+      "options": [
+        "prescription",
+        "toothache",
+        "healthy",
+        "headache"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "prescription_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "prescription",
+      "options": [
+        "hospital",
+        "prescription",
+        "antibiotic",
+        "checkup"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "prescription_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'fever' mean?",
+      "word": "fever",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "fever_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "fever",
+      "options": [
+        "surgeon",
+        "bacteria",
+        "hospital",
+        "fever"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "fever_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "fever",
+      "options": [
+        "prescription",
+        "healthy",
+        "fever",
+        "infection"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "fever_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cough' mean?",
+      "word": "cough",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cough_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cough",
+      "options": [
+        "cough",
+        "psychiatrist",
+        "examination",
+        "surgeon"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cough_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "cough",
+      "options": [
+        "toothache",
+        "ambulance",
+        "cough",
+        "appointment"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cough_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cold' mean?",
+      "word": "cold",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cold_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cold",
+      "options": [
+        "painkiller",
+        "tablet",
+        "injection",
+        "cold"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cold_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "cold",
+      "options": [
+        "painkiller",
+        "cold",
+        "infection",
+        "vaccine"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cold_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'flu' mean?",
+      "word": "flu",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "flu_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "flu",
+      "options": [
+        "therapist",
+        "headache",
+        "medicine",
+        "flu"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "flu_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "flu",
+      "options": [
+        "diagnosis",
+        "stomachache",
+        "therapist",
+        "flu"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "flu_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'headache' mean?",
+      "word": "headache",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "headache_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "headache",
+      "options": [
+        "prescription",
+        "appointment",
+        "headache",
+        "doctor"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "headache_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "headache",
+      "options": [
+        "illness",
+        "nurse",
+        "treatment",
+        "headache"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "headache_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'stomachache' mean?",
+      "word": "stomachache",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stomachache_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "stomachache",
+      "options": [
+        "vaccine",
+        "checkup",
+        "injection",
+        "stomachache"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "stomachache_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "stomachache",
+      "options": [
+        "cold",
+        "stomachache",
+        "illness",
+        "pain"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "stomachache_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'toothache' mean?",
+      "word": "toothache",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "toothache_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "toothache",
+      "options": [
+        "disease",
+        "tablet",
+        "toothache",
+        "hospital"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "toothache_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "toothache",
+      "options": [
+        "allergy",
+        "toothache",
+        "flu",
+        "specialist"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "toothache_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'pain' mean?",
+      "word": "pain",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "pain_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "pain",
+      "options": [
+        "clinic",
+        "dentist",
+        "pain",
+        "antibiotic"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "pain_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "pain",
+      "options": [
+        "virus",
+        "psychiatrist",
+        "illness",
+        "pain"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "pain_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wound' mean?",
+      "word": "wound",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wound_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wound",
+      "options": [
+        "headache",
+        "cold",
+        "health",
+        "wound"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "wound_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "wound",
+      "options": [
+        "wound",
+        "vaccine",
+        "pharmacist",
+        "headache"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wound_3",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'injury' mean?",
+      "word": "injury",
+      "options": [
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine",
+        "Something related to health & medicine"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "injury_1",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "injury",
+      "options": [
+        "pharmacy",
+        "disease",
+        "ill",
+        "injury"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "injury_2",
+      "category": "Health & Medicine"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to health & medicine\"",
+      "word": "injury",
+      "options": [
+        "injury",
+        "cough",
+        "disease",
+        "capsule"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "injury_3",
+      "category": "Health & Medicine"
+    }
+  ]
+}

@@ -1,0 +1,2257 @@
+{
+  "category": "Technology",
+  "category_id": 13,
+  "total_tests": 150,
+  "tests": [
+    {
+      "type": "definition_match",
+      "question": "What does 'computer' mean?",
+      "word": "computer",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "computer_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "computer",
+      "options": [
+        "speaker",
+        "stream",
+        "upload",
+        "computer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "computer_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "computer",
+      "options": [
+        "hardware",
+        "mouse",
+        "computer",
+        "video call"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "computer_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'laptop' mean?",
+      "word": "laptop",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "laptop_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "laptop",
+      "options": [
+        "laptop",
+        "mouse",
+        "camera",
+        "message"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "laptop_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "laptop",
+      "options": [
+        "internet",
+        "tablet",
+        "laptop",
+        "printer"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "laptop_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'desktop' mean?",
+      "word": "desktop",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "desktop_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "desktop",
+      "options": [
+        "email",
+        "desktop",
+        "laptop",
+        "printer"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "desktop_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "desktop",
+      "options": [
+        "website",
+        "video call",
+        "desktop",
+        "keyboard"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "desktop_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'tablet' mean?",
+      "word": "tablet",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "tablet_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "tablet",
+      "options": [
+        "internet",
+        "cloud",
+        "adapter",
+        "tablet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tablet_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "tablet",
+      "options": [
+        "code",
+        "browser",
+        "account",
+        "tablet"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "tablet_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'smartphone' mean?",
+      "word": "smartphone",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "smartphone_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "smartphone",
+      "options": [
+        "monitor",
+        "smartphone",
+        "update",
+        "social media"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "smartphone_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "smartphone",
+      "options": [
+        "laptop",
+        "smartphone",
+        "bluetooth",
+        "keyboard"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "smartphone_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'phone' mean?",
+      "word": "phone",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "phone_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "phone",
+      "options": [
+        "scanner",
+        "social media",
+        "phone",
+        "app"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "phone_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "phone",
+      "options": [
+        "code",
+        "hardware",
+        "email",
+        "phone"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "phone_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'monitor' mean?",
+      "word": "monitor",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "monitor_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "monitor",
+      "options": [
+        "monitor",
+        "logout",
+        "headphones",
+        "settings"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "monitor_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "monitor",
+      "options": [
+        "account",
+        "username",
+        "monitor",
+        "camera"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "monitor_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'keyboard' mean?",
+      "word": "keyboard",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "keyboard_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "keyboard",
+      "options": [
+        "cloud",
+        "bluetooth",
+        "monitor",
+        "keyboard"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "keyboard_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "keyboard",
+      "options": [
+        "backup",
+        "upload",
+        "code",
+        "keyboard"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "keyboard_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'mouse' mean?",
+      "word": "mouse",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "mouse_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "mouse",
+      "options": [
+        "microphone",
+        "cloud",
+        "mouse",
+        "speaker"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "mouse_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "mouse",
+      "options": [
+        "email",
+        "mouse",
+        "bluetooth",
+        "backup"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "mouse_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'printer' mean?",
+      "word": "printer",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "printer_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "printer",
+      "options": [
+        "stream",
+        "video call",
+        "printer",
+        "keyboard"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "printer_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "printer",
+      "options": [
+        "hardware",
+        "website",
+        "headphones",
+        "printer"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "printer_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'scanner' mean?",
+      "word": "scanner",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "scanner_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "scanner",
+      "options": [
+        "charger",
+        "call",
+        "username",
+        "scanner"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "scanner_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "scanner",
+      "options": [
+        "mouse",
+        "cloud",
+        "keyboard",
+        "scanner"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "scanner_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'camera' mean?",
+      "word": "camera",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "camera_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "camera",
+      "options": [
+        "software",
+        "camera",
+        "speaker",
+        "smartphone"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "camera_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "camera",
+      "options": [
+        "mouse",
+        "software",
+        "settings",
+        "camera"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "camera_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'webcam' mean?",
+      "word": "webcam",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "webcam_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "webcam",
+      "options": [
+        "adapter",
+        "update",
+        "camera",
+        "webcam"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "webcam_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "webcam",
+      "options": [
+        "keyboard",
+        "update",
+        "computer",
+        "webcam"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "webcam_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'microphone' mean?",
+      "word": "microphone",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "microphone_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "microphone",
+      "options": [
+        "microphone",
+        "account",
+        "headphones",
+        "desktop"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "microphone_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "microphone",
+      "options": [
+        "message",
+        "login",
+        "browser",
+        "microphone"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "microphone_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'speaker' mean?",
+      "word": "speaker",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "speaker_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "speaker",
+      "options": [
+        "code",
+        "speaker",
+        "text",
+        "software"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "speaker_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "speaker",
+      "options": [
+        "cable",
+        "speaker",
+        "keyboard",
+        "internet"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "speaker_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'headphones' mean?",
+      "word": "headphones",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "headphones_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "headphones",
+      "options": [
+        "monitor",
+        "video call",
+        "upload",
+        "headphones"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "headphones_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "headphones",
+      "options": [
+        "headphones",
+        "backup",
+        "cable",
+        "desktop"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "headphones_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'earbuds' mean?",
+      "word": "earbuds",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "earbuds_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "earbuds",
+      "options": [
+        "settings",
+        "speaker",
+        "firewall",
+        "earbuds"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "earbuds_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "earbuds",
+      "options": [
+        "earbuds",
+        "logout",
+        "text",
+        "program"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "earbuds_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'charger' mean?",
+      "word": "charger",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "charger_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "charger",
+      "options": [
+        "settings",
+        "computer",
+        "login",
+        "charger"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "charger_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "charger",
+      "options": [
+        "account",
+        "charger",
+        "social media",
+        "update"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "charger_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cable' mean?",
+      "word": "cable",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cable_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cable",
+      "options": [
+        "firewall",
+        "video call",
+        "cable",
+        "camera"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "cable_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "cable",
+      "options": [
+        "software",
+        "camera",
+        "monitor",
+        "cable"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cable_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'adapter' mean?",
+      "word": "adapter",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "adapter_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "adapter",
+      "options": [
+        "video call",
+        "bluetooth",
+        "adapter",
+        "login"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "adapter_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "adapter",
+      "options": [
+        "virus",
+        "adapter",
+        "firewall",
+        "wifi"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "adapter_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'internet' mean?",
+      "word": "internet",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "internet_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "internet",
+      "options": [
+        "hardware",
+        "cable",
+        "internet",
+        "earbuds"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "internet_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "internet",
+      "options": [
+        "message",
+        "call",
+        "internet",
+        "earbuds"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "internet_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'wifi' mean?",
+      "word": "wifi",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wifi_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "wifi",
+      "options": [
+        "printer",
+        "virus",
+        "wifi",
+        "password"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "wifi_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "wifi",
+      "options": [
+        "wifi",
+        "camera",
+        "call",
+        "internet"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "wifi_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'bluetooth' mean?",
+      "word": "bluetooth",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "bluetooth_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "bluetooth",
+      "options": [
+        "email",
+        "bluetooth",
+        "text",
+        "call"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bluetooth_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "bluetooth",
+      "options": [
+        "charger",
+        "bluetooth",
+        "text",
+        "software"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "bluetooth_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'website' mean?",
+      "word": "website",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "website_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "website",
+      "options": [
+        "website",
+        "camera",
+        "cable",
+        "desktop"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "website_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "website",
+      "options": [
+        "printer",
+        "code",
+        "website",
+        "tablet"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "website_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'browser' mean?",
+      "word": "browser",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "browser_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "browser",
+      "options": [
+        "adapter",
+        "text",
+        "browser",
+        "app"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "browser_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "browser",
+      "options": [
+        "app",
+        "browser",
+        "login",
+        "video call"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "browser_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'app' mean?",
+      "word": "app",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "app_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "app",
+      "options": [
+        "app",
+        "website",
+        "cloud",
+        "desktop"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "app_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "app",
+      "options": [
+        "call",
+        "settings",
+        "app",
+        "tablet"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "app_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'software' mean?",
+      "word": "software",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "software_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "software",
+      "options": [
+        "monitor",
+        "software",
+        "video call",
+        "scanner"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "software_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "software",
+      "options": [
+        "desktop",
+        "firewall",
+        "scanner",
+        "software"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "software_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'hardware' mean?",
+      "word": "hardware",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "hardware_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "hardware",
+      "options": [
+        "username",
+        "hardware",
+        "software",
+        "program"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "hardware_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "hardware",
+      "options": [
+        "internet",
+        "login",
+        "monitor",
+        "hardware"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "hardware_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'program' mean?",
+      "word": "program",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "program_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "program",
+      "options": [
+        "computer",
+        "adapter",
+        "program",
+        "internet"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "program_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "program",
+      "options": [
+        "app",
+        "update",
+        "program",
+        "mouse"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "program_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'code' mean?",
+      "word": "code",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "code_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "code",
+      "options": [
+        "backup",
+        "text",
+        "code",
+        "earbuds"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "code_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "code",
+      "options": [
+        "earbuds",
+        "speaker",
+        "phone",
+        "code"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "code_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'email' mean?",
+      "word": "email",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "email_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "email",
+      "options": [
+        "smartphone",
+        "earbuds",
+        "email",
+        "login"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "email_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "email",
+      "options": [
+        "charger",
+        "email",
+        "mouse",
+        "microphone"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "email_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'message' mean?",
+      "word": "message",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "message_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "message",
+      "options": [
+        "message",
+        "app",
+        "bluetooth",
+        "wifi"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "message_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "message",
+      "options": [
+        "message",
+        "logout",
+        "code",
+        "camera"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "message_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'text' mean?",
+      "word": "text",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "text_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "text",
+      "options": [
+        "software",
+        "password",
+        "keyboard",
+        "text"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "text_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "text",
+      "options": [
+        "smartphone",
+        "adapter",
+        "text",
+        "desktop"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "text_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'call' mean?",
+      "word": "call",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "call_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "call",
+      "options": [
+        "stream",
+        "backup",
+        "call",
+        "virus"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "call_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "call",
+      "options": [
+        "settings",
+        "stream",
+        "call",
+        "program"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "call_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'video call' mean?",
+      "word": "video call",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "video_call_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "video call",
+      "options": [
+        "video call",
+        "text",
+        "cloud",
+        "microphone"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "video_call_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "video call",
+      "options": [
+        "hardware",
+        "video call",
+        "smartphone",
+        "wifi"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "video_call_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'social media' mean?",
+      "word": "social media",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "social_media_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "social media",
+      "options": [
+        "app",
+        "social media",
+        "webcam",
+        "laptop"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "social_media_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "social media",
+      "options": [
+        "download",
+        "social media",
+        "text",
+        "laptop"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "social_media_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'download' mean?",
+      "word": "download",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "download_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "download",
+      "options": [
+        "smartphone",
+        "camera",
+        "login",
+        "download"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "download_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "download",
+      "options": [
+        "monitor",
+        "text",
+        "download",
+        "mouse"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "download_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'upload' mean?",
+      "word": "upload",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "upload_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "upload",
+      "options": [
+        "upload",
+        "stream",
+        "logout",
+        "speaker"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "upload_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "upload",
+      "options": [
+        "browser",
+        "keyboard",
+        "upload",
+        "adapter"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "upload_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'stream' mean?",
+      "word": "stream",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "stream_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "stream",
+      "options": [
+        "message",
+        "software",
+        "laptop",
+        "stream"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "stream_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "stream",
+      "options": [
+        "browser",
+        "stream",
+        "wifi",
+        "software"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "stream_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'cloud' mean?",
+      "word": "cloud",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "cloud_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "cloud",
+      "options": [
+        "text",
+        "cloud",
+        "program",
+        "browser"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "cloud_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "cloud",
+      "options": [
+        "upload",
+        "virus",
+        "firewall",
+        "cloud"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "cloud_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'password' mean?",
+      "word": "password",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "password_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "password",
+      "options": [
+        "account",
+        "website",
+        "webcam",
+        "password"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "password_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "password",
+      "options": [
+        "password",
+        "program",
+        "mouse",
+        "download"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "password_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'username' mean?",
+      "word": "username",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "username_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "username",
+      "options": [
+        "message",
+        "headphones",
+        "username",
+        "firewall"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "username_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "username",
+      "options": [
+        "software",
+        "webcam",
+        "app",
+        "username"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "username_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'account' mean?",
+      "word": "account",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "account_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "account",
+      "options": [
+        "backup",
+        "account",
+        "microphone",
+        "cable"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "account_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "account",
+      "options": [
+        "desktop",
+        "account",
+        "speaker",
+        "backup"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "account_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'login' mean?",
+      "word": "login",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "login_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "login",
+      "options": [
+        "software",
+        "desktop",
+        "login",
+        "wifi"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "login_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "login",
+      "options": [
+        "logout",
+        "login",
+        "message",
+        "video call"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "login_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'logout' mean?",
+      "word": "logout",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "logout_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "logout",
+      "options": [
+        "logout",
+        "printer",
+        "login",
+        "upload"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "logout_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "logout",
+      "options": [
+        "code",
+        "update",
+        "scanner",
+        "logout"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "logout_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'settings' mean?",
+      "word": "settings",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "settings_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "settings",
+      "options": [
+        "cloud",
+        "bluetooth",
+        "settings",
+        "video call"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "settings_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "settings",
+      "options": [
+        "settings",
+        "text",
+        "bluetooth",
+        "message"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "settings_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'update' mean?",
+      "word": "update",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "update_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "update",
+      "options": [
+        "update",
+        "microphone",
+        "smartphone",
+        "account"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "update_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "update",
+      "options": [
+        "email",
+        "update",
+        "keyboard",
+        "code"
+      ],
+      "correct_answer": 1,
+      "difficulty": "medium",
+      "id": "update_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'backup' mean?",
+      "word": "backup",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "backup_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "backup",
+      "options": [
+        "backup",
+        "upload",
+        "update",
+        "firewall"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "backup_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "backup",
+      "options": [
+        "wifi",
+        "bluetooth",
+        "backup",
+        "app"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "backup_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'virus' mean?",
+      "word": "virus",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "virus_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "virus",
+      "options": [
+        "backup",
+        "camera",
+        "virus",
+        "microphone"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "virus_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "virus",
+      "options": [
+        "virus",
+        "speaker",
+        "bluetooth",
+        "computer"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "virus_3",
+      "category": "Technology"
+    },
+    {
+      "type": "definition_match",
+      "question": "What does 'firewall' mean?",
+      "word": "firewall",
+      "options": [
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology",
+        "Something related to technology"
+      ],
+      "correct_answer": 0,
+      "difficulty": "medium",
+      "id": "firewall_1",
+      "category": "Technology"
+    },
+    {
+      "type": "sentence_fill",
+      "question": "Complete the sentence:\n\"I learned about the ___ today.\"",
+      "word": "firewall",
+      "options": [
+        "email",
+        "upload",
+        "password",
+        "firewall"
+      ],
+      "correct_answer": 3,
+      "difficulty": "medium",
+      "id": "firewall_2",
+      "category": "Technology"
+    },
+    {
+      "type": "word_from_definition",
+      "question": "Which word means:\n\"Something related to technology\"",
+      "word": "firewall",
+      "options": [
+        "internet",
+        "message",
+        "firewall",
+        "username"
+      ],
+      "correct_answer": 2,
+      "difficulty": "medium",
+      "id": "firewall_3",
+      "category": "Technology"
+    }
+  ]
+}

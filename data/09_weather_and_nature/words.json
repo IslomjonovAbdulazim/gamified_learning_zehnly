@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "name": "Weather & Nature",
+  "icon": "🌤️",
+  "words": [
+    "sun", "moon", "star", "sky", "cloud", "rain", "snow", "wind", "storm", "thunder",
+    "lightning", "rainbow", "fog", "mist", "hail", "sleet", "frost", "ice", "humidity", "temperature",
+    "hot", "warm", "cool", "cold", "freezing", "sunny", "cloudy", "rainy", "snowy", "windy",
+    "tree", "flower", "grass", "leaf", "branch", "root", "seed", "plant", "bush", "forest",
+    "mountain", "hill", "valley", "river", "lake", "ocean", "sea", "beach", "desert", "island"
+  ]
+}

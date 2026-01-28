@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "name": "House & Furniture",
+  "icon": "🏠",
+  "words": [
+    "house", "home", "apartment", "building", "room", "bedroom", "bathroom", "kitchen", "living room", "dining room",
+    "garage", "basement", "attic", "roof", "ceiling", "floor", "wall", "door", "window", "stairs",
+    "bed", "mattress", "pillow", "blanket", "sheet", "sofa", "couch", "chair", "table", "desk",
+    "lamp", "mirror", "closet", "wardrobe", "drawer", "shelf", "bookshelf", "cabinet", "carpet", "rug",
+    "curtain", "blinds", "fan", "air conditioner", "heater", "fireplace", "toilet", "sink", "shower", "bathtub"
+  ]
+}

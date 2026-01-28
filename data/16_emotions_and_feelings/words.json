@@ -1,0 +1,12 @@
+{
+  "id": 16,
+  "name": "Emotions & Feelings",
+  "icon": "😊",
+  "words": [
+    "happy", "sad", "angry", "scared", "afraid", "nervous", "anxious", "worried", "stressed", "relaxed",
+    "excited", "bored", "tired", "sleepy", "hungry", "thirsty", "full", "satisfied", "disappointed", "frustrated",
+    "surprised", "shocked", "amazed", "confused", "curious", "interested", "proud", "ashamed", "embarrassed", "guilty",
+    "jealous", "envious", "grateful", "thankful", "hopeful", "optimistic", "pessimistic", "lonely", "loved", "loving",
+    "calm", "peaceful", "content", "cheerful", "miserable", "depressed", "overwhelmed", "confident", "insecure", "motivated"
+  ]
+}

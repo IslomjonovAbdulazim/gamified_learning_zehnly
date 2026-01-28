@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "name": "Transportation",
+  "icon": "🚗",
+  "words": [
+    "car", "truck", "van", "bus", "taxi", "motorcycle", "bicycle", "scooter", "skateboard", "ambulance",
+    "fire truck", "police car", "limousine", "SUV", "convertible", "sedan", "hatchback", "minivan", "pickup truck", "RV",
+    "train", "subway", "tram", "metro", "bullet train", "freight train", "locomotive", "railway", "station", "platform",
+    "airplane", "helicopter", "jet", "drone", "hot air balloon", "rocket", "spaceship", "airport", "runway", "terminal",
+    "boat", "ship", "yacht", "ferry", "cruise ship", "sailboat", "canoe", "kayak", "submarine", "harbor"
+  ]
+}
