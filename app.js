@@ -46,6 +46,105 @@ function setOptionCount(count) {
     localStorage.setItem('wordIslands_optionCount', count);
 }
 
+// ============ SOUND EFFECTS ============
+const AudioContext = window.AudioContext || window.webkitAudioContext;
+let audioCtx = null;
+
+function getAudioContext() {
+    if (!audioCtx) {
+        audioCtx = new AudioContext();
+    }
+    return audioCtx;
+}
+
+function playSound(type) {
+    const ctx = getAudioContext();
+    const oscillator = ctx.createOscillator();
+    const gainNode = ctx.createGain();
+
+    oscillator.connect(gainNode);
+    gainNode.connect(ctx.destination);
+
+    const now = ctx.currentTime;
+
+    switch(type) {
+        case 'correct':
+            // Happy ascending tone
+            oscillator.frequency.setValueAtTime(523, now); // C5
+            oscillator.frequency.setValueAtTime(659, now + 0.1); // E5
+            oscillator.frequency.setValueAtTime(784, now + 0.2); // G5
+            gainNode.gain.setValueAtTime(0.3, now);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.4);
+            oscillator.start(now);
+            oscillator.stop(now + 0.4);
+            break;
+
+        case 'wrong':
+            // Sad descending tone
+            oscillator.frequency.setValueAtTime(311, now); // Eb4
+            oscillator.frequency.setValueAtTime(277, now + 0.15); // Db4
+            oscillator.type = 'sawtooth';
+            gainNode.gain.setValueAtTime(0.2, now);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.3);
+            oscillator.start(now);
+            oscillator.stop(now + 0.3);
+            break;
+
+        case 'streak':
+            // Exciting fanfare
+            const osc1 = ctx.createOscillator();
+            const osc2 = ctx.createOscillator();
+            const gain1 = ctx.createGain();
+            const gain2 = ctx.createGain();
+
+            osc1.connect(gain1);
+            osc2.connect(gain2);
+            gain1.connect(ctx.destination);
+            gain2.connect(ctx.destination);
+
+            osc1.frequency.setValueAtTime(523, now);
+            osc1.frequency.setValueAtTime(659, now + 0.1);
+            osc1.frequency.setValueAtTime(784, now + 0.2);
+            osc1.frequency.setValueAtTime(1047, now + 0.3);
+
+            osc2.frequency.setValueAtTime(784, now + 0.15);
+            osc2.frequency.setValueAtTime(988, now + 0.25);
+            osc2.frequency.setValueAtTime(1319, now + 0.35);
+
+            gain1.gain.setValueAtTime(0.3, now);
+            gain1.gain.exponentialRampToValueAtTime(0.01, now + 0.5);
+            gain2.gain.setValueAtTime(0.2, now + 0.15);
+            gain2.gain.exponentialRampToValueAtTime(0.01, now + 0.5);
+
+            osc1.start(now);
+            osc2.start(now + 0.15);
+            osc1.stop(now + 0.5);
+            osc2.stop(now + 0.5);
+            break;
+
+        case 'points':
+            // Quick coin sound
+            oscillator.frequency.setValueAtTime(1200, now);
+            oscillator.frequency.exponentialRampToValueAtTime(1800, now + 0.1);
+            oscillator.type = 'sine';
+            gainNode.gain.setValueAtTime(0.2, now);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.15);
+            oscillator.start(now);
+            oscillator.stop(now + 0.15);
+            break;
+
+        case 'click':
+            // Soft click
+            oscillator.frequency.setValueAtTime(800, now);
+            oscillator.type = 'sine';
+            gainNode.gain.setValueAtTime(0.1, now);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.05);
+            oscillator.start(now);
+            oscillator.stop(now + 0.05);
+            break;
+    }
+}
+
 // ============ POINTS CONFIG ============
 const POINTS_PER_CORRECT = 10;
 const STREAK_BONUSES = {
@@ -579,6 +678,8 @@ function showQuestion() {
 }
 
 function selectAnswer(selectedIndex) {
+    playSound('click');
+
     const test = currentTests[currentTestIndex];
     const correctIndex = test._displayCorrectIndex !== undefined ? test._displayCorrectIndex : test.correct_answer;
     const displayOptions = test._displayOptions || test.options;
@@ -604,17 +705,23 @@ function selectAnswer(selectedIndex) {
         practiceResults.correct++;
         currentStreak++;
 
-        // Add points
+        // Sound & points
+        playSound('correct');
+        setTimeout(() => playSound('points'), 200);
         addPoints(POINTS_PER_CORRECT);
         showPointsAnimation(POINTS_PER_CORRECT, window.innerWidth / 2, window.innerHeight / 2 - 100);
 
         // Check for streak bonus
         if (STREAK_BONUSES[currentStreak]) {
-            setTimeout(() => showStreakPopup(currentStreak), 300);
+            setTimeout(() => {
+                playSound('streak');
+                showStreakPopup(currentStreak);
+            }, 300);
         } else {
             createConfetti();
         }
     } else {
+        playSound('wrong');
         practiceResults.wrong++;
         currentStreak = 0; // Reset streak on wrong answer
     }
