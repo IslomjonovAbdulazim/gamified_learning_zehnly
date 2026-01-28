@@ -46,12 +46,22 @@ function setOptionCount(count) {
     localStorage.setItem('wordIslands_optionCount', count);
 }
 
+// ============ POINTS CONFIG ============
+const POINTS_PER_CORRECT = 10;
+const STREAK_BONUSES = {
+    5: { bonus: 50, icon: '🔥', text: '5 in a row!' },
+    10: { bonus: 100, icon: '⚡', text: '10 streak!' },
+    15: { bonus: 150, icon: '🌟', text: '15 AMAZING!' },
+    20: { bonus: 200, icon: '💎', text: '20 LEGENDARY!' }
+};
+
 // ============ STATE ============
 let currentCategory = null;
 let currentTests = [];
 let currentTestIndex = 0;
 let practiceResults = { correct: 0, wrong: 0 };
 let categoryData = {};
+let currentStreak = 0;
 
 // ============ LOCAL STORAGE ============
 function getProgress() {
@@ -108,7 +118,53 @@ function updateWordProgress(category, word, correct) {
 
 function getStats() {
     const saved = localStorage.getItem('wordIslands_stats');
-    return saved ? JSON.parse(saved) : { streak: 0, lastPractice: null, totalWords: 0 };
+    return saved ? JSON.parse(saved) : { streak: 0, lastPractice: null, totalWords: 0, points: 0 };
+}
+
+function addPoints(amount) {
+    const stats = getStats();
+    stats.points = (stats.points || 0) + amount;
+    localStorage.setItem('wordIslands_stats', JSON.stringify(stats));
+    document.getElementById('totalPoints').textContent = stats.points;
+    return stats.points;
+}
+
+function showPointsAnimation(points, x, y) {
+    const pop = document.createElement('div');
+    pop.className = 'points-pop';
+    pop.textContent = `+${points}`;
+    pop.style.left = x + 'px';
+    pop.style.top = y + 'px';
+    document.body.appendChild(pop);
+    setTimeout(() => pop.remove(), 1000);
+}
+
+function showStreakPopup(streakNum) {
+    const bonus = STREAK_BONUSES[streakNum];
+    if (!bonus) return;
+
+    const popup = document.getElementById('streakPopup');
+    document.getElementById('streakIcon').textContent = bonus.icon;
+    document.getElementById('streakText').textContent = bonus.text;
+    document.getElementById('streakBonus').textContent = `+${bonus.bonus} bonus!`;
+
+    popup.classList.remove('hidden');
+    popup.classList.remove('show');
+    void popup.offsetWidth; // Trigger reflow
+    popup.classList.add('show');
+
+    // Add bonus points
+    addPoints(bonus.bonus);
+
+    // Extra confetti for streaks
+    for (let i = 0; i < 3; i++) {
+        setTimeout(() => createConfetti(), i * 200);
+    }
+
+    setTimeout(() => {
+        popup.classList.add('hidden');
+        popup.classList.remove('show');
+    }, 2000);
 }
 
 function updateStats() {
@@ -246,6 +302,7 @@ function renderCategories() {
     const stats = getStats();
     document.getElementById('streak').textContent = stats.streak;
     document.getElementById('totalWords').textContent = stats.totalWords;
+    document.getElementById('totalPoints').textContent = stats.points || 0;
 
     // Show/hide floating practice button
     let totalNeedReview = 0;
@@ -376,6 +433,7 @@ async function startGlobalPractice() {
     currentCategory = { name: 'Mixed Practice', folder: null };
     currentTestIndex = 0;
     practiceResults = { correct: 0, wrong: 0 };
+    currentStreak = 0;
 
     showView('practiceView');
     showQuestion();
@@ -433,6 +491,7 @@ async function startPractice() {
 
     currentTestIndex = 0;
     practiceResults = { correct: 0, wrong: 0 };
+    currentStreak = 0;
 
     showView('practiceView');
     showQuestion();
@@ -464,6 +523,7 @@ async function startLearnNew() {
 
     currentTestIndex = 0;
     practiceResults = { correct: 0, wrong: 0 };
+    currentStreak = 0;
 
     showView('practiceView');
     showQuestion();
@@ -539,19 +599,32 @@ function selectAnswer(selectedIndex) {
         }
     });
 
-    // Update results
+    // Update results and points
     if (correct) {
         practiceResults.correct++;
-        createConfetti();
+        currentStreak++;
+
+        // Add points
+        addPoints(POINTS_PER_CORRECT);
+        showPointsAnimation(POINTS_PER_CORRECT, window.innerWidth / 2, window.innerHeight / 2 - 100);
+
+        // Check for streak bonus
+        if (STREAK_BONUSES[currentStreak]) {
+            setTimeout(() => showStreakPopup(currentStreak), 300);
+        } else {
+            createConfetti();
+        }
     } else {
         practiceResults.wrong++;
+        currentStreak = 0; // Reset streak on wrong answer
     }
 
     // Auto-advance after delay
+    const delay = STREAK_BONUSES[currentStreak] ? 2500 : (correct ? 800 : 1500);
     setTimeout(() => {
         currentTestIndex++;
         showQuestion();
-    }, correct ? 800 : 1500);
+    }, delay);
 }
 
 function nextQuestion() {

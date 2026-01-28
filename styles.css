@@ -480,6 +480,76 @@ body {
     50% { box-shadow: 0 10px 50px rgba(99, 102, 241, 0.6); }
 }
 
+/* Streak Popup */
+.streak-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    background: linear-gradient(135deg, #f59e0b, #ef4444);
+    padding: 40px 60px;
+    border-radius: 20px;
+    text-align: center;
+    z-index: 2000;
+    box-shadow: 0 20px 60px rgba(245, 158, 11, 0.5);
+    animation: none;
+}
+
+.streak-popup.show {
+    animation: streak-pop 2s ease forwards;
+}
+
+.streak-popup.hidden {
+    display: none;
+}
+
+@keyframes streak-pop {
+    0% { transform: translate(-50%, -50%) scale(0); opacity: 0; }
+    20% { transform: translate(-50%, -50%) scale(1.2); opacity: 1; }
+    30% { transform: translate(-50%, -50%) scale(1); }
+    80% { transform: translate(-50%, -50%) scale(1); opacity: 1; }
+    100% { transform: translate(-50%, -50%) scale(0); opacity: 0; }
+}
+
+.streak-icon {
+    font-size: 4rem;
+    margin-bottom: 10px;
+    animation: streak-bounce 0.5s ease infinite;
+}
+
+@keyframes streak-bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+.streak-text {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.streak-bonus {
+    font-size: 1.5rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* Points animation */
+.points-pop {
+    position: fixed;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #22c55e;
+    pointer-events: none;
+    z-index: 1500;
+    animation: points-float 1s ease forwards;
+}
+
+@keyframes points-float {
+    0% { transform: translateY(0); opacity: 1; }
+    100% { transform: translateY(-50px); opacity: 0; }
+}
+
 /* Confetti */
 .confetti {
     position: fixed;

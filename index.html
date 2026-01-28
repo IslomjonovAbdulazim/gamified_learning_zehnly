@@ -12,6 +12,7 @@
         <header class="header">
             <h1>Word Islands</h1>
             <div class="stats">
+                <span class="stat">💎 <span id="totalPoints">0</span> points</span>
                 <span class="stat">🔥 <span id="streak">0</span> day streak</span>
                 <span class="stat">⭐ <span id="totalWords">0</span> words learned</span>
                 <span class="stat options-setting">
@@ -98,6 +99,13 @@
                 </div>
             </section>
         </main>
+    </div>
+
+    <!-- Streak Popup -->
+    <div id="streakPopup" class="streak-popup hidden">
+        <div class="streak-icon" id="streakIcon">🔥</div>
+        <div class="streak-text" id="streakText">5 in a row!</div>
+        <div class="streak-bonus" id="streakBonus">+50 bonus!</div>
     </div>
 
     <script src="app.js"></script>
